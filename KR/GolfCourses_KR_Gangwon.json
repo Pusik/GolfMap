@@ -40,45 +40,45 @@
                     "courseName": "Masters Club C",
                     "holePars": [4, 4, 4, 5, 3, 4, 3, 5, 4],
                     "holeGreens": [
-                        {"latitude": 37.4783696, "longitude": 127.8582862},
-                        {"latitude": 37.4793696, "longitude": 127.8587862},
-                        {"latitude": 37.4798696, "longitude": 127.8582862},
-                        {"latitude": 37.4798696, "longitude": 127.8572862},
-                        {"latitude": 37.4788696, "longitude": 127.8562862},
-                        {"latitude": 37.4778696, "longitude": 127.8552862},
-                        {"latitude": 37.4768696, "longitude": 127.8557862},
-                        {"latitude": 37.4768696, "longitude": 127.8572862},
-                        {"latitude": 37.4778696, "longitude": 127.8587862}
+                        {"latitude": 37.4737083, "longitude": 127.8572639}, 
+                        {"latitude": 37.4714515, "longitude": 127.8597250}, 
+                        {"latitude": 37.4695238, "longitude": 127.8550146}, 
+                        {"latitude": 37.4732207, "longitude": 127.8577189}, 
+                        {"latitude": 37.4720234, "longitude": 127.8572700},
+                        {"latitude": 37.4702939, "longitude": 127.8544214},
+                        {"latitude": 37.4703832, "longitude": 127.8532864},
+                        {"latitude": 37.4740339, "longitude": 127.8555380},
+                        {"latitude": 37.4771747, "longitude": 127.8544828}, 
                     ]
                 },
                 {
                     "courseName": "Masters Club D",
                     "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
                     "holeGreens": [
-                        {"latitude": 37.4798696, "longitude": 127.8552862},
-                        {"latitude": 37.4793696, "longitude": 127.8542862},
-                        {"latitude": 37.4783696, "longitude": 127.8537862},
-                        {"latitude": 37.4773696, "longitude": 127.8537862},
-                        {"latitude": 37.4763696, "longitude": 127.8542862},
-                        {"latitude": 37.4758696, "longitude": 127.8552862},
-                        {"latitude": 37.4758696, "longitude": 127.8567862},
-                        {"latitude": 37.4768696, "longitude": 127.8582862},
-                        {"latitude": 37.4783696, "longitude": 127.8587862}
+                        {"latitude": 37.4743118, "longitude": 127.8547978},
+                        {"latitude": 37.4743118, "longitude": 127.8547978},
+                        {"latitude": 37.4751239, "longitude": 127.8533883},
+                        {"latitude": 37.4755246, "longitude": 127.8527994},
+                        {"latitude": 37.4716774, "longitude": 127.8528009},
+                        {"latitude": 37.4750873, "longitude": 127.8522150},
+                        {"latitude": 37.4730450, "longitude": 127.8518047},
+                        {"latitude": 37.4746907, "longitude": 127.8512977},
+                        {"latitude": 37.4776829, "longitude": 127.8533637}
                     ]
                 },
                 {
                     "courseName": "Masters Club E",
                     "holePars": [4, 4, 3, 3, 5, 4, 4, 4, 5],
                     "holeGreens": [
-                        {"latitude": 37.4778696, "longitude": 127.8537862},
-                        {"latitude": 37.4783696, "longitude": 127.8527862},
-                        {"latitude": 37.4793696, "longitude": 127.8527862},
-                        {"latitude": 37.4798696, "longitude": 127.8537862},
-                        {"latitude": 37.4793696, "longitude": 127.8547862},
-                        {"latitude": 37.4783696, "longitude": 127.8557862},
-                        {"latitude": 37.4773696, "longitude": 127.8567862},
-                        {"latitude": 37.4763696, "longitude": 127.8567862},
-                        {"latitude": 37.4763696, "longitude": 127.8557862}
+                        {"latitude": 37.4754375, "longitude": 127.8501926},
+                        {"latitude": 37.4784625, "longitude": 127.8520781},
+                        {"latitude": 37.4795904, "longitude": 127.8533967},
+                        {"latitude": 37.4805595, "longitude": 127.8533286},
+                        {"latitude": 37.4785900, "longitude": 127.8493776},
+                        {"latitude": 37.4794955, "longitude": 127.8522001},
+                        {"latitude": 37.4764948, "longitude": 127.8491334},
+                        {"latitude": 37.4746468, "longitude": 127.8498841},
+                        {"latitude": 37.4776295, "longitude": 127.8526368}
                     ]
                 }
             ],
