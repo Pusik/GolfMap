@@ -5,6 +5,7 @@
             "clubName": "사우스케이프 오너스클럽 (경남 남해군)",
             "latitude": 34.802145,
             "longitude": 128.061234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Sunrise Course",
@@ -46,6 +47,7 @@
             "clubName": "드비치 골프클럽 (경남 거제시)",
             "latitude": 34.981456,
             "longitude": 128.625123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -87,6 +89,7 @@
             "clubName": "에이원 컨트리클럽 (경남 양산시)",
             "latitude": 35.391234,
             "longitude": 129.135456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -144,6 +147,7 @@
             "clubName": "창원 컨트리클럽 (경남 창원시)",
             "latitude": 35.251234,
             "longitude": 128.663456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -201,6 +205,7 @@
             "clubName": "에덴밸리 컨트리클럽 (경남 양산시)",
             "latitude": 35.431123,
             "longitude": 128.971567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Eden Course",
@@ -242,6 +247,7 @@
             "clubName": "통도 파인이스트 컨트리클럽 (경남 양산시)",
             "latitude": 35.498123,
             "longitude": 129.061234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "North Course",
@@ -283,6 +289,7 @@
             "clubName": "롯데스카이힐 김해 컨트리클럽 (경남 김해시)",
             "latitude": 35.301234,
             "longitude": 128.802345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Sky Course",
@@ -324,6 +331,7 @@
             "clubName": "동원로얄 컨트리클럽 (경남 통영시)",
             "latitude": 34.812345,
             "longitude": 128.435678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Hansan Course",
@@ -365,6 +373,7 @@
             "clubName": "힐마루 컨트리클럽 (경남 창녕군)",
             "latitude": 35.512456,
             "longitude": 128.513456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Hill Course",
@@ -406,6 +415,7 @@
             "clubName": "진주 컨트리클럽 (경남 진주시)",
             "latitude": 35.215678,
             "longitude": 128.216789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Chokseok Course",

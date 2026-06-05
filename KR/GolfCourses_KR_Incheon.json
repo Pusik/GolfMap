@@ -5,6 +5,7 @@
             "clubName": "베어즈베스트 청라 골프클럽 (인천 서구)",
             "latitude": 37.545123,
             "longitude": 126.621345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Australasia Course",
@@ -62,6 +63,7 @@
             "clubName": "잭니클라우스 골프클럽 코리아 (인천 연수구)",
             "latitude": 37.381234,
             "longitude": 126.625456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Urban Course",
@@ -103,6 +105,7 @@
             "clubName": "인천국제 컨트리클럽 (인천 서구)",
             "latitude": 37.568345,
             "longitude": 126.643123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -144,6 +147,7 @@
             "clubName": "인천그랜드 컨트리클럽 (인천 서구)",
             "latitude": 37.551234,
             "longitude": 126.650123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -185,6 +189,7 @@
             "clubName": "오렌지듄스 영종 골프클럽 (인천 중구)",
             "latitude": 37.472134,
             "longitude": 126.438234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -226,6 +231,7 @@
             "clubName": "클럽72 하늘코스 (인천 중구)",
             "latitude": 37.474567,
             "longitude": 126.430123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -267,6 +273,7 @@
             "clubName": "클럽72 오션코스 (인천 중구)",
             "latitude": 37.458123,
             "longitude": 126.425234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -308,6 +315,7 @@
             "clubName": "드림파크 컨트리클럽 (인천 서구)",
             "latitude": 37.575234,
             "longitude": 126.618345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "파크 Out Course",

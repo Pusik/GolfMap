@@ -5,6 +5,7 @@
             "clubName": "파인비치 골프링크스 (전남 해남군)",
             "latitude": 34.646512,
             "longitude": 126.305412,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Pine Course",
@@ -46,6 +47,7 @@
             "clubName": "세이지우드 컨트리클럽 여수경도 (전남 여수시)",
             "latitude": 34.721234,
             "longitude": 127.734567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Geumodo Course",
@@ -103,6 +105,7 @@
             "clubName": "디오션 컨트리클럽 (전남 여수시)",
             "latitude": 34.708123,
             "longitude": 127.632345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "West Ocean Course",
@@ -144,6 +147,7 @@
             "clubName": "승주 컨트리클럽 (전남 순천시)",
             "latitude": 35.034567,
             "longitude": 127.345678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -201,6 +205,7 @@
             "clubName": "파인힐스 골프앤호텔 (전남 순천시)",
             "latitude": 34.981234,
             "longitude": 127.275432,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Pine Course",
@@ -258,6 +263,7 @@
             "clubName": "JNJ 골프리조트 (전남 장흥군)",
             "latitude": 34.738456,
             "longitude": 126.963567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Jeong Course",
@@ -315,6 +321,7 @@
             "clubName": "다산베아채 골프앤리조트 (전남 강진군)",
             "latitude": 34.542345,
             "longitude": 126.758901,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Dasan Course",
@@ -372,6 +379,7 @@
             "clubName": "보성 컨트리클럽 (전남 보성군)",
             "latitude": 34.801234,
             "longitude": 127.142345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Mountain Course",
@@ -413,6 +421,7 @@
             "clubName": "담양레이나 컨트리클럽 (전남 담양군)",
             "latitude": 35.312345,
             "longitude": 126.985678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Imperial Course",
@@ -454,6 +463,7 @@
             "clubName": "골드레이크 컨트리클럽 (전남 나주시)",
             "latitude": 34.931234,
             "longitude": 126.792345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Gold Course",
@@ -495,6 +505,7 @@
             "clubName": "여수 시티파크 컨트리클럽 (전남 여수시)",
             "latitude": 34.781204,
             "longitude": 127.702145,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "City Course",
@@ -536,6 +547,7 @@
             "clubName": "솔라시도 컨트리클럽 (전남 해남군)",
             "latitude": 34.622345,
             "longitude": 126.411234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Solar Course",
@@ -577,6 +589,7 @@
             "clubName": "웨스트오션 컨트리클럽 (전남 영광군)",
             "latitude": 35.342109,
             "longitude": 126.398901,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Ocean Course",
@@ -618,6 +631,7 @@
             "clubName": "무안 컨트리클럽 (전남 무안군)",
             "latitude": 35.042345,
             "longitude": 126.381234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "West A Course",
@@ -659,6 +673,7 @@
             "clubName": "화순 컨트리클럽 (전남 화순군)",
             "latitude": 34.992109,
             "longitude": 126.962109,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Spring Course",

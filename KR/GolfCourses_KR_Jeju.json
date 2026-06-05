@@ -5,6 +5,7 @@
             "clubName": "라온 컨트리클럽 (제주 제주시)",
             "latitude": 33.3486,
             "longitude": 126.2653,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -46,6 +47,7 @@
             "clubName": "엘리시안 제주 컨트리클럽 (제주 제주시)",
             "latitude": 33.3905,
             "longitude": 126.3902,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Ocean Course",
@@ -87,6 +89,7 @@
             "clubName": "캐슬렉스 제주 컨트리클럽 (제주 서귀포시)",
             "latitude": 33.3066,
             "longitude": 126.3303,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Hill Course",
@@ -128,6 +131,7 @@
             "clubName": "테디밸리 골프앤리조트 (제주 서귀포시)",
             "latitude": 33.3004,
             "longitude": 126.3872,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Teddy Course",
@@ -169,6 +173,7 @@
             "clubName": "해비치 컨트리클럽 제주 (제주 서귀포시)",
             "latitude": 33.3215,
             "longitude": 126.8442,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Ocean Course",
@@ -210,6 +215,7 @@
             "clubName": "오라 컨트리클럽 (제주 제주시)",
             "latitude": 33.4705,
             "longitude": 126.4983,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -251,6 +257,7 @@
             "clubName": "제주 컨트리클럽 (제주 제주시)",
             "latitude": 33.4902,
             "longitude": 126.4971,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -292,6 +299,7 @@
             "clubName": "부영 컨트리클럽 (제주 제주시)",
             "latitude": 33.4992,
             "longitude": 126.5172,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "North Course",
@@ -333,6 +341,7 @@
             "clubName": "에코랜드 골프클럽 (제주 제주시)",
             "latitude": 33.4477,
             "longitude": 126.6685,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Forest Course",
@@ -374,6 +383,7 @@
             "clubName": "세인트포 컨트리클럽 (제주 제주시)",
             "latitude": 33.4365,
             "longitude": 126.7305,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Saint Course",
@@ -415,6 +425,7 @@
             "clubName": "크라운 컨트리클럽 (제주 제주시)",
             "latitude": 33.4421,
             "longitude": 126.7251,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Crown Course",
@@ -456,6 +467,7 @@
             "clubName": "그린필드 컨트리클럽 (제주 제주시)",
             "latitude": 33.4555,
             "longitude": 126.6902,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Green Course",
@@ -497,6 +509,7 @@
             "clubName": "에버리스 컨트리클럽 (제주 제주시)",
             "latitude": 33.4012,
             "longitude": 126.4205,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Ever Course",
@@ -538,6 +551,7 @@
             "clubName": "아덴힐 컨트리클럽 (제주 제주시)",
             "latitude": 33.3793,
             "longitude": 126.3631,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Hill Course",
@@ -579,6 +593,7 @@
             "clubName": "타미우스 컨트리클럽 (제주 제주시)",
             "latitude": 33.3782,
             "longitude": 126.3385,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Tam Course",
@@ -620,6 +635,7 @@
             "clubName": "핀크스 골프클럽 (제주 서귀포시)",
             "latitude": 33.3056,
             "longitude": 126.3682,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -661,6 +677,7 @@
             "clubName": "클럽 나인브릿지 (제주 서귀포시)",
             "latitude": 33.3085,
             "longitude": 126.3751,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Creek Course",
@@ -702,6 +719,7 @@
             "clubName": "블랙스톤 제주 (제주 서귀포시)",
             "latitude": 33.3021,
             "longitude": 126.3405,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Black Course",
@@ -743,6 +761,7 @@
             "clubName": "롯데스카이힐 제주 (제주 서귀포시)",
             "latitude": 33.2915,
             "longitude": 126.3485,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Sky Course",
@@ -784,6 +803,7 @@
             "clubName": "중문 골프클럽 (제주 서귀포시)",
             "latitude": 33.2451,
             "longitude": 126.4093,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Seaside Course",
@@ -825,6 +845,7 @@
             "clubName": "우리들 컨트리클럽 (제주 서귀포시)",
             "latitude": 33.2875,
             "longitude": 126.5622,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -866,6 +887,7 @@
             "clubName": "더클래식 골프앤리조트 (제주 서귀포시)",
             "latitude": 33.3052,
             "longitude": 126.5284,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Classic Course",
@@ -907,6 +929,7 @@
             "clubName": "스프링데일 골프앤리조트 (제주 서귀포시)",
             "latitude": 33.3365,
             "longitude": 126.6515,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Spring Course",
@@ -948,6 +971,7 @@
             "clubName": "사이프러스 골프앤리조트 (제주 서귀포시)",
             "latitude": 33.3225,
             "longitude": 126.8242,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Cypress Course",
@@ -989,6 +1013,7 @@
             "clubName": "샤인빌파크 컨트리클럽 (제주 서귀포시)",
             "latitude": 33.3452,
             "longitude": 126.8122,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Shine Course",
@@ -1030,6 +1055,7 @@
             "clubName": "더 시에나 컨트리클럽 (제주 서귀포시)",
             "latitude": 33.3602,
             "longitude": 126.5091,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",

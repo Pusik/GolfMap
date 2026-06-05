@@ -5,6 +5,7 @@
             "clubName": "레이크사이드 골프클럽 (경기 용인)",
             "latitude": 37.320763396,
             "longitude": 127.1789276,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "South Course",
@@ -62,6 +63,7 @@
             "clubName": "남서울 컨트리클럽 (경기 성남시)",
             "latitude": 37.387213,
             "longitude": 127.102345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -103,6 +105,7 @@
             "clubName": "서원밸리 컨트리클럽 (경기 파주시)",
             "latitude": 37.818456,
             "longitude": 126.96321,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Seowon Course",
@@ -144,6 +147,7 @@
             "clubName": "가평베네스트 골프클럽 (경기 가평군)",
             "latitude": 37.864321,
             "longitude": 127.482109,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Maple Course",
@@ -201,6 +205,7 @@
             "clubName": "블랙스톤 이천 골프클럽 (경기 이천시)",
             "latitude": 37.215432,
             "longitude": 127.521345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "North Course",
@@ -258,6 +263,7 @@
             "clubName": "해슬리 나인브릿지 (경기 여주시)",
             "latitude": 37.243123,
             "longitude": 127.601234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "PGA Course",
@@ -299,6 +305,7 @@
             "clubName": "일동레이크 골프클럽 (경기 포천시)",
             "latitude": 37.982345,
             "longitude": 127.345678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Mountain Course",
@@ -340,6 +347,7 @@
             "clubName": "남촌 컨트리클럽 (경기 광주시)",
             "latitude": 37.341234,
             "longitude": 127.341234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -381,6 +389,7 @@
             "clubName": "안양 컨트리클럽 (경기 군포시)",
             "latitude": 37.351234,
             "longitude": 126.945678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -422,6 +431,7 @@
             "clubName": "수원 컨트리클럽 (경기 용인시)",
             "latitude": 37.215432,
             "longitude": 127.521345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "North Course",
@@ -479,6 +489,7 @@
             "clubName": "신원 컨트리클럽 (경기 용인시)",
             "latitude": 37.195678,
             "longitude": 127.241345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Ebenezer Course",
@@ -536,6 +547,7 @@
             "clubName": "88 컨트리클럽 (경기 용인시)",
             "latitude": 37.301123,
             "longitude": 127.135234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Dong Course",
@@ -577,6 +589,7 @@
             "clubName": "화산 컨트리클럽 (경기 용인시)",
             "latitude": 37.168234,
             "longitude": 127.241345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -618,6 +631,7 @@
             "clubName": "지산 컨트리클럽 (경기 용인시)",
             "latitude": 37.185345,
             "longitude": 127.324456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -675,6 +689,7 @@
             "clubName": "블루헤런 골프클럽 (경기 여주시)",
             "latitude": 37.408456,
             "longitude": 127.568567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -716,6 +731,7 @@
             "clubName": "자유 컨트리클럽 (경기 여주시)",
             "latitude": 37.215567,
             "longitude": 127.558678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -757,6 +773,7 @@
             "clubName": "페럼클럽 (경기 여주시)",
             "latitude": 37.182678,
             "longitude": 127.652789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -798,6 +815,7 @@
             "clubName": "솔모로 컨트리클럽 (경기 여주시)",
             "latitude": 37.201789,
             "longitude": 127.57589,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Pine Course",
@@ -839,6 +857,7 @@
             "clubName": "이스트밸리 컨트리클럽 (경기 광주시)",
             "latitude": 37.36589,
             "longitude": 127.385901,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -896,6 +915,7 @@
             "clubName": "렉스필드 컨트리클럽 (경기 광주시)",
             "latitude": 37.388901,
             "longitude": 127.425012,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -953,6 +973,7 @@
             "clubName": "곤지암 컨트리클럽 (경기 광주시)",
             "latitude": 37.325012,
             "longitude": 127.314123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -994,6 +1015,7 @@
             "clubName": "뉴서울 컨트리클럽 (경기 광주시)",
             "latitude": 37.389123,
             "longitude": 127.205234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Culture Course",
@@ -1035,6 +1057,7 @@
             "clubName": "웰링턴 컨트리클럽 (경기 이천시)",
             "latitude": 37.154234,
             "longitude": 127.412345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Griffin Course",
@@ -1092,6 +1115,7 @@
             "clubName": "사우스스프링스 컨트리클럽 (경기 이천시)",
             "latitude": 37.141345,
             "longitude": 127.432456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -1133,6 +1157,7 @@
             "clubName": "마이다스밸리 청평 골프클럽 (경기 가평군)",
             "latitude": 37.665456,
             "longitude": 127.421567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Valley Course",
@@ -1174,6 +1199,7 @@
             "clubName": "아난티 클럽 서울 (경기 가평군)",
             "latitude": 37.625567,
             "longitude": 127.468678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Zelkova Course",
@@ -1231,6 +1257,7 @@
             "clubName": "송추 컨트리클럽 (경기 양주시)",
             "latitude": 37.751678,
             "longitude": 126.965789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -1272,6 +1299,7 @@
             "clubName": "레이크우드 컨트리클럽 (경기 양주시)",
             "latitude": 37.795789,
             "longitude": 127.08589,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "산길(San-gil) Course",
@@ -1313,6 +1341,7 @@
             "clubName": "포천아도니스 컨트리클럽 (경기 포천시)",
             "latitude": 37.95289,
             "longitude": 127.156901,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "West Course",
@@ -1370,6 +1399,7 @@
             "clubName": "태광 컨트리클럽 (경기 용인시)",
             "latitude": 37.265901,
             "longitude": 127.091012,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Dong Course",
@@ -1411,6 +1441,7 @@
             "clubName": "스카이밸리 컨트리클럽 (경기 여주시)",
             "latitude": 37.382012,
             "longitude": 127.681123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Sky Course",
@@ -1452,6 +1483,7 @@
             "clubName": "골드 컨트리클럽 (경기 용인시)",
             "latitude": 37.228123,
             "longitude": 127.112345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Champion Out Course",
@@ -1493,6 +1525,7 @@
             "clubName": "코리아 컨트리클럽 (경기 용인시)",
             "latitude": 37.222345,
             "longitude": 127.117456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -1550,6 +1583,7 @@
             "clubName": "기흥 컨트리클럽 (경기 화성시)",
             "latitude": 37.195123,
             "longitude": 127.111234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -1591,6 +1625,7 @@
             "clubName": "리베라 컨트리클럽 (경기 화성시)",
             "latitude": 37.185234,
             "longitude": 127.108345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -1632,6 +1667,7 @@
             "clubName": "한성 컨트리클럽 (경기 용인시)",
             "latitude": 37.291345,
             "longitude": 127.105456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Orange Course",
@@ -1689,6 +1725,7 @@
             "clubName": "은화삼 컨트리클럽 (경기 용인시)",
             "latitude": 37.221456,
             "longitude": 127.221567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -1730,6 +1767,7 @@
             "clubName": "뉴코리아 컨트리클럽 (경기 고양시)",
             "latitude": 37.661567,
             "longitude": 126.861678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -1771,6 +1809,7 @@
             "clubName": "서서울 컨트리클럽 (경기 파주시)",
             "latitude": 37.731678,
             "longitude": 126.891789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Hill Course",
@@ -1812,6 +1851,7 @@
             "clubName": "제일 컨트리클럽 (경기 안산시)",
             "latitude": 37.281789,
             "longitude": 126.88189,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "South Course",
@@ -1869,6 +1909,7 @@
             "clubName": "발리오스 컨트리클럽 (경기 화성시)",
             "latitude": 37.13189,
             "longitude": 126.881901,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -1926,6 +1967,7 @@
             "clubName": "서울한양 컨트리클럽 (경기 고양시)",
             "latitude": 37.651901,
             "longitude": 126.851012,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Old Out Course",
@@ -1967,6 +2009,7 @@
             "clubName": "양주 컨트리클럽 (경기 남양주시)",
             "latitude": 37.651012,
             "longitude": 127.321123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -2008,6 +2051,7 @@
             "clubName": "해비치 컨트리클럽 서울 (경기 남양주시)",
             "latitude": 37.655123,
             "longitude": 127.315234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -2049,6 +2093,7 @@
             "clubName": "비전힐스 컨트리클럽 (경기 남양주시)",
             "latitude": 37.641234,
             "longitude": 127.281345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -2090,6 +2135,7 @@
             "clubName": "마에스트로 컨트리클럽 (경기 안성시)",
             "latitude": 37.101345,
             "longitude": 127.291456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -2131,6 +2177,7 @@
             "clubName": "파인크리크 컨트리클럽 (경기 안성시)",
             "latitude": 37.111456,
             "longitude": 127.311567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Pine Course",
@@ -2188,6 +2235,7 @@
             "clubName": "에덴블루 컨트리클럽 (경기 안성시)",
             "latitude": 37.081567,
             "longitude": 127.351678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -2245,6 +2293,7 @@
             "clubName": "프리스틴밸리 골프클럽 (경기 가평군)",
             "latitude": 37.681678,
             "longitude": 127.481789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Pristine Course",
@@ -2286,6 +2335,7 @@
             "clubName": "크리스탈밸리 컨트리클럽 (경기 가평군)",
             "latitude": 37.821789,
             "longitude": 127.38189,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Crystal Course",
@@ -2327,6 +2377,7 @@
             "clubName": "스마트KU 골프파빌리온 (경기 파주시)",
             "latitude": 37.83189,
             "longitude": 126.961901,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Honesty Course",
@@ -2384,6 +2435,7 @@
             "clubName": "썬밸리 컨트리클럽 (경기 여주시)",
             "latitude": 37.201456,
             "longitude": 127.701567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Sun Course",
@@ -2425,6 +2477,7 @@
             "clubName": "캐슬렉스 서울 골프클럽 (경기 하남시)",
             "latitude": 37.511567,
             "longitude": 127.201678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -2466,6 +2519,7 @@
             "clubName": "신라 컨트리클럽 (경기 여주시)",
             "latitude": 37.331678,
             "longitude": 127.651789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "South Course",
@@ -2523,6 +2577,7 @@
             "clubName": "이포 컨트리클럽 (경기 여주시)",
             "latitude": 37.381789,
             "longitude": 127.56189,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -2564,6 +2619,7 @@
             "clubName": "여주 컨트리클럽 (경기 여주시)",
             "latitude": 37.28189,
             "longitude": 127.591901,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Ace Course",
@@ -2621,6 +2677,7 @@
             "clubName": "아리지 컨트리클럽 (경기 여주시)",
             "latitude": 37.241901,
             "longitude": 127.551012,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "햇빛(Sunshine) Course",
@@ -2678,6 +2735,7 @@
             "clubName": "윈체스트 컨트리클럽 (경기 안성시)",
             "latitude": 37.061012,
             "longitude": 127.351123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Classic Course",
@@ -2719,6 +2777,7 @@
             "clubName": "안성베네스트 골프클럽 (경기 안성시)",
             "latitude": 37.111123,
             "longitude": 127.341234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "North Course",
@@ -2760,6 +2819,7 @@
             "clubName": "신안 컨트리클럽 (경기 안성시)",
             "latitude": 37.081234,
             "longitude": 127.331345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Apple Course",
@@ -2817,6 +2877,7 @@
             "clubName": "양평TPC 골프클럽 (경기 양평군)",
             "latitude": 37.421345,
             "longitude": 127.651456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lunar Course",
@@ -2874,6 +2935,7 @@
             "clubName": "중부 컨트리클럽 (경기 광주시)",
             "latitude": 37.381456,
             "longitude": 127.351567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -2915,6 +2977,7 @@
             "clubName": "캐슬파인 골프클럽 (경기 여주시)",
             "latitude": 37.281567,
             "longitude": 127.751678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Valley Course",
@@ -2956,6 +3019,7 @@
             "clubName": "해솔리아 컨트리클럽 (경기 용인시)",
             "latitude": 37.201678,
             "longitude": 127.181789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Hae Course",
@@ -3013,6 +3077,7 @@
             "clubName": "아시아나 컨트리클럽 (경기 용인시)",
             "latitude": 37.231789,
             "longitude": 127.27189,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -3054,6 +3119,7 @@
             "clubName": "용인 컨트리클럽 (경기 용인시)",
             "latitude": 37.18189,
             "longitude": 127.351901,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Yongin Course",
@@ -3095,6 +3161,7 @@
             "clubName": "써닝포인트 컨트리클럽 (경기 용인시)",
             "latitude": 37.151901,
             "longitude": 127.351012,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Sun Course",
@@ -3136,6 +3203,7 @@
             "clubName": "한림용인 컨트리클럽 (경기 용인시)",
             "latitude": 37.152012,
             "longitude": 127.281123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Ruby Course",
@@ -3193,6 +3261,7 @@
             "clubName": "세라지오 컨트리클럽 (경기 여주시)",
             "latitude": 37.341123,
             "longitude": 127.651234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Cera Course",
@@ -3234,6 +3303,7 @@
             "clubName": "뉴스프링빌 컨트리클럽 (경기 이천시)",
             "latitude": 37.151234,
             "longitude": 127.521345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Rocky Course",
@@ -3275,6 +3345,7 @@
             "clubName": "에이치원 클럽 (경기 이천시)",
             "latitude": 37.241345,
             "longitude": 127.381456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Mountain Course",
@@ -3316,6 +3387,7 @@
             "clubName": "플라자CC 용인 (경기 용인시)",
             "latitude": 37.182134,
             "longitude": 127.135456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Tiger Course",
@@ -3357,6 +3429,7 @@
             "clubName": "한원 컨트리클럽 (경기 용인시)",
             "latitude": 37.151234,
             "longitude": 127.165678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Goguryeo Course",
@@ -3414,6 +3487,7 @@
             "clubName": "남여주 골프클럽 (경기 여주시)",
             "latitude": 37.241567,
             "longitude": 127.601234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Garam Course",
@@ -3471,6 +3545,7 @@
             "clubName": "그린힐 컨트리클럽 (경기 광주시)",
             "latitude": 37.381567,
             "longitude": 127.321678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -3512,6 +3587,7 @@
             "clubName": "큐로 컨트리클럽 (경기 광주시)",
             "latitude": 37.321678,
             "longitude": 127.361789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Pine Course",
@@ -3569,6 +3645,7 @@
             "clubName": "비에이비스타 컨트리클럽 (경기 이천시)",
             "latitude": 37.161789,
             "longitude": 127.39189,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Monti Course",
@@ -3626,6 +3703,7 @@
             "clubName": "마이다스 레이크 이천 (경기 이천시)",
             "latitude": 37.18189,
             "longitude": 127.421901,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Olympus Course",
@@ -3683,6 +3761,7 @@
             "clubName": "실크밸리 골프클럽 (경기 이천시)",
             "latitude": 37.121901,
             "longitude": 127.481012,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Silk Course",
@@ -3740,6 +3819,7 @@
             "clubName": "골프존카운티 안성Q (경기 안성시)",
             "latitude": 37.061012,
             "longitude": 127.401123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Pampas Course",
@@ -3781,6 +3861,7 @@
             "clubName": "골프존카운티 안성H (경기 안성시)",
             "latitude": 37.081123,
             "longitude": 127.361234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -3822,6 +3903,7 @@
             "clubName": "화성상록 골프클럽 (경기 화성시)",
             "latitude": 37.191234,
             "longitude": 127.081345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -3863,6 +3945,7 @@
             "clubName": "베어크리크 포천 (경기 포천시)",
             "latitude": 37.821345,
             "longitude": 127.281456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Bear Course",
@@ -3904,6 +3987,7 @@
             "clubName": "대유몽베르 컨트리클럽 (경기 포천시)",
             "latitude": 38.011456,
             "longitude": 127.311567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Printemps Course",
@@ -3945,6 +4029,7 @@
             "clubName": "푸른솔 포천 골프클럽 (경기 포천시)",
             "latitude": 37.961567,
             "longitude": 127.241678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -4002,6 +4087,7 @@
             "clubName": "필로스 컨트리클럽 (경기 포천시)",
             "latitude": 37.941678,
             "longitude": 127.281789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -4059,6 +4145,7 @@
             "clubName": "포천힐스 컨트리클럽 (경기 포천시)",
             "latitude": 37.891789,
             "longitude": 127.23189,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Castle Course",
@@ -4116,6 +4203,7 @@
             "clubName": "서원힐스 컨트리클럽 (경기 파주시)",
             "latitude": 37.82189,
             "longitude": 126.961901,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -4173,6 +4261,7 @@
             "clubName": "노스팜 컨트리클럽 (경기 파주시)",
             "latitude": 37.861901,
             "longitude": 126.951012,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -4214,6 +4303,7 @@
             "clubName": "파주 컨트리클럽 (경기 파주시)",
             "latitude": 37.891012,
             "longitude": 126.921123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -4255,6 +4345,7 @@
             "clubName": "타이거 컨트리클럽 (경기 파주시)",
             "latitude": 37.911123,
             "longitude": 126.931234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Gaon Course",
@@ -4296,6 +4387,7 @@
             "clubName": "강남300 컨트리클럽 (경기 광주시)",
             "latitude": 37.361123,
             "longitude": 127.171234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -4337,6 +4429,7 @@
             "clubName": "더스타휴 골프앤리조트 (경기 양평군)",
             "latitude": 37.521234,
             "longitude": 127.651345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Star Course",
@@ -4378,6 +4471,7 @@
             "clubName": "썬힐 골프클럽 (경기 가평군)",
             "latitude": 37.821345,
             "longitude": 127.351456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Sun Course",
@@ -4435,6 +4529,7 @@
             "clubName": "리앤리 컨트리클럽 (경기 가평군)",
             "latitude": 37.841456,
             "longitude": 127.361567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -4492,6 +4587,7 @@
             "clubName": "양지파인 컨트리클럽 (경기 용인시)",
             "latitude": 37.211567,
             "longitude": 127.281678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "South Course",
@@ -4549,6 +4645,7 @@
             "clubName": "금강 컨트리클럽 (경기 여주시)",
             "latitude": 37.241678,
             "longitude": 127.621789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "West Course",
@@ -4606,6 +4703,7 @@
             "clubName": "안성 컨트리클럽 (경기 안성시)",
             "latitude": 37.051789,
             "longitude": 127.32189,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -4647,6 +4745,7 @@
             "clubName": "골프존카운티 안성W (경기 안성시)",
             "latitude": 37.12189,
             "longitude": 127.241901,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -4688,6 +4787,7 @@
             "clubName": "동여주 체력단련장 (경기 여주시)",
             "latitude": 37.361901,
             "longitude": 127.681012,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -4729,6 +4829,7 @@
             "clubName": "더크로스비 골프클럽 (경기 이천시)",
             "latitude": 37.211012,
             "longitude": 127.381123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Aria Course",
@@ -4786,6 +4887,7 @@
             "clubName": "360도 컨트리클럽 (경기 여주시)",
             "latitude": 37.251123,
             "longitude": 127.661234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -4827,6 +4929,7 @@
             "clubName": "루트52 컨트리클럽 (경기 여주시)",
             "latitude": 37.381234,
             "longitude": 127.621345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Route Course",
@@ -4868,6 +4971,7 @@
             "clubName": "소피아그린 컨트리클럽 (경기 여주시)",
             "latitude": 37.191345,
             "longitude": 127.641456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Sejong Course",
@@ -4925,6 +5029,7 @@
             "clubName": "자유로 컨트리클럽 (경기 연천군)",
             "latitude": 38.041456,
             "longitude": 126.921567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Daehan Course",
@@ -4982,6 +5087,7 @@
             "clubName": "샴발라 컨트리클럽 (경기 포천시)",
             "latitude": 37.831567,
             "longitude": 127.181678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -5023,6 +5129,7 @@
             "clubName": "라싸 골프클럽 (경기 포천시)",
             "latitude": 38.061678,
             "longitude": 127.381789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -5080,6 +5187,7 @@
             "clubName": "한림광릉 컨트리클럽 (경기 남양주시)",
             "latitude": 37.761789,
             "longitude": 127.18189,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Gleneagles Course",
@@ -5121,6 +5229,7 @@
             "clubName": "김포씨사이드 컨트리클럽 (경기 김포시)",
             "latitude": 37.72189,
             "longitude": 126.541901,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "South Course",
@@ -5162,6 +5271,7 @@
             "clubName": "티클라우드 컨트리클럽 (경기 동두천시)",
             "latitude": 37.891901,
             "longitude": 127.081012,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Bichon Course",
@@ -5203,6 +5313,7 @@
             "clubName": "더헤븐 컨트리클럽 (경기 안산시)",
             "latitude": 37.241012,
             "longitude": 126.581123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",

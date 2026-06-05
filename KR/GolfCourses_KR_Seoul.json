@@ -5,6 +5,7 @@
             "clubName": "태릉 체력단련장 (서울 노원구)",
             "latitude": 37.632145,
             "longitude": 127.104234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "화랑(Hwarang) Course",

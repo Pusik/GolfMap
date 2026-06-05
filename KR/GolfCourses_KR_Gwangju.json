@@ -5,6 +5,7 @@
             "clubName": "어등산 컨트리클럽 (광주 광산구)",
             "latitude": 35.161123,
             "longitude": 126.782345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "어등(Eodeung) Course",

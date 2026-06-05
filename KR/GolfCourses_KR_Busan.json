@@ -5,6 +5,7 @@
             "clubName": "아시아드 컨트리클럽 (부산 기장군)",
             "latitude": 35.291234,
             "longitude": 129.215678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Pine Course",
@@ -62,6 +63,7 @@
             "clubName": "해운대 컨트리클럽 (부산 기장군)",
             "latitude": 35.340123,
             "longitude": 129.175432,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Royal Course",
@@ -119,6 +121,7 @@
             "clubName": "동래베네스트 골프클럽 (부산 금정구)",
             "latitude": 35.265432,
             "longitude": 129.091234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -160,6 +163,7 @@
             "clubName": "부산 컨트리클럽 (부산 금정구)",
             "latitude": 35.282345,
             "longitude": 129.098765,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -201,6 +205,7 @@
             "clubName": "해운대비치 골프앤리조트 (부산 기장군)",
             "latitude": 35.281234,
             "longitude": 129.231456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Mountain Course",
@@ -242,6 +247,7 @@
             "clubName": "스톤게이트 컨트리클럽 (부산 기장군)",
             "latitude": 35.334567,
             "longitude": 129.241234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Stone Course",

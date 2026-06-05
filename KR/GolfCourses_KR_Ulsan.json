@@ -5,6 +5,7 @@
             "clubName": "보라 컨트리클럽 (울산 울주군)",
             "latitude": 35.539301,
             "longitude": 129.131742,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Edward Course",
@@ -62,6 +63,7 @@
             "clubName": "울산 컨트리클럽 (울산 울주군)",
             "latitude": 35.485123,
             "longitude": 129.186645,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Dong Course",
@@ -119,6 +121,7 @@
             "clubName": "베이스타즈 컨트리클럽 (울산 북구)",
             "latitude": 35.602511,
             "longitude": 129.418722,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Bay Course",
@@ -160,6 +163,7 @@
             "clubName": "골프존카운티 더골프 (울산 울주군)",
             "latitude": 35.378712,
             "longitude": 129.317545,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Ocean Course",

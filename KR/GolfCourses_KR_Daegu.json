@@ -5,6 +5,7 @@
             "clubName": "팔공 컨트리클럽 (대구 동구)",
             "latitude": 35.986123,
             "longitude": 128.665234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -46,6 +47,7 @@
             "clubName": "군위 오펠 골프클럽 (대구 군위군)",
             "latitude": 36.192345,
             "longitude": 128.623456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "산울(Sanul) Course",
@@ -87,6 +89,7 @@
             "clubName": "구니 컨트리클럽 (대구 군위군)",
             "latitude": 36.145678,
             "longitude": 128.675789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",

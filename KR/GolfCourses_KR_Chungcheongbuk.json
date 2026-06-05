@@ -5,6 +5,7 @@
             "clubName": "클럽디보은 컨트리클럽/구.속리산CC (충북 보은군)",
             "latitude": 36.4991364,
             "longitude": 127.7909754,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -46,6 +47,7 @@
             "clubName": "킹스데일 골프클럽 (충북 충주시)",
             "latitude": 37.018812,
             "longitude": 127.842234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -87,6 +89,7 @@
             "clubName": "대영베이스 컨트리클럽 (충북 충주시)",
             "latitude": 36.985521,
             "longitude": 127.854112,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "In Course",
@@ -128,6 +131,7 @@
             "clubName": "코스카 컨트리클럽 (충북 음성군)",
             "latitude": 36.953422,
             "longitude": 127.654388,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Happiness Course",
@@ -169,6 +173,7 @@
             "clubName": "세일 컨트리클럽 (충북 충주시)",
             "latitude": 37.054115,
             "longitude": 127.822994,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "산길 Course",
@@ -210,6 +215,7 @@
             "clubName": "감곡 컨트리클럽 (충북 음성군)",
             "latitude": 37.108992,
             "longitude": 127.643211,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Peach Course",
@@ -251,6 +257,7 @@
             "clubName": "떼제베 컨트리클럽 (충북 청주시)",
             "latitude": 36.671234,
             "longitude": 127.354122,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "North Course",
@@ -292,6 +299,7 @@
             "clubName": "임페리얼레이크 컨트리클럽 (충북 충주시)",
             "latitude": 37.025671,
             "longitude": 127.881234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Pine Course",
@@ -333,6 +341,7 @@
             "clubName": "동촌 골프클럽 (충북 충주시)",
             "latitude": 37.051234,
             "longitude": 127.810987,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -374,6 +383,7 @@
             "clubName": "일레븐 컨트리클럽 (충북 충주시)",
             "latitude": 37.128765,
             "longitude": 127.854321,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Mountain Course",
@@ -415,6 +425,7 @@
             "clubName": "블랙스톤 벨포레 컨트리클럽 (충북 증평군)",
             "latitude": 36.821456,
             "longitude": 127.592345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Mountain Course",
@@ -456,6 +467,7 @@
             "clubName": "젠스필드 컨트리클럽 (충북 음성군)",
             "latitude": 37.072345,
             "longitude": 127.571234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Dragon Course",
@@ -497,6 +509,7 @@
             "clubName": "히든밸리 컨트리클럽 (충북 진천군)",
             "latitude": 36.883456,
             "longitude": 127.462345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Hidden Course",
@@ -538,6 +551,7 @@
             "clubName": "천룡 컨트리클럽 (충북 진천군)",
             "latitude": 36.914567,
             "longitude": 127.413456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "청룡 Course",
@@ -579,6 +593,7 @@
             "clubName": "킹즈락 컨트리클럽 (충북 제천시)",
             "latitude": 37.145678,
             "longitude": 128.184567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "South Course",
@@ -620,6 +635,7 @@
             "clubName": "클럽디 보은 (충북 보은군)",
             "latitude": 36.486789,
             "longitude": 127.755678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -661,6 +677,7 @@
             "clubName": "대영힐스 컨트리클럽 (충북 충주시)",
             "latitude": 36.98421,
             "longitude": 127.85102,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "청(靑) Course",
@@ -702,6 +719,7 @@
             "clubName": "시그너스 컨트리클럽 (충북 충주시)",
             "latitude": 37.112341,
             "longitude": 127.765432,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Silk Course",
@@ -743,6 +761,7 @@
             "clubName": "금강 센테리움 컨트리클럽 (충북 충주시)",
             "latitude": 37.065432,
             "longitude": 127.821098,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "England Course",
@@ -784,6 +803,7 @@
             "clubName": "진양밸리 컨트리클럽 (충북 음성군)",
             "latitude": 37.087654,
             "longitude": 127.54321,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Hill Course",
@@ -825,6 +845,7 @@
             "clubName": "레인보우힐스 컨트리클럽 (충북 음성군)",
             "latitude": 37.054321,
             "longitude": 127.654321,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "South Course",
@@ -866,6 +887,7 @@
             "clubName": "일죽 썬밸리 컨트리클럽 (충북 음성군)",
             "latitude": 37.098765,
             "longitude": 127.56789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Sun Course",
@@ -907,6 +929,7 @@
             "clubName": "골프존카운티 화랑 (충북 진천군)",
             "latitude": 36.854321,
             "longitude": 127.432109,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Hwa Course",
@@ -948,6 +971,7 @@
             "clubName": "골프존카운티 진천 (충북 진천군)",
             "latitude": 36.876543,
             "longitude": 127.456789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -989,6 +1013,7 @@
             "clubName": "세레니티 컨트리클럽 (충북 청주시)",
             "latitude": 36.54321,
             "longitude": 127.321098,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Silk Course",
@@ -1030,6 +1055,7 @@
             "clubName": "그랜드 컨트리클럽 (충북 청주시)",
             "latitude": 36.654321,
             "longitude": 127.432109,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -1071,6 +1097,7 @@
             "clubName": "이븐데일 골프앤리조트 (충북 청주시)",
             "latitude": 36.678901,
             "longitude": 127.56789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Even Course",
@@ -1112,6 +1139,7 @@
             "clubName": "중원 골프클럽 (충북 충주시)",
             "latitude": 37.032109,
             "longitude": 127.890123,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Goguryeo Course",
@@ -1153,6 +1181,7 @@
             "clubName": "올데이 골프앤리조트 (충북 충주시)",
             "latitude": 37.089012,
             "longitude": 127.832109,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",
@@ -1194,6 +1223,7 @@
             "clubName": "로얄포레 컨트리클럽 (충북 충주시)",
             "latitude": 37.012345,
             "longitude": 127.84321,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Royal Course",
@@ -1235,6 +1265,7 @@
             "clubName": "대호단양 컨트리클럽 (충북 단양군)",
             "latitude": 37.010987,
             "longitude": 128.321098,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Mountain Course",
@@ -1276,6 +1307,7 @@
             "clubName": "아난티 중앙 골프클럽 (충북 진천군)",
             "latitude": 36.921345,
             "longitude": 127.421567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Mountain Course",
@@ -1317,6 +1349,7 @@
             "clubName": "일라이트 컨트리클럽 (충북 영동군)",
             "latitude": 36.175432,
             "longitude": 127.784321,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Illite Course",
@@ -1358,6 +1391,7 @@
             "clubName": "모나크 컨트리클럽 (충북 음성군)",
             "latitude": 36.94321,
             "longitude": 127.654321,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Grand Course",
@@ -1399,6 +1433,7 @@
             "clubName": "에콜리안 제천 골프장 (충북 제천시)",
             "latitude": 37.154321,
             "longitude": 128.232109,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Eco Course",
@@ -1440,6 +1475,7 @@
             "clubName": "클럽디 속리산 (충북 보은군)",
             "latitude": 36.499136,
             "longitude": 127.790975,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",

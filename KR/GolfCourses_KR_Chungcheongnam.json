@@ -5,6 +5,7 @@
             "clubName": "우정힐스 컨트리클럽 (충남 천안시)",
             "latitude": 36.766345,
             "longitude": 127.223847,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -46,6 +47,7 @@
             "clubName": "도고 컨트리클럽 (충남 아산시)",
             "latitude": 36.75821,
             "longitude": 126.938102,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -87,6 +89,7 @@
             "clubName": "파인스톤 컨트리클럽 (충남 당진시)",
             "latitude": 36.936541,
             "longitude": 126.711234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Pine Course",
@@ -128,6 +131,7 @@
             "clubName": "골든베이 골프앤리조트 (충남 태안군)",
             "latitude": 36.685432,
             "longitude": 126.216543,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Ocean Course",
@@ -169,6 +173,7 @@
             "clubName": "로얄링스 컨트리클럽 (충남 태안군)",
             "latitude": 36.762109,
             "longitude": 126.29789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "King Course",
@@ -210,6 +215,7 @@
             "clubName": "솔라고 컨트리클럽 (충남 태안군)",
             "latitude": 36.765432,
             "longitude": 126.302109,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Sol Course",
@@ -251,6 +257,7 @@
             "clubName": "백제 컨트리클럽 (충남 부여군)",
             "latitude": 36.311098,
             "longitude": 126.852345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Hansung Course",
@@ -292,6 +299,7 @@
             "clubName": "롯데스카이힐 부여 컨트리클럽 (충남 부여군)",
             "latitude": 36.296543,
             "longitude": 126.892109,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Hill Course",
@@ -333,6 +341,7 @@
             "clubName": "아름다운 컨트리클럽 (충남 아산시)",
             "latitude": 36.850123,
             "longitude": 126.980345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Hill Course",
@@ -374,6 +383,7 @@
             "clubName": "마론뉴데이 컨트리클럽 (충남 천안시)",
             "latitude": 36.755678,
             "longitude": 127.265432,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Dream Course",
@@ -415,6 +425,7 @@
             "clubName": "서산수 골프앤리조트 (충남 서산시)",
             "latitude": 36.98211,
             "longitude": 126.42534,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Seosan Course",
@@ -456,6 +467,7 @@
             "clubName": "천안상록 컨트리클럽 (충남 천안시)",
             "latitude": 36.76452,
             "longitude": 127.312105,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Nam Course",
@@ -497,6 +509,7 @@
             "clubName": "골프존카운티 천안 (충남 천안시)",
             "latitude": 36.78125,
             "longitude": 127.28451,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -538,6 +551,7 @@
             "clubName": "프린세스 골프클럽 (충남 공주시)",
             "latitude": 36.56413,
             "longitude": 127.12345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Pine Course",
@@ -579,6 +593,7 @@
             "clubName": "스톤비치 컨트리클럽 (충남 태안군)",
             "latitude": 36.68124,
             "longitude": 126.24351,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Stone Course",
@@ -620,6 +635,7 @@
             "clubName": "에딘버러 컨트리클럽 (충남 금산군)",
             "latitude": 36.14235,
             "longitude": 127.43216,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Mountain Course",
@@ -661,6 +677,7 @@
             "clubName": "플라밍고 컨트리클럽 (충남 당진시)",
             "latitude": 36.96321,
             "longitude": 126.70214,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Links Course",
@@ -702,6 +719,7 @@
             "clubName": "아리스타 컨트리클럽 (충남 논산시)",
             "latitude": 36.21345,
             "longitude": 127.15432,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lake Course",

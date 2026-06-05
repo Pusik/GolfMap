@@ -5,6 +5,7 @@
             "clubName": "블루원 상주 컨트리클럽 (경북 상주시)",
             "latitude": 36.315234,
             "longitude": 127.971345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -46,6 +47,7 @@
             "clubName": "선산 컨트리클럽 (경북 구미시)",
             "latitude": 36.195123,
             "longitude": 128.343456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -87,6 +89,7 @@
             "clubName": "블루원 디아너스 컨트리클럽 (경북 경주시)",
             "latitude": 35.823456,
             "longitude": 129.289567,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Valley Course",
@@ -144,6 +147,7 @@
             "clubName": "마우나오션 컨트리클럽 (경북 경주시)",
             "latitude": 35.688123,
             "longitude": 129.351234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Mauna Course",
@@ -185,6 +189,7 @@
             "clubName": "대구 컨트리클럽 (경북 경산시)",
             "latitude": 35.852345,
             "longitude": 128.805678,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "East Course",
@@ -242,6 +247,7 @@
             "clubName": "오션힐스 포항 컨트리클럽 (경북 포항시)",
             "latitude": 36.208123,
             "longitude": 129.378234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Hill Course",
@@ -299,6 +305,7 @@
             "clubName": "경주 컨트리클럽 (경북 경주시)",
             "latitude": 35.845678,
             "longitude": 129.255789,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Sun Course",
@@ -356,6 +363,7 @@
             "clubName": "문경 골프클럽 (경북 문경시)",
             "latitude": 36.634123,
             "longitude": 128.161234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Munhee Course",
@@ -397,6 +405,7 @@
             "clubName": "보문 골프클럽 (경북 경주시)",
             "latitude": 35.836123,
             "longitude": 129.278234,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Out Course",
@@ -438,6 +447,7 @@
             "clubName": "영천 오펠 골프클럽 (경북 영천시)",
             "latitude": 35.952345,
             "longitude": 128.891456,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Garam Course",

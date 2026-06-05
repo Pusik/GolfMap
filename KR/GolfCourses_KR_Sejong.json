@@ -5,6 +5,7 @@
             "clubName": "세종필드 골프클럽 (세종시)",
             "latitude": 36.529813,
             "longitude": 127.248102,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Sejong Course",
@@ -46,6 +47,7 @@
             "clubName": "세종에머슨 컨트리클럽 (세종시)",
             "latitude": 36.628812,
             "longitude": 127.18521,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Lakes Course",
@@ -103,6 +105,7 @@
             "clubName": "레이캐슬 골프앤리조트 (세종시)",
             "latitude": 36.611234,
             "longitude": 127.201345,
+            "hasVerifiedGPS": false,
             "courses": [
                 {
                     "courseName": "Sejong Course",
