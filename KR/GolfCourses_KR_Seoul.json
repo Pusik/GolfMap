@@ -1,0 +1,46 @@
+{
+    "region": "서울특별시",
+    "clubs": [
+        {
+            "clubName": "태릉 체력단련장 (서울 노원구)",
+            "latitude": 37.632145,
+            "longitude": 127.104234,
+            "courses": [
+                {
+                    "courseName": "화랑(Hwarang) Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 37.632145, "longitude": 127.105234},
+                        {"latitude": 37.633145, "longitude": 127.107234},
+                        {"latitude": 37.634145, "longitude": 127.109234},
+                        {"latitude": 37.635145, "longitude": 127.108234},
+                        {"latitude": 37.636145, "longitude": 127.106234},
+                        {"latitude": 37.635145, "longitude": 127.104234},
+                        {"latitude": 37.634145, "longitude": 127.103234},
+                        {"latitude": 37.633145, "longitude": 127.104234},
+                        {"latitude": 37.632145, "longitude": 127.106234}
+                    ]
+                },
+                {
+                    "courseName": "을지(Eulji) Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 37.637145, "longitude": 127.105234},
+                        {"latitude": 37.638145, "longitude": 127.107234},
+                        {"latitude": 37.639145, "longitude": 127.109234},
+                        {"latitude": 37.640145, "longitude": 127.108234},
+                        {"latitude": 37.641145, "longitude": 127.106234},
+                        {"latitude": 37.640145, "longitude": 127.104234},
+                        {"latitude": 37.639145, "longitude": 127.103234},
+                        {"latitude": 37.638145, "longitude": 127.104234},
+                        {"latitude": 37.637145, "longitude": 127.106234}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["화랑(Hwarang) Course", "을지(Eulji) Course"],
+                ["을지(Eulji) Course", "화랑(Hwarang) Course"]
+            ]
+        }
+    ]
+}

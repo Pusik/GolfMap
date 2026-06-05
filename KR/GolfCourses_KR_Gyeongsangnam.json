@@ -1,0 +1,447 @@
+{
+    "region": "경상남도",
+    "clubs": [
+        {
+            "clubName": "사우스케이프 오너스클럽 (경남 남해군)",
+            "latitude": 34.802145,
+            "longitude": 128.061234,
+            "courses": [
+                {
+                    "courseName": "Sunrise Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 34.802145, "longitude": 128.062234},
+                        {"latitude": 34.803145, "longitude": 128.064234},
+                        {"latitude": 34.804145, "longitude": 128.066234},
+                        {"latitude": 34.805145, "longitude": 128.065234},
+                        {"latitude": 34.806145, "longitude": 128.063234},
+                        {"latitude": 34.805145, "longitude": 128.061234},
+                        {"latitude": 34.804145, "longitude": 128.060234},
+                        {"latitude": 34.803145, "longitude": 128.061234},
+                        {"latitude": 34.802145, "longitude": 128.063234}
+                    ]
+                },
+                {
+                    "courseName": "Sunset Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 34.807145, "longitude": 128.062234},
+                        {"latitude": 34.808145, "longitude": 128.064234},
+                        {"latitude": 34.809145, "longitude": 128.066234},
+                        {"latitude": 34.810145, "longitude": 128.065234},
+                        {"latitude": 34.811145, "longitude": 128.063234},
+                        {"latitude": 34.810145, "longitude": 128.061234},
+                        {"latitude": 34.809145, "longitude": 128.060234},
+                        {"latitude": 34.808145, "longitude": 128.061234},
+                        {"latitude": 34.807145, "longitude": 128.063234}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Sunrise Course", "Sunset Course"],
+                ["Sunset Course", "Sunrise Course"]
+            ]
+        },
+        {
+            "clubName": "드비치 골프클럽 (경남 거제시)",
+            "latitude": 34.981456,
+            "longitude": 128.625123,
+            "courses": [
+                {
+                    "courseName": "Out Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 34.981456, "longitude": 128.626123},
+                        {"latitude": 34.982456, "longitude": 128.628123},
+                        {"latitude": 34.983456, "longitude": 128.630123},
+                        {"latitude": 34.984456, "longitude": 128.629123},
+                        {"latitude": 34.985456, "longitude": 128.627123},
+                        {"latitude": 34.984456, "longitude": 128.625123},
+                        {"latitude": 34.983456, "longitude": 128.624123},
+                        {"latitude": 34.982456, "longitude": 128.625123},
+                        {"latitude": 34.981456, "longitude": 128.627123}
+                    ]
+                },
+                {
+                    "courseName": "In Course",
+                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 34.986456, "longitude": 128.626123},
+                        {"latitude": 34.987456, "longitude": 128.628123},
+                        {"latitude": 34.988456, "longitude": 128.630123},
+                        {"latitude": 34.989456, "longitude": 128.629123},
+                        {"latitude": 34.990456, "longitude": 128.627123},
+                        {"latitude": 34.989456, "longitude": 128.625123},
+                        {"latitude": 34.988456, "longitude": 128.624123},
+                        {"latitude": 34.987456, "longitude": 128.625123},
+                        {"latitude": 34.986456, "longitude": 128.627123}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Out Course", "In Course"],
+                ["In Course", "Out Course"]
+            ]
+        },
+        {
+            "clubName": "에이원 컨트리클럽 (경남 양산시)",
+            "latitude": 35.391234,
+            "longitude": 129.135456,
+            "courses": [
+                {
+                    "courseName": "East Course",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.391234, "longitude": 129.136456},
+                        {"latitude": 35.392234, "longitude": 129.138456},
+                        {"latitude": 35.393234, "longitude": 129.140456},
+                        {"latitude": 35.394234, "longitude": 129.139456},
+                        {"latitude": 35.395234, "longitude": 129.137456},
+                        {"latitude": 35.394234, "longitude": 129.135456},
+                        {"latitude": 35.393234, "longitude": 129.134456},
+                        {"latitude": 35.392234, "longitude": 129.135456},
+                        {"latitude": 35.391234, "longitude": 129.137456}
+                    ]
+                },
+                {
+                    "courseName": "South Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.396234, "longitude": 129.136456},
+                        {"latitude": 35.397234, "longitude": 129.138456},
+                        {"latitude": 35.398234, "longitude": 129.140456},
+                        {"latitude": 35.399234, "longitude": 129.139456},
+                        {"latitude": 35.400234, "longitude": 129.137456},
+                        {"latitude": 35.399234, "longitude": 129.135456},
+                        {"latitude": 35.398234, "longitude": 129.134456},
+                        {"latitude": 35.397234, "longitude": 129.135456},
+                        {"latitude": 35.396234, "longitude": 129.137456}
+                    ]
+                },
+                {
+                    "courseName": "West Course",
+                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "holeGreens": [
+                        {"latitude": 35.391234, "longitude": 129.146456},
+                        {"latitude": 35.392234, "longitude": 129.148456},
+                        {"latitude": 35.393234, "longitude": 129.150456},
+                        {"latitude": 35.394234, "longitude": 129.149456},
+                        {"latitude": 35.395234, "longitude": 129.147456},
+                        {"latitude": 35.394234, "longitude": 129.145456},
+                        {"latitude": 35.393234, "longitude": 129.144456},
+                        {"latitude": 35.392234, "longitude": 129.145456},
+                        {"latitude": 35.391234, "longitude": 129.147456}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["East Course", "South Course"],
+                ["South Course", "West Course"],
+                ["West Course", "East Course"]
+            ]
+        },
+        {
+            "clubName": "창원 컨트리클럽 (경남 창원시)",
+            "latitude": 35.251234,
+            "longitude": 128.663456,
+            "courses": [
+                {
+                    "courseName": "East Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.251234, "longitude": 128.664456},
+                        {"latitude": 35.252234, "longitude": 128.666456},
+                        {"latitude": 35.253234, "longitude": 128.668456},
+                        {"latitude": 35.254234, "longitude": 128.667456},
+                        {"latitude": 35.255234, "longitude": 128.665456},
+                        {"latitude": 35.254234, "longitude": 128.663456},
+                        {"latitude": 35.253234, "longitude": 128.662456},
+                        {"latitude": 35.252234, "longitude": 128.663456},
+                        {"latitude": 35.251234, "longitude": 128.665456}
+                    ]
+                },
+                {
+                    "courseName": "West Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.256234, "longitude": 128.664456},
+                        {"latitude": 35.257234, "longitude": 128.666456},
+                        {"latitude": 35.258234, "longitude": 128.668456},
+                        {"latitude": 35.259234, "longitude": 128.667456},
+                        {"latitude": 35.260234, "longitude": 128.665456},
+                        {"latitude": 35.259234, "longitude": 128.663456},
+                        {"latitude": 35.258234, "longitude": 128.662456},
+                        {"latitude": 35.257234, "longitude": 128.663456},
+                        {"latitude": 35.256234, "longitude": 128.665456}
+                    ]
+                },
+                {
+                    "courseName": "South Course",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.251234, "longitude": 128.674456},
+                        {"latitude": 35.252234, "longitude": 128.676456},
+                        {"latitude": 35.253234, "longitude": 128.678456},
+                        {"latitude": 35.254234, "longitude": 128.677456},
+                        {"latitude": 35.255234, "longitude": 128.675456},
+                        {"latitude": 35.254234, "longitude": 128.673456},
+                        {"latitude": 35.253234, "longitude": 128.672456},
+                        {"latitude": 35.252234, "longitude": 128.673456},
+                        {"latitude": 35.251234, "longitude": 128.675456}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["East Course", "West Course"],
+                ["West Course", "South Course"],
+                ["South Course", "East Course"]
+            ]
+        },
+        {
+            "clubName": "에덴밸리 컨트리클럽 (경남 양산시)",
+            "latitude": 35.431123,
+            "longitude": 128.971567,
+            "courses": [
+                {
+                    "courseName": "Eden Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.431123, "longitude": 128.972567},
+                        {"latitude": 35.432123, "longitude": 128.974567},
+                        {"latitude": 35.433123, "longitude": 128.976567},
+                        {"latitude": 35.434123, "longitude": 128.975567},
+                        {"latitude": 35.435123, "longitude": 128.973567},
+                        {"latitude": 35.434123, "longitude": 128.971567},
+                        {"latitude": 35.433123, "longitude": 128.970567},
+                        {"latitude": 35.432123, "longitude": 128.971567},
+                        {"latitude": 35.431123, "longitude": 128.973567}
+                    ]
+                },
+                {
+                    "courseName": "Valley Course",
+                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.436123, "longitude": 128.972567},
+                        {"latitude": 35.437123, "longitude": 128.974567},
+                        {"latitude": 35.438123, "longitude": 128.976567},
+                        {"latitude": 35.439123, "longitude": 128.975567},
+                        {"latitude": 35.440123, "longitude": 128.973567},
+                        {"latitude": 35.439123, "longitude": 128.971567},
+                        {"latitude": 35.438123, "longitude": 128.970567},
+                        {"latitude": 35.437123, "longitude": 128.971567},
+                        {"latitude": 35.436123, "longitude": 128.973567}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Eden Course", "Valley Course"],
+                ["Valley Course", "Eden Course"]
+            ]
+        },
+        {
+            "clubName": "통도 파인이스트 컨트리클럽 (경남 양산시)",
+            "latitude": 35.498123,
+            "longitude": 129.061234,
+            "courses": [
+                {
+                    "courseName": "North Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.498123, "longitude": 129.062234},
+                        {"latitude": 35.499123, "longitude": 129.064234},
+                        {"latitude": 35.500123, "longitude": 129.066234},
+                        {"latitude": 35.501123, "longitude": 129.065234},
+                        {"latitude": 35.502123, "longitude": 129.063234},
+                        {"latitude": 35.501123, "longitude": 129.061234},
+                        {"latitude": 35.500123, "longitude": 129.060234},
+                        {"latitude": 35.499123, "longitude": 129.061234},
+                        {"latitude": 35.498123, "longitude": 129.063234}
+                    ]
+                },
+                {
+                    "courseName": "South Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.503123, "longitude": 129.062234},
+                        {"latitude": 35.504123, "longitude": 129.064234},
+                        {"latitude": 35.505123, "longitude": 129.066234},
+                        {"latitude": 35.506123, "longitude": 129.065234},
+                        {"latitude": 35.507123, "longitude": 129.063234},
+                        {"latitude": 35.506123, "longitude": 129.061234},
+                        {"latitude": 35.505123, "longitude": 129.060234},
+                        {"latitude": 35.504123, "longitude": 129.061234},
+                        {"latitude": 35.503123, "longitude": 129.063234}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["North Course", "South Course"],
+                ["South Course", "North Course"]
+            ]
+        },
+        {
+            "clubName": "롯데스카이힐 김해 컨트리클럽 (경남 김해시)",
+            "latitude": 35.301234,
+            "longitude": 128.802345,
+            "courses": [
+                {
+                    "courseName": "Sky Course",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.301234, "longitude": 128.803345},
+                        {"latitude": 35.302234, "longitude": 128.805345},
+                        {"latitude": 35.303234, "longitude": 128.807345},
+                        {"latitude": 35.304234, "longitude": 128.806345},
+                        {"latitude": 35.305234, "longitude": 128.804345},
+                        {"latitude": 35.304234, "longitude": 128.802345},
+                        {"latitude": 35.303234, "longitude": 128.801345},
+                        {"latitude": 35.302234, "longitude": 128.802345},
+                        {"latitude": 35.301234, "longitude": 128.804345}
+                    ]
+                },
+                {
+                    "courseName": "Hill Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.306234, "longitude": 128.803345},
+                        {"latitude": 35.307234, "longitude": 128.805345},
+                        {"latitude": 35.308234, "longitude": 128.807345},
+                        {"latitude": 35.309234, "longitude": 128.806345},
+                        {"latitude": 35.310234, "longitude": 128.804345},
+                        {"latitude": 35.309234, "longitude": 128.802345},
+                        {"latitude": 35.308234, "longitude": 128.801345},
+                        {"latitude": 35.307234, "longitude": 128.802345},
+                        {"latitude": 35.306234, "longitude": 128.804345}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Sky Course", "Hill Course"],
+                ["Hill Course", "Sky Course"]
+            ]
+        },
+        {
+            "clubName": "동원로얄 컨트리클럽 (경남 통영시)",
+            "latitude": 34.812345,
+            "longitude": 128.435678,
+            "courses": [
+                {
+                    "courseName": "Hansan Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 34.812345, "longitude": 128.436678},
+                        {"latitude": 34.813345, "longitude": 128.438678},
+                        {"latitude": 34.814345, "longitude": 128.440678},
+                        {"latitude": 34.815345, "longitude": 128.439678},
+                        {"latitude": 34.816345, "longitude": 128.437678},
+                        {"latitude": 34.815345, "longitude": 128.435678},
+                        {"latitude": 34.814345, "longitude": 128.434678},
+                        {"latitude": 34.813345, "longitude": 128.435678},
+                        {"latitude": 34.812345, "longitude": 128.437678}
+                    ]
+                },
+                {
+                    "courseName": "Mireuk Course",
+                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "holeGreens": [
+                        {"latitude": 34.817345, "longitude": 128.436678},
+                        {"latitude": 34.818345, "longitude": 128.438678},
+                        {"latitude": 34.819345, "longitude": 128.440678},
+                        {"latitude": 34.820345, "longitude": 128.439678},
+                        {"latitude": 34.821345, "longitude": 128.437678},
+                        {"latitude": 34.820345, "longitude": 128.435678},
+                        {"latitude": 34.819345, "longitude": 128.434678},
+                        {"latitude": 34.818345, "longitude": 128.435678},
+                        {"latitude": 34.817345, "longitude": 128.437678}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Hansan Course", "Mireuk Course"],
+                ["Mireuk Course", "Hansan Course"]
+            ]
+        },
+        {
+            "clubName": "힐마루 컨트리클럽 (경남 창녕군)",
+            "latitude": 35.512456,
+            "longitude": 128.513456,
+            "courses": [
+                {
+                    "courseName": "Hill Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.512456, "longitude": 128.514456},
+                        {"latitude": 35.513456, "longitude": 128.516456},
+                        {"latitude": 35.514456, "longitude": 128.518456},
+                        {"latitude": 35.515456, "longitude": 128.517456},
+                        {"latitude": 35.516456, "longitude": 128.515456},
+                        {"latitude": 35.515456, "longitude": 128.513456},
+                        {"latitude": 35.514456, "longitude": 128.512456},
+                        {"latitude": 35.513456, "longitude": 128.513456},
+                        {"latitude": 35.512456, "longitude": 128.515456}
+                    ]
+                },
+                {
+                    "courseName": "Maru Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.517456, "longitude": 128.514456},
+                        {"latitude": 35.518456, "longitude": 128.516456},
+                        {"latitude": 35.519456, "longitude": 128.518456},
+                        {"latitude": 35.520456, "longitude": 128.517456},
+                        {"latitude": 35.521456, "longitude": 128.515456},
+                        {"latitude": 35.520456, "longitude": 128.513456},
+                        {"latitude": 35.519456, "longitude": 128.512456},
+                        {"latitude": 35.518456, "longitude": 128.513456},
+                        {"latitude": 35.517456, "longitude": 128.515456}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Hill Course", "Maru Course"],
+                ["Maru Course", "Hill Course"]
+            ]
+        },
+        {
+            "clubName": "진주 컨트리클럽 (경남 진주시)",
+            "latitude": 35.215678,
+            "longitude": 128.216789,
+            "courses": [
+                {
+                    "courseName": "Chokseok Course",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.215678, "longitude": 128.217789},
+                        {"latitude": 35.216678, "longitude": 128.219789},
+                        {"latitude": 35.217678, "longitude": 128.221789},
+                        {"latitude": 35.218678, "longitude": 128.220789},
+                        {"latitude": 35.219678, "longitude": 128.218789},
+                        {"latitude": 35.218678, "longitude": 128.216789},
+                        {"latitude": 35.217678, "longitude": 128.215789},
+                        {"latitude": 35.216678, "longitude": 128.216789},
+                        {"latitude": 35.215678, "longitude": 128.218789}
+                    ]
+                },
+                {
+                    "courseName": "Namgang Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.220678, "longitude": 128.217789},
+                        {"latitude": 35.221678, "longitude": 128.219789},
+                        {"latitude": 35.222678, "longitude": 128.221789},
+                        {"latitude": 35.223678, "longitude": 128.220789},
+                        {"latitude": 35.224678, "longitude": 128.218789},
+                        {"latitude": 35.223678, "longitude": 128.216789},
+                        {"latitude": 35.222678, "longitude": 128.215789},
+                        {"latitude": 35.221678, "longitude": 128.216789},
+                        {"latitude": 35.220678, "longitude": 128.218789}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Chokseok Course", "Namgang Course"],
+                ["Namgang Course", "Chokseok Course"]
+            ]
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "region": "광주광역시",
+    "clubs": [
+        {
+            "clubName": "어등산 컨트리클럽 (광주 광산구)",
+            "latitude": 35.161123,
+            "longitude": 126.782345,
+            "courses": [
+                {
+                    "courseName": "어등(Eodeung) Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.161123, "longitude": 126.783345},
+                        {"latitude": 35.162123, "longitude": 126.785345},
+                        {"latitude": 35.163123, "longitude": 126.787345},
+                        {"latitude": 35.164123, "longitude": 126.786345},
+                        {"latitude": 35.165123, "longitude": 126.784345},
+                        {"latitude": 35.164123, "longitude": 126.782345},
+                        {"latitude": 35.163123, "longitude": 126.781345},
+                        {"latitude": 35.162123, "longitude": 126.782345},
+                        {"latitude": 35.161123, "longitude": 126.784345}
+                    ]
+                },
+                {
+                    "courseName": "송정(Songjeong) Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.166123, "longitude": 126.783345},
+                        {"latitude": 35.167123, "longitude": 126.785345},
+                        {"latitude": 35.168123, "longitude": 126.787345},
+                        {"latitude": 35.169123, "longitude": 126.786345},
+                        {"latitude": 35.170123, "longitude": 126.784345},
+                        {"latitude": 35.169123, "longitude": 126.782345},
+                        {"latitude": 35.168123, "longitude": 126.781345},
+                        {"latitude": 35.167123, "longitude": 126.782345},
+                        {"latitude": 35.166123, "longitude": 126.784345}
+                    ]
+                },
+                {
+                    "courseName": "하남(Hanam) Course",
+                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "holeGreens": [
+                        {"latitude": 35.161123, "longitude": 126.793345},
+                        {"latitude": 35.162123, "longitude": 126.795345},
+                        {"latitude": 35.163123, "longitude": 126.797345},
+                        {"latitude": 35.164123, "longitude": 126.796345},
+                        {"latitude": 35.165123, "longitude": 126.794345},
+                        {"latitude": 35.164123, "longitude": 126.792345},
+                        {"latitude": 35.163123, "longitude": 126.791345},
+                        {"latitude": 35.162123, "longitude": 126.792345},
+                        {"latitude": 35.161123, "longitude": 126.794345}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["어등(Eodeung) Course", "송정(Songjeong) Course"],
+                ["송정(Songjeong) Course", "하남(Hanam) Course"],
+                ["하남(Hanam) Course", "어등(Eodeung) Course"]
+            ]
+        }
+    ]
+}

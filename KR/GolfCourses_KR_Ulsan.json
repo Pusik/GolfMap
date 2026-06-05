@@ -1,0 +1,201 @@
+{
+    "region": "울산광역시",
+    "clubs": [
+        {
+            "clubName": "보라 컨트리클럽 (울산 울주군)",
+            "latitude": 35.539301,
+            "longitude": 129.131742,
+            "courses": [
+                {
+                    "courseName": "Edward Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.539301, "longitude": 129.132742},
+                        {"latitude": 35.540301, "longitude": 129.134742},
+                        {"latitude": 35.541301, "longitude": 129.136742},
+                        {"latitude": 35.542301, "longitude": 129.135742},
+                        {"latitude": 35.543301, "longitude": 129.133742},
+                        {"latitude": 35.542301, "longitude": 129.131742},
+                        {"latitude": 35.541301, "longitude": 129.130742},
+                        {"latitude": 35.540301, "longitude": 129.131742},
+                        {"latitude": 35.539301, "longitude": 129.133742}
+                    ]
+                },
+                {
+                    "courseName": "Henry Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.544301, "longitude": 129.132742},
+                        {"latitude": 35.545301, "longitude": 129.134742},
+                        {"latitude": 35.546301, "longitude": 129.136742},
+                        {"latitude": 35.547301, "longitude": 129.135742},
+                        {"latitude": 35.548301, "longitude": 129.133742},
+                        {"latitude": 35.547301, "longitude": 129.131742},
+                        {"latitude": 35.546301, "longitude": 129.130742},
+                        {"latitude": 35.545301, "longitude": 129.131742},
+                        {"latitude": 35.544301, "longitude": 129.133742}
+                    ]
+                },
+                {
+                    "courseName": "William Course",
+                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.539301, "longitude": 129.142742},
+                        {"latitude": 35.540301, "longitude": 129.144742},
+                        {"latitude": 35.541301, "longitude": 129.146742},
+                        {"latitude": 35.542301, "longitude": 129.145742},
+                        {"latitude": 35.543301, "longitude": 129.143742},
+                        {"latitude": 35.542301, "longitude": 129.141742},
+                        {"latitude": 35.541301, "longitude": 129.140742},
+                        {"latitude": 35.540301, "longitude": 129.141742},
+                        {"latitude": 35.539301, "longitude": 129.143742}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Edward Course", "Henry Course"],
+                ["Henry Course", "William Course"],
+                ["William Course", "Edward Course"]
+            ]
+        },
+        {
+            "clubName": "울산 컨트리클럽 (울산 울주군)",
+            "latitude": 35.485123,
+            "longitude": 129.186645,
+            "courses": [
+                {
+                    "courseName": "Dong Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.485123, "longitude": 129.187645},
+                        {"latitude": 35.486123, "longitude": 129.189645},
+                        {"latitude": 35.487123, "longitude": 129.191645},
+                        {"latitude": 35.488123, "longitude": 129.190645},
+                        {"latitude": 35.489123, "longitude": 129.188645},
+                        {"latitude": 35.488123, "longitude": 129.186645},
+                        {"latitude": 35.487123, "longitude": 129.185645},
+                        {"latitude": 35.486123, "longitude": 129.186645},
+                        {"latitude": 35.485123, "longitude": 129.188645}
+                    ]
+                },
+                {
+                    "courseName": "Nam Course",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.490123, "longitude": 129.187645},
+                        {"latitude": 35.491123, "longitude": 129.189645},
+                        {"latitude": 35.492123, "longitude": 129.191645},
+                        {"latitude": 35.493123, "longitude": 129.190645},
+                        {"latitude": 35.494123, "longitude": 129.188645},
+                        {"latitude": 35.493123, "longitude": 129.186645},
+                        {"latitude": 35.492123, "longitude": 129.185645},
+                        {"latitude": 35.491123, "longitude": 129.186645},
+                        {"latitude": 35.490123, "longitude": 129.188645}
+                    ]
+                },
+                {
+                    "courseName": "Seo Course",
+                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "holeGreens": [
+                        {"latitude": 35.485123, "longitude": 129.197645},
+                        {"latitude": 35.486123, "longitude": 129.199645},
+                        {"latitude": 35.487123, "longitude": 129.201645},
+                        {"latitude": 35.488123, "longitude": 129.200645},
+                        {"latitude": 35.489123, "longitude": 129.198645},
+                        {"latitude": 35.488123, "longitude": 129.196645},
+                        {"latitude": 35.487123, "longitude": 129.195645},
+                        {"latitude": 35.486123, "longitude": 129.196645},
+                        {"latitude": 35.485123, "longitude": 129.198645}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Dong Course", "Nam Course"],
+                ["Nam Course", "Seo Course"],
+                ["Seo Course", "Dong Course"]
+            ]
+        },
+        {
+            "clubName": "베이스타즈 컨트리클럽 (울산 북구)",
+            "latitude": 35.602511,
+            "longitude": 129.418722,
+            "courses": [
+                {
+                    "courseName": "Bay Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.602511, "longitude": 129.419722},
+                        {"latitude": 35.603511, "longitude": 129.421722},
+                        {"latitude": 35.604511, "longitude": 129.423722},
+                        {"latitude": 35.605511, "longitude": 129.422722},
+                        {"latitude": 35.606511, "longitude": 129.420722},
+                        {"latitude": 35.605511, "longitude": 129.418722},
+                        {"latitude": 35.604511, "longitude": 129.417722},
+                        {"latitude": 35.603511, "longitude": 129.418722},
+                        {"latitude": 35.602511, "longitude": 129.420722}
+                    ]
+                },
+                {
+                    "courseName": "Stars Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.607511, "longitude": 129.419722},
+                        {"latitude": 35.608511, "longitude": 129.421722},
+                        {"latitude": 35.609511, "longitude": 129.423722},
+                        {"latitude": 35.610511, "longitude": 129.422722},
+                        {"latitude": 35.611511, "longitude": 129.420722},
+                        {"latitude": 35.610511, "longitude": 129.418722},
+                        {"latitude": 35.609511, "longitude": 129.417722},
+                        {"latitude": 35.608511, "longitude": 129.418722},
+                        {"latitude": 35.607511, "longitude": 129.420722}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Bay Course", "Stars Course"],
+                ["Stars Course", "Bay Course"]
+            ]
+        },
+        {
+            "clubName": "골프존카운티 더골프 (울산 울주군)",
+            "latitude": 35.378712,
+            "longitude": 129.317545,
+            "courses": [
+                {
+                    "courseName": "Ocean Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.378712, "longitude": 129.318545},
+                        {"latitude": 35.379712, "longitude": 129.320545},
+                        {"latitude": 35.380712, "longitude": 129.322545},
+                        {"latitude": 35.381712, "longitude": 129.321545},
+                        {"latitude": 35.382712, "longitude": 129.319545},
+                        {"latitude": 35.381712, "longitude": 129.317545},
+                        {"latitude": 35.380712, "longitude": 129.316545},
+                        {"latitude": 35.379712, "longitude": 129.317545},
+                        {"latitude": 35.378712, "longitude": 129.319545}
+                    ]
+                },
+                {
+                    "courseName": "Rocky Course",
+                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.383712, "longitude": 129.318545},
+                        {"latitude": 35.384712, "longitude": 129.320545},
+                        {"latitude": 35.385712, "longitude": 129.322545},
+                        {"latitude": 35.386712, "longitude": 129.321545},
+                        {"latitude": 35.387712, "longitude": 129.319545},
+                        {"latitude": 35.386712, "longitude": 129.317545},
+                        {"latitude": 35.385712, "longitude": 129.316545},
+                        {"latitude": 35.384712, "longitude": 129.317545},
+                        {"latitude": 35.383712, "longitude": 129.319545}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Ocean Course", "Rocky Course"],
+                ["Rocky Course", "Ocean Course"]
+            ]
+        }
+    ]
+}

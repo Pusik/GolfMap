@@ -1,0 +1,743 @@
+{
+    "region": "충청남도",
+    "clubs": [
+        {
+            "clubName": "우정힐스 컨트리클럽 (충남 천안시)",
+            "latitude": 36.766345,
+            "longitude": 127.223847,
+            "courses": [
+                {
+                    "courseName": "Out Course",
+                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.766345, "longitude": 127.224847},
+                        {"latitude": 36.767345, "longitude": 127.226847},
+                        {"latitude": 36.768345, "longitude": 127.228847},
+                        {"latitude": 36.769345, "longitude": 127.227847},
+                        {"latitude": 36.770345, "longitude": 127.225847},
+                        {"latitude": 36.769345, "longitude": 127.223847},
+                        {"latitude": 36.768345, "longitude": 127.222847},
+                        {"latitude": 36.767345, "longitude": 127.223847},
+                        {"latitude": 36.766345, "longitude": 127.225847}
+                    ]
+                },
+                {
+                    "courseName": "In Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.771345, "longitude": 127.224847},
+                        {"latitude": 36.772345, "longitude": 127.226847},
+                        {"latitude": 36.773345, "longitude": 127.228847},
+                        {"latitude": 36.774345, "longitude": 127.227847},
+                        {"latitude": 36.775345, "longitude": 127.225847},
+                        {"latitude": 36.774345, "longitude": 127.223847},
+                        {"latitude": 36.773345, "longitude": 127.222847},
+                        {"latitude": 36.772345, "longitude": 127.223847},
+                        {"latitude": 36.771345, "longitude": 127.225847}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Out Course", "In Course"],
+                ["In Course", "Out Course"]
+            ]
+        },
+        {
+            "clubName": "도고 컨트리클럽 (충남 아산시)",
+            "latitude": 36.75821,
+            "longitude": 126.938102,
+            "courses": [
+                {
+                    "courseName": "Out Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.75821, "longitude": 126.939102},
+                        {"latitude": 36.75921, "longitude": 126.941102},
+                        {"latitude": 36.76021, "longitude": 126.943102},
+                        {"latitude": 36.76121, "longitude": 126.942102},
+                        {"latitude": 36.76221, "longitude": 126.940102},
+                        {"latitude": 36.76121, "longitude": 126.938102},
+                        {"latitude": 36.76021, "longitude": 126.937102},
+                        {"latitude": 36.75921, "longitude": 126.938102},
+                        {"latitude": 36.75821, "longitude": 126.940102}
+                    ]
+                },
+                {
+                    "courseName": "In Course",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 36.76321, "longitude": 126.939102},
+                        {"latitude": 36.76421, "longitude": 126.941102},
+                        {"latitude": 36.76521, "longitude": 126.943102},
+                        {"latitude": 36.76621, "longitude": 126.942102},
+                        {"latitude": 36.76721, "longitude": 126.940102},
+                        {"latitude": 36.76621, "longitude": 126.938102},
+                        {"latitude": 36.76521, "longitude": 126.937102},
+                        {"latitude": 36.76421, "longitude": 126.938102},
+                        {"latitude": 36.76321, "longitude": 126.940102}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Out Course", "In Course"],
+                ["In Course", "Out Course"]
+            ]
+        },
+        {
+            "clubName": "파인스톤 컨트리클럽 (충남 당진시)",
+            "latitude": 36.936541,
+            "longitude": 126.711234,
+            "courses": [
+                {
+                    "courseName": "Pine Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.936541, "longitude": 126.712234},
+                        {"latitude": 36.937541, "longitude": 126.714234},
+                        {"latitude": 36.938541, "longitude": 126.716234},
+                        {"latitude": 36.939541, "longitude": 126.715234},
+                        {"latitude": 36.940541, "longitude": 126.713234},
+                        {"latitude": 36.939541, "longitude": 126.711234},
+                        {"latitude": 36.938541, "longitude": 126.710234},
+                        {"latitude": 36.937541, "longitude": 126.711234},
+                        {"latitude": 36.936541, "longitude": 126.713234}
+                    ]
+                },
+                {
+                    "courseName": "Stone Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 36.941541, "longitude": 126.712234},
+                        {"latitude": 36.942541, "longitude": 126.714234},
+                        {"latitude": 36.943541, "longitude": 126.716234},
+                        {"latitude": 36.944541, "longitude": 126.715234},
+                        {"latitude": 36.945541, "longitude": 126.713234},
+                        {"latitude": 36.944541, "longitude": 126.711234},
+                        {"latitude": 36.943541, "longitude": 126.710234},
+                        {"latitude": 36.942541, "longitude": 126.711234},
+                        {"latitude": 36.941541, "longitude": 126.713234}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Pine Course", "Stone Course"],
+                ["Stone Course", "Pine Course"]
+            ]
+        },
+        {
+            "clubName": "골든베이 골프앤리조트 (충남 태안군)",
+            "latitude": 36.685432,
+            "longitude": 126.216543,
+            "courses": [
+                {
+                    "courseName": "Ocean Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.685432, "longitude": 126.217543},
+                        {"latitude": 36.686432, "longitude": 126.219543},
+                        {"latitude": 36.687432, "longitude": 126.221543},
+                        {"latitude": 36.688432, "longitude": 126.220543},
+                        {"latitude": 36.689432, "longitude": 126.218543},
+                        {"latitude": 36.688432, "longitude": 126.216543},
+                        {"latitude": 36.687432, "longitude": 126.215543},
+                        {"latitude": 36.686432, "longitude": 126.216543},
+                        {"latitude": 36.685432, "longitude": 126.218543}
+                    ]
+                },
+                {
+                    "courseName": "Valley Course",
+                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "holeGreens": [
+                        {"latitude": 36.690432, "longitude": 126.217543},
+                        {"latitude": 36.691432, "longitude": 126.219543},
+                        {"latitude": 36.692432, "longitude": 126.221543},
+                        {"latitude": 36.693432, "longitude": 126.220543},
+                        {"latitude": 36.694432, "longitude": 126.218543},
+                        {"latitude": 36.693432, "longitude": 126.216543},
+                        {"latitude": 36.692432, "longitude": 126.215543},
+                        {"latitude": 36.691432, "longitude": 126.216543},
+                        {"latitude": 36.690432, "longitude": 126.218543}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Ocean Course", "Valley Course"],
+                ["Valley Course", "Ocean Course"]
+            ]
+        },
+        {
+            "clubName": "로얄링스 컨트리클럽 (충남 태안군)",
+            "latitude": 36.762109,
+            "longitude": 126.29789,
+            "courses": [
+                {
+                    "courseName": "King Course",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 36.762109, "longitude": 126.29889},
+                        {"latitude": 36.763109, "longitude": 126.30089},
+                        {"latitude": 36.764109, "longitude": 126.30289},
+                        {"latitude": 36.765109, "longitude": 126.30189},
+                        {"latitude": 36.766109, "longitude": 126.29989},
+                        {"latitude": 36.765109, "longitude": 126.29789},
+                        {"latitude": 36.764109, "longitude": 126.29689},
+                        {"latitude": 36.763109, "longitude": 126.29789},
+                        {"latitude": 36.762109, "longitude": 126.29989}
+                    ]
+                },
+                {
+                    "courseName": "Queen Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.767109, "longitude": 126.29889},
+                        {"latitude": 36.768109, "longitude": 126.30089},
+                        {"latitude": 36.769109, "longitude": 126.30289},
+                        {"latitude": 36.770109, "longitude": 126.30189},
+                        {"latitude": 36.771109, "longitude": 126.29989},
+                        {"latitude": 36.770109, "longitude": 126.29789},
+                        {"latitude": 36.769109, "longitude": 126.29689},
+                        {"latitude": 36.768109, "longitude": 126.29789},
+                        {"latitude": 36.767109, "longitude": 126.29989}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["King Course", "Queen Course"],
+                ["Queen Course", "King Course"]
+            ]
+        },
+        {
+            "clubName": "솔라고 컨트리클럽 (충남 태안군)",
+            "latitude": 36.765432,
+            "longitude": 126.302109,
+            "courses": [
+                {
+                    "courseName": "Sol Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.765432, "longitude": 126.303109},
+                        {"latitude": 36.766432, "longitude": 126.305109},
+                        {"latitude": 36.767432, "longitude": 126.307109},
+                        {"latitude": 36.768432, "longitude": 126.306109},
+                        {"latitude": 36.769432, "longitude": 126.304109},
+                        {"latitude": 36.768432, "longitude": 126.302109},
+                        {"latitude": 36.767432, "longitude": 126.301109},
+                        {"latitude": 36.766432, "longitude": 126.302109},
+                        {"latitude": 36.765432, "longitude": 126.304109}
+                    ]
+                },
+                {
+                    "courseName": "Lago Course",
+                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.770432, "longitude": 126.303109},
+                        {"latitude": 36.771432, "longitude": 126.305109},
+                        {"latitude": 36.772432, "longitude": 126.307109},
+                        {"latitude": 36.773432, "longitude": 126.306109},
+                        {"latitude": 36.774432, "longitude": 126.304109},
+                        {"latitude": 36.773432, "longitude": 126.302109},
+                        {"latitude": 36.772432, "longitude": 126.301109},
+                        {"latitude": 36.771432, "longitude": 126.302109},
+                        {"latitude": 36.770432, "longitude": 126.304109}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Sol Course", "Lago Course"],
+                ["Lago Course", "Sol Course"]
+            ]
+        },
+        {
+            "clubName": "백제 컨트리클럽 (충남 부여군)",
+            "latitude": 36.311098,
+            "longitude": 126.852345,
+            "courses": [
+                {
+                    "courseName": "Hansung Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.311098, "longitude": 126.853345},
+                        {"latitude": 36.312098, "longitude": 126.855345},
+                        {"latitude": 36.313098, "longitude": 126.857345},
+                        {"latitude": 36.314098, "longitude": 126.856345},
+                        {"latitude": 36.315098, "longitude": 126.854345},
+                        {"latitude": 36.314098, "longitude": 126.852345},
+                        {"latitude": 36.313098, "longitude": 126.851345},
+                        {"latitude": 36.312098, "longitude": 126.852345},
+                        {"latitude": 36.311098, "longitude": 126.854345}
+                    ]
+                },
+                {
+                    "courseName": "Sabi Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 36.316098, "longitude": 126.853345},
+                        {"latitude": 36.317098, "longitude": 126.855345},
+                        {"latitude": 36.318098, "longitude": 126.857345},
+                        {"latitude": 36.319098, "longitude": 126.856345},
+                        {"latitude": 36.320098, "longitude": 126.854345},
+                        {"latitude": 36.319098, "longitude": 126.852345},
+                        {"latitude": 36.318098, "longitude": 126.851345},
+                        {"latitude": 36.317098, "longitude": 126.852345},
+                        {"latitude": 36.316098, "longitude": 126.854345}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Hansung Course", "Sabi Course"],
+                ["Sabi Course", "Hansung Course"]
+            ]
+        },
+        {
+            "clubName": "롯데스카이힐 부여 컨트리클럽 (충남 부여군)",
+            "latitude": 36.296543,
+            "longitude": 126.892109,
+            "courses": [
+                {
+                    "courseName": "Hill Course",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 36.296543, "longitude": 126.893109},
+                        {"latitude": 36.297543, "longitude": 126.895109},
+                        {"latitude": 36.298543, "longitude": 126.897109},
+                        {"latitude": 36.299543, "longitude": 126.896109},
+                        {"latitude": 36.300543, "longitude": 126.894109},
+                        {"latitude": 36.299543, "longitude": 126.892109},
+                        {"latitude": 36.298543, "longitude": 126.891109},
+                        {"latitude": 36.297543, "longitude": 126.892109},
+                        {"latitude": 36.296543, "longitude": 126.894109}
+                    ]
+                },
+                {
+                    "courseName": "Sky Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.301543, "longitude": 126.893109},
+                        {"latitude": 36.302543, "longitude": 126.895109},
+                        {"latitude": 36.303543, "longitude": 126.897109},
+                        {"latitude": 36.304543, "longitude": 126.896109},
+                        {"latitude": 36.305543, "longitude": 126.894109},
+                        {"latitude": 36.304543, "longitude": 126.892109},
+                        {"latitude": 36.303543, "longitude": 126.891109},
+                        {"latitude": 36.302543, "longitude": 126.892109},
+                        {"latitude": 36.301543, "longitude": 126.894109}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Hill Course", "Sky Course"],
+                ["Sky Course", "Hill Course"]
+            ]
+        },
+        {
+            "clubName": "아름다운 컨트리클럽 (충남 아산시)",
+            "latitude": 36.850123,
+            "longitude": 126.980345,
+            "courses": [
+                {
+                    "courseName": "Hill Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.850123, "longitude": 126.981345},
+                        {"latitude": 36.851123, "longitude": 126.983345},
+                        {"latitude": 36.852123, "longitude": 126.985345},
+                        {"latitude": 36.853123, "longitude": 126.984345},
+                        {"latitude": 36.854123, "longitude": 126.982345},
+                        {"latitude": 36.853123, "longitude": 126.980345},
+                        {"latitude": 36.852123, "longitude": 126.979345},
+                        {"latitude": 36.851123, "longitude": 126.980345},
+                        {"latitude": 36.850123, "longitude": 126.982345}
+                    ]
+                },
+                {
+                    "courseName": "Lake Course",
+                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "holeGreens": [
+                        {"latitude": 36.855123, "longitude": 126.981345},
+                        {"latitude": 36.856123, "longitude": 126.983345},
+                        {"latitude": 36.857123, "longitude": 126.985345},
+                        {"latitude": 36.858123, "longitude": 126.984345},
+                        {"latitude": 36.859123, "longitude": 126.982345},
+                        {"latitude": 36.858123, "longitude": 126.980345},
+                        {"latitude": 36.857123, "longitude": 126.979345},
+                        {"latitude": 36.856123, "longitude": 126.980345},
+                        {"latitude": 36.855123, "longitude": 126.982345}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Hill Course", "Lake Course"],
+                ["Lake Course", "Hill Course"]
+            ]
+        },
+        {
+            "clubName": "마론뉴데이 컨트리클럽 (충남 천안시)",
+            "latitude": 36.755678,
+            "longitude": 127.265432,
+            "courses": [
+                {
+                    "courseName": "Dream Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.755678, "longitude": 127.266432},
+                        {"latitude": 36.756678, "longitude": 127.268432},
+                        {"latitude": 36.757678, "longitude": 127.270432},
+                        {"latitude": 36.758678, "longitude": 127.269432},
+                        {"latitude": 36.759678, "longitude": 127.267432},
+                        {"latitude": 36.758678, "longitude": 127.265432},
+                        {"latitude": 36.757678, "longitude": 127.264432},
+                        {"latitude": 36.756678, "longitude": 127.265432},
+                        {"latitude": 36.755678, "longitude": 127.267432}
+                    ]
+                },
+                {
+                    "courseName": "Vision Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 36.760678, "longitude": 127.266432},
+                        {"latitude": 36.761678, "longitude": 127.268432},
+                        {"latitude": 36.762678, "longitude": 127.270432},
+                        {"latitude": 36.763678, "longitude": 127.269432},
+                        {"latitude": 36.764678, "longitude": 127.267432},
+                        {"latitude": 36.763678, "longitude": 127.265432},
+                        {"latitude": 36.762678, "longitude": 127.264432},
+                        {"latitude": 36.761678, "longitude": 127.265432},
+                        {"latitude": 36.760678, "longitude": 127.267432}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Dream Course", "Vision Course"],
+                ["Vision Course", "Dream Course"]
+            ]
+        },
+        {
+            "clubName": "서산수 골프앤리조트 (충남 서산시)",
+            "latitude": 36.98211,
+            "longitude": 126.42534,
+            "courses": [
+                {
+                    "courseName": "Seosan Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.98211, "longitude": 126.42634},
+                        {"latitude": 36.98311, "longitude": 126.42834},
+                        {"latitude": 36.98411, "longitude": 126.43034},
+                        {"latitude": 36.98511, "longitude": 126.42934},
+                        {"latitude": 36.98611, "longitude": 126.42734},
+                        {"latitude": 36.98511, "longitude": 126.42534},
+                        {"latitude": 36.98411, "longitude": 126.42434},
+                        {"latitude": 36.98311, "longitude": 126.42534},
+                        {"latitude": 36.98211, "longitude": 126.42734}
+                    ]
+                },
+                {
+                    "courseName": "Soo Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 36.98711, "longitude": 126.42634},
+                        {"latitude": 36.98811, "longitude": 126.42834},
+                        {"latitude": 36.98911, "longitude": 126.43034},
+                        {"latitude": 36.99011, "longitude": 126.42934},
+                        {"latitude": 36.99111, "longitude": 126.42734},
+                        {"latitude": 36.99011, "longitude": 126.42534},
+                        {"latitude": 36.98911, "longitude": 126.42434},
+                        {"latitude": 36.98811, "longitude": 126.42534},
+                        {"latitude": 36.98711, "longitude": 126.42734}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Seosan Course", "Soo Course"],
+                ["Soo Course", "Seosan Course"]
+            ]
+        },
+        {
+            "clubName": "천안상록 컨트리클럽 (충남 천안시)",
+            "latitude": 36.76452,
+            "longitude": 127.312105,
+            "courses": [
+                {
+                    "courseName": "Nam Course",
+                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.76452, "longitude": 127.313105},
+                        {"latitude": 36.76552, "longitude": 127.315105},
+                        {"latitude": 36.76652, "longitude": 127.317105},
+                        {"latitude": 36.76752, "longitude": 127.316105},
+                        {"latitude": 36.76852, "longitude": 127.314105},
+                        {"latitude": 36.76752, "longitude": 127.312105},
+                        {"latitude": 36.76652, "longitude": 127.311105},
+                        {"latitude": 36.76552, "longitude": 127.312105},
+                        {"latitude": 36.76452, "longitude": 127.314105}
+                    ]
+                },
+                {
+                    "courseName": "Jung Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.76952, "longitude": 127.313105},
+                        {"latitude": 36.77052, "longitude": 127.315105},
+                        {"latitude": 36.77152, "longitude": 127.317105},
+                        {"latitude": 36.77252, "longitude": 127.316105},
+                        {"latitude": 36.77352, "longitude": 127.314105},
+                        {"latitude": 36.77252, "longitude": 127.312105},
+                        {"latitude": 36.77152, "longitude": 127.311105},
+                        {"latitude": 36.77052, "longitude": 127.312105},
+                        {"latitude": 36.76952, "longitude": 127.314105}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Nam Course", "Jung Course"],
+                ["Jung Course", "Nam Course"]
+            ]
+        },
+        {
+            "clubName": "골프존카운티 천안 (충남 천안시)",
+            "latitude": 36.78125,
+            "longitude": 127.28451,
+            "courses": [
+                {
+                    "courseName": "Out Course",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 36.78125, "longitude": 127.28551},
+                        {"latitude": 36.78225, "longitude": 127.28751},
+                        {"latitude": 36.78325, "longitude": 127.28951},
+                        {"latitude": 36.78425, "longitude": 127.28851},
+                        {"latitude": 36.78525, "longitude": 127.28651},
+                        {"latitude": 36.78425, "longitude": 127.28451},
+                        {"latitude": 36.78325, "longitude": 127.28351},
+                        {"latitude": 36.78225, "longitude": 127.28451},
+                        {"latitude": 36.78125, "longitude": 127.28651}
+                    ]
+                },
+                {
+                    "courseName": "In Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.78625, "longitude": 127.28551},
+                        {"latitude": 36.78725, "longitude": 127.28751},
+                        {"latitude": 36.78825, "longitude": 127.28951},
+                        {"latitude": 36.78925, "longitude": 127.28851},
+                        {"latitude": 36.79025, "longitude": 127.28651},
+                        {"latitude": 36.78925, "longitude": 127.28451},
+                        {"latitude": 36.78825, "longitude": 127.28351},
+                        {"latitude": 36.78725, "longitude": 127.28451},
+                        {"latitude": 36.78625, "longitude": 127.28651}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Out Course", "In Course"],
+                ["In Course", "Out Course"]
+            ]
+        },
+        {
+            "clubName": "프린세스 골프클럽 (충남 공주시)",
+            "latitude": 36.56413,
+            "longitude": 127.12345,
+            "courses": [
+                {
+                    "courseName": "Pine Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.56413, "longitude": 127.12445},
+                        {"latitude": 36.56513, "longitude": 127.12645},
+                        {"latitude": 36.56613, "longitude": 127.12845},
+                        {"latitude": 36.56713, "longitude": 127.12745},
+                        {"latitude": 36.56813, "longitude": 127.12545},
+                        {"latitude": 36.56713, "longitude": 127.12345},
+                        {"latitude": 36.56613, "longitude": 127.12245},
+                        {"latitude": 36.56513, "longitude": 127.12345},
+                        {"latitude": 36.56413, "longitude": 127.12545}
+                    ]
+                },
+                {
+                    "courseName": "Valley Course",
+                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "holeGreens": [
+                        {"latitude": 36.56913, "longitude": 127.12445},
+                        {"latitude": 36.57013, "longitude": 127.12645},
+                        {"latitude": 36.57113, "longitude": 127.12845},
+                        {"latitude": 36.57213, "longitude": 127.12745},
+                        {"latitude": 36.57313, "longitude": 127.12545},
+                        {"latitude": 36.57213, "longitude": 127.12345},
+                        {"latitude": 36.57113, "longitude": 127.12245},
+                        {"latitude": 36.57013, "longitude": 127.12345},
+                        {"latitude": 36.56913, "longitude": 127.12545}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Pine Course", "Valley Course"],
+                ["Valley Course", "Pine Course"]
+            ]
+        },
+        {
+            "clubName": "스톤비치 컨트리클럽 (충남 태안군)",
+            "latitude": 36.68124,
+            "longitude": 126.24351,
+            "courses": [
+                {
+                    "courseName": "Stone Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.68124, "longitude": 126.24451},
+                        {"latitude": 36.68224, "longitude": 126.24651},
+                        {"latitude": 36.68324, "longitude": 126.24851},
+                        {"latitude": 36.68424, "longitude": 126.24751},
+                        {"latitude": 36.68524, "longitude": 126.24551},
+                        {"latitude": 36.68424, "longitude": 126.24351},
+                        {"latitude": 36.68324, "longitude": 126.24251},
+                        {"latitude": 36.68224, "longitude": 126.24351},
+                        {"latitude": 36.68124, "longitude": 126.24551}
+                    ]
+                },
+                {
+                    "courseName": "Beach Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 36.68624, "longitude": 126.24451},
+                        {"latitude": 36.68724, "longitude": 126.24651},
+                        {"latitude": 36.68824, "longitude": 126.24851},
+                        {"latitude": 36.68924, "longitude": 126.24751},
+                        {"latitude": 36.69024, "longitude": 126.24551},
+                        {"latitude": 36.68924, "longitude": 126.24351},
+                        {"latitude": 36.68824, "longitude": 126.24251},
+                        {"latitude": 36.68724, "longitude": 126.24351},
+                        {"latitude": 36.68624, "longitude": 126.24551}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Stone Course", "Beach Course"],
+                ["Beach Course", "Stone Course"]
+            ]
+        },
+        {
+            "clubName": "에딘버러 컨트리클럽 (충남 금산군)",
+            "latitude": 36.14235,
+            "longitude": 127.43216,
+            "courses": [
+                {
+                    "courseName": "Mountain Course",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 36.14235, "longitude": 127.43316},
+                        {"latitude": 36.14335, "longitude": 127.43516},
+                        {"latitude": 36.14435, "longitude": 127.43716},
+                        {"latitude": 36.14535, "longitude": 127.43616},
+                        {"latitude": 36.14635, "longitude": 127.43416},
+                        {"latitude": 36.14535, "longitude": 127.43216},
+                        {"latitude": 36.14435, "longitude": 127.43116},
+                        {"latitude": 36.14335, "longitude": 127.43216},
+                        {"latitude": 36.14235, "longitude": 127.43416}
+                    ]
+                },
+                {
+                    "courseName": "Valley Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.14735, "longitude": 127.43316},
+                        {"latitude": 36.14835, "longitude": 127.43516},
+                        {"latitude": 36.14935, "longitude": 127.43716},
+                        {"latitude": 36.15035, "longitude": 127.43616},
+                        {"latitude": 36.15135, "longitude": 127.43416},
+                        {"latitude": 36.15035, "longitude": 127.43216},
+                        {"latitude": 36.14935, "longitude": 127.43116},
+                        {"latitude": 36.14835, "longitude": 127.43216},
+                        {"latitude": 36.14735, "longitude": 127.43416}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Mountain Course", "Valley Course"],
+                ["Valley Course", "Mountain Course"]
+            ]
+        },
+        {
+            "clubName": "플라밍고 컨트리클럽 (충남 당진시)",
+            "latitude": 36.96321,
+            "longitude": 126.70214,
+            "courses": [
+                {
+                    "courseName": "Links Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.96321, "longitude": 126.70314},
+                        {"latitude": 36.96421, "longitude": 126.70514},
+                        {"latitude": 36.96521, "longitude": 126.70714},
+                        {"latitude": 36.96621, "longitude": 126.70614},
+                        {"latitude": 36.96721, "longitude": 126.70414},
+                        {"latitude": 36.96621, "longitude": 126.70214},
+                        {"latitude": 36.96521, "longitude": 126.70114},
+                        {"latitude": 36.96421, "longitude": 126.70214},
+                        {"latitude": 36.96321, "longitude": 126.70414}
+                    ]
+                },
+                {
+                    "courseName": "Park Course",
+                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.96821, "longitude": 126.70314},
+                        {"latitude": 36.96921, "longitude": 126.70514},
+                        {"latitude": 36.97021, "longitude": 126.70714},
+                        {"latitude": 36.97121, "longitude": 126.70614},
+                        {"latitude": 36.97221, "longitude": 126.70414},
+                        {"latitude": 36.97121, "longitude": 126.70214},
+                        {"latitude": 36.97021, "longitude": 126.70114},
+                        {"latitude": 36.96921, "longitude": 126.70214},
+                        {"latitude": 36.96821, "longitude": 126.70414}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Links Course", "Park Course"],
+                ["Park Course", "Links Course"]
+            ]
+        },
+        {
+            "clubName": "아리스타 컨트리클럽 (충남 논산시)",
+            "latitude": 36.21345,
+            "longitude": 127.15432,
+            "courses": [
+                {
+                    "courseName": "Lake Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.21345, "longitude": 127.15532},
+                        {"latitude": 36.21445, "longitude": 127.15732},
+                        {"latitude": 36.21545, "longitude": 127.15932},
+                        {"latitude": 36.21645, "longitude": 127.15832},
+                        {"latitude": 36.21745, "longitude": 127.15632},
+                        {"latitude": 36.21645, "longitude": 127.15432},
+                        {"latitude": 36.21545, "longitude": 127.15332},
+                        {"latitude": 36.21445, "longitude": 127.15432},
+                        {"latitude": 36.21345, "longitude": 127.15632}
+                    ]
+                },
+                {
+                    "courseName": "Mountain Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 36.21845, "longitude": 127.15532},
+                        {"latitude": 36.21945, "longitude": 127.15732},
+                        {"latitude": 36.22045, "longitude": 127.15932},
+                        {"latitude": 36.22145, "longitude": 127.15832},
+                        {"latitude": 36.22245, "longitude": 127.15632},
+                        {"latitude": 36.22145, "longitude": 127.15432},
+                        {"latitude": 36.22045, "longitude": 127.15332},
+                        {"latitude": 36.21945, "longitude": 127.15432},
+                        {"latitude": 36.21845, "longitude": 127.15632}
+                    ]
+                }
+            ],
+            "combinations": [
+                ["Lake Course", "Mountain Course"],
+                ["Mountain Course", "Lake Course"]
+            ]
+        }
+    ]
+}
