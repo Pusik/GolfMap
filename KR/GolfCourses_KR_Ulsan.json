@@ -52,11 +52,6 @@
                         {"latitude": 35.539301, "longitude": 129.143742}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Edward Course", "Henry Course"],
-                ["Henry Course", "William Course"],
-                ["William Course", "Edward Course"]
             ]
         },
         {
@@ -110,11 +105,6 @@
                         {"latitude": 35.485123, "longitude": 129.198645}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Dong Course", "Nam Course"],
-                ["Nam Course", "Seo Course"],
-                ["Seo Course", "Dong Course"]
             ]
         },
         {
@@ -153,10 +143,6 @@
                         {"latitude": 35.607511, "longitude": 129.420722}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Bay Course", "Stars Course"],
-                ["Stars Course", "Bay Course"]
             ]
         },
         {
@@ -195,10 +181,6 @@
                         {"latitude": 35.383712, "longitude": 129.319545}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Ocean Course", "Rocky Course"],
-                ["Rocky Course", "Ocean Course"]
             ]
         }
     ]

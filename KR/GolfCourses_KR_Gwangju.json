@@ -52,11 +52,6 @@
                         {"latitude": 35.161123, "longitude": 126.794345}
                     ]
                 }
-            ],
-            "combinations": [
-                ["어등(Eodeung) Course", "송정(Songjeong) Course"],
-                ["송정(Songjeong) Course", "하남(Hanam) Course"],
-                ["하남(Hanam) Course", "어등(Eodeung) Course"]
             ]
         }
     ]

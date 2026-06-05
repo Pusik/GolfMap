@@ -37,10 +37,6 @@
                         {"latitude": 37.637145, "longitude": 127.106234}
                     ]
                 }
-            ],
-            "combinations": [
-                ["화랑(Hwarang) Course", "을지(Eulji) Course"],
-                ["을지(Eulji) Course", "화랑(Hwarang) Course"]
             ]
         }
     ]

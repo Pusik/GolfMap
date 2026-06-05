@@ -37,10 +37,6 @@
                         {"latitude": 36.534813, "longitude": 127.250102}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Sejong Course", "Haengbok Course"],
-                ["Haengbok Course", "Sejong Course"]
             ]
         },
         {
@@ -94,11 +90,6 @@
                         {"latitude": 36.628812, "longitude": 127.19721}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Lakes Course", "Valley Course"],
-                ["Valley Course", "Mountain Course"],
-                ["Mountain Course", "Lakes Course"]
             ]
         },
         {
@@ -152,11 +143,6 @@
                         {"latitude": 36.611234, "longitude": 127.213345}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Sejong Course", "Ray Course"],
-                ["Ray Course", "Castle Course"],
-                ["Castle Course", "Sejong Course"]
             ]
         }
     ]

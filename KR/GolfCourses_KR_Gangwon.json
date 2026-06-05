@@ -82,13 +82,6 @@
                         {"latitude": 37.4776295, "longitude": 127.8526368}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Owners Club A", "Owners Club B"],
-                ["Owners Club B", "Owners Club A"],
-                ["Masters Club C", "Masters Club D"],
-                ["Masters Club C", "Masters Club E"],
-                ["Masters Club D", "Masters Club E"]
             ]
         },
         {
@@ -157,12 +150,6 @@
                         {"latitude": 37.7434710529046, "longitude": 127.76519885545451}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Old Out Course", "Old In Course"],
-                ["New Out Course", "New In Course"],
-                ["Old Out Course", "New Out Course"],
-                ["Old In Course", "New In Course"]
             ]
         },
         {
@@ -216,11 +203,6 @@
                         {"latitude": 37.476, "longitude": 127.8602}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Dream Course", "Vision Course"],
-                ["Vision Course", "Challenge Course"],
-                ["Challenge Course", "Dream Course"]
             ]
         },
         {
@@ -274,11 +256,6 @@
                         {"latitude": 37.472, "longitude": 127.8652}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Valley Course", "Lake Course"],
-                ["Lake Course", "Mountain Course"],
-                ["Mountain Course", "Valley Course"]
             ]
         },
         {
@@ -332,11 +309,6 @@
                         {"latitude": 37.475, "longitude": 127.8652}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Salmon Course", "Seaview Course"],
-                ["Seaview Course", "Pine Course"],
-                ["Pine Course", "Salmon Course"]
             ]
         },
         {
@@ -405,14 +377,6 @@
                         {"latitude": 37.473, "longitude": 127.8702}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Oak Course", "Maple Course"],
-                ["Oak Course", "Birch Course"],
-                ["Oak Course", "Chestnut Course"],
-                ["Maple Course", "Birch Course"],
-                ["Maple Course", "Chestnut Course"],
-                ["Birch Course", "Chestnut Course"]
             ]
         },
         {
@@ -466,11 +430,6 @@
                         {"latitude": 37.476, "longitude": 127.8702}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Pine Course", "Ridge Course"],
-                ["Ridge Course", "Lake Course"],
-                ["Lake Course", "Pine Course"]
             ]
         },
         {
@@ -509,10 +468,6 @@
                         {"latitude": 37.471, "longitude": 127.8752}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Maple Course", "Beach Course"],
-                ["Beach Course", "Maple Course"]
             ]
         },
         {
@@ -551,10 +506,6 @@
                         {"latitude": 37.473, "longitude": 127.8752}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Mountain Course", "Lake Course"],
-                ["Lake Course", "Mountain Course"]
             ]
         },
         {
@@ -593,10 +544,6 @@
                         {"latitude": 37.475, "longitude": 127.8752}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Birch Course", "Hill Course"],
-                ["Hill Course", "Birch Course"]
             ]
         },
         {
@@ -635,10 +582,6 @@
                         {"latitude": 37.471, "longitude": 127.8802}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Pine Course", "Lake Course"],
-                ["Lake Course", "Pine Course"]
             ]
         }
     ]

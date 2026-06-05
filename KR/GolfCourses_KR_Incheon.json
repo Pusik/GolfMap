@@ -52,11 +52,6 @@
                         {"latitude": 37.545123, "longitude": 126.633345}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Australasia Course", "Europe Course"],
-                ["Europe Course", "USA Course"],
-                ["USA Course", "Australasia Course"]
             ]
         },
         {
@@ -95,10 +90,6 @@
                         {"latitude": 37.386234, "longitude": 126.627456}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Urban Course", "Links Course"],
-                ["Links Course", "Urban Course"]
             ]
         },
         {
@@ -137,10 +128,6 @@
                         {"latitude": 37.573345, "longitude": 126.645123}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Out Course", "In Course"],
-                ["In Course", "Out Course"]
             ]
         },
         {
@@ -179,10 +166,6 @@
                         {"latitude": 37.556234, "longitude": 126.652123}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Out Course", "In Course"],
-                ["In Course", "Out Course"]
             ]
         },
         {
@@ -221,10 +204,6 @@
                         {"latitude": 37.477134, "longitude": 126.440234}
                     ]
                 }
-            ],
-            "combinations": [
-                ["East Course", "West Course"],
-                ["West Course", "East Course"]
             ]
         },
         {
@@ -263,10 +242,6 @@
                         {"latitude": 37.479567, "longitude": 126.432123}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Out Course", "In Course"],
-                ["In Course", "Out Course"]
             ]
         },
         {
@@ -305,10 +280,6 @@
                         {"latitude": 37.463123, "longitude": 126.427234}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Out Course", "In Course"],
-                ["In Course", "Out Course"]
             ]
         },
         {
@@ -377,12 +348,6 @@
                         {"latitude": 37.580234, "longitude": 126.630345}
                     ]
                 }
-            ],
-            "combinations": [
-                ["파크 Out Course", "파크 In Course"],
-                ["파크 In Course", "파크 Out Course"],
-                ["레이크 Out Course", "레이크 In Course"],
-                ["레이크 In Course", "레이크 Out Course"]
             ]
         }
     ]

@@ -37,10 +37,6 @@
                         {"latitude": 36.320234, "longitude": 127.973345}
                     ]
                 }
-            ],
-            "combinations": [
-                ["East Course", "West Course"],
-                ["West Course", "East Course"]
             ]
         },
         {
@@ -79,10 +75,6 @@
                         {"latitude": 36.200123, "longitude": 128.345456}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Out Course", "In Course"],
-                ["In Course", "Out Course"]
             ]
         },
         {
@@ -136,11 +128,6 @@
                         {"latitude": 35.823456, "longitude": 129.301567}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Valley Course", "Lake Course"],
-                ["Lake Course", "Hills Course"],
-                ["Hills Course", "Valley Course"]
             ]
         },
         {
@@ -179,10 +166,6 @@
                         {"latitude": 35.693123, "longitude": 129.353234}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Mauna Course", "Ocean Course"],
-                ["Ocean Course", "Mauna Course"]
             ]
         },
         {
@@ -236,11 +219,6 @@
                         {"latitude": 35.852345, "longitude": 128.817678}
                     ]
                 }
-            ],
-            "combinations": [
-                ["East Course", "Middle Course"],
-                ["Middle Course", "West Course"],
-                ["West Course", "East Course"]
             ]
         },
         {
@@ -294,11 +272,6 @@
                         {"latitude": 36.208123, "longitude": 129.390234}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Hill Course", "Pine Course"],
-                ["Pine Course", "Ocean Course"],
-                ["Ocean Course", "Hill Course"]
             ]
         },
         {
@@ -352,11 +325,6 @@
                         {"latitude": 35.845678, "longitude": 129.267789}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Sun Course", "Sea Course"],
-                ["Sea Course", "Moon Course"],
-                ["Moon Course", "Sun Course"]
             ]
         },
         {
@@ -395,10 +363,6 @@
                         {"latitude": 36.639123, "longitude": 128.163234}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Munhee Course", "Gyeongseo Course"],
-                ["Gyeongseo Course", "Munhee Course"]
             ]
         },
         {
@@ -437,10 +401,6 @@
                         {"latitude": 35.841123, "longitude": 129.280234}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Out Course", "In Course"],
-                ["In Course", "Out Course"]
             ]
         },
         {
@@ -494,11 +454,6 @@
                         {"latitude": 35.952345, "longitude": 128.903456}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Garam Course", "Nuri Course"],
-                ["Nuri Course", "Maru Course"],
-                ["Maru Course", "Garam Course"]
             ]
         }
     ]

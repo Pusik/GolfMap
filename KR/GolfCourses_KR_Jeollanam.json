@@ -37,10 +37,6 @@
                         {"latitude": 34.651512, "longitude": 126.307412}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Pine Course", "Beach Course"],
-                ["Beach Course", "Pine Course"]
             ]
         },
         {
@@ -94,11 +90,6 @@
                         {"latitude": 34.721234, "longitude": 127.746567}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Geumodo Course", "Odongdo Course"],
-                ["Odongdo Course", "Dolsando Course"],
-                ["Dolsando Course", "Geumodo Course"]
             ]
         },
         {
@@ -137,10 +128,6 @@
                         {"latitude": 34.713123, "longitude": 127.634345}
                     ]
                 }
-            ],
-            "combinations": [
-                ["West Ocean Course", "East Ocean Course"],
-                ["East Ocean Course", "West Ocean Course"]
             ]
         },
         {
@@ -194,11 +181,6 @@
                         {"latitude": 35.034567, "longitude": 127.357678}
                     ]
                 }
-            ],
-            "combinations": [
-                ["East Course", "South Course"],
-                ["South Course", "Center Course"],
-                ["Center Course", "East Course"]
             ]
         },
         {
@@ -252,11 +234,6 @@
                         {"latitude": 34.981234, "longitude": 127.287432}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Pine Course", "Hills Course"],
-                ["Hills Course", "Lake Course"],
-                ["Lake Course", "Pine Course"]
             ]
         },
         {
@@ -310,11 +287,6 @@
                         {"latitude": 34.738456, "longitude": 126.975567}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Jeong Course", "Nam Course"],
-                ["Nam Course", "Jin Course"],
-                ["Jin Course", "Jeong Course"]
             ]
         },
         {
@@ -368,11 +340,6 @@
                         {"latitude": 34.542345, "longitude": 126.770901}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Dasan Course", "Beache Course"],
-                ["Beache Course", "Jangbogo Course"],
-                ["Jangbogo Course", "Dasan Course"]
             ]
         },
         {
@@ -411,10 +378,6 @@
                         {"latitude": 34.806234, "longitude": 127.144345}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Mountain Course", "Lake Course"],
-                ["Lake Course", "Mountain Course"]
             ]
         },
         {
@@ -453,10 +416,6 @@
                         {"latitude": 35.317345, "longitude": 126.987678}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Imperial Course", "Majesty Course"],
-                ["Majesty Course", "Imperial Course"]
             ]
         },
         {
@@ -495,10 +454,6 @@
                         {"latitude": 34.936234, "longitude": 126.794345}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Gold Course", "Lake Course"],
-                ["Lake Course", "Gold Course"]
             ]
         },
         {
@@ -537,10 +492,6 @@
                         {"latitude": 34.786204, "longitude": 127.704145}
                     ]
                 }
-            ],
-            "combinations": [
-                ["City Course", "Park Course"],
-                ["Park Course", "City Course"]
             ]
         },
         {
@@ -579,10 +530,6 @@
                         {"latitude": 34.627345, "longitude": 126.413234}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Solar Course", "Sea Course"],
-                ["Sea Course", "Solar Course"]
             ]
         },
         {
@@ -621,10 +568,6 @@
                         {"latitude": 35.347109, "longitude": 126.400901}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Ocean Course", "Valley Course"],
-                ["Valley Course", "Ocean Course"]
             ]
         },
         {
@@ -663,10 +606,6 @@
                         {"latitude": 35.047345, "longitude": 126.383234}
                     ]
                 }
-            ],
-            "combinations": [
-                ["West A Course", "West B Course"],
-                ["West B Course", "West A Course"]
             ]
         },
         {
@@ -720,11 +659,6 @@
                         {"latitude": 34.992109, "longitude": 126.974109}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Spring Course", "Summer Course"],
-                ["Summer Course", "Autumn Course"],
-                ["Autumn Course", "Spring Course"]
             ]
         }
     ]

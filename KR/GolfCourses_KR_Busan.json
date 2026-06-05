@@ -52,11 +52,6 @@
                         {"latitude": 35.291234, "longitude": 129.227678}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Pine Course", "Lake Course"],
-                ["Lake Course", "Valley Course"],
-                ["Valley Course", "Pine Course"]
             ]
         },
         {
@@ -110,11 +105,6 @@
                         {"latitude": 35.340123, "longitude": 129.187432}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Royal Course", "Silk Course"],
-                ["Silk Course", "Golden Course"],
-                ["Golden Course", "Royal Course"]
             ]
         },
         {
@@ -153,10 +143,6 @@
                         {"latitude": 35.270432, "longitude": 129.093234}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Out Course", "In Course"],
-                ["In Course", "Out Course"]
             ]
         },
         {
@@ -195,10 +181,6 @@
                         {"latitude": 35.287345, "longitude": 129.100765}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Out Course", "In Course"],
-                ["In Course", "Out Course"]
             ]
         },
         {
@@ -237,10 +219,6 @@
                         {"latitude": 35.286234, "longitude": 129.233456}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Mountain Course", "Ocean Course"],
-                ["Ocean Course", "Mountain Course"]
             ]
         },
         {
@@ -279,10 +257,6 @@
                         {"latitude": 35.339567, "longitude": 129.243234}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Stone Course", "Gate Course"],
-                ["Gate Course", "Stone Course"]
             ]
         }
     ]

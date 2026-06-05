@@ -37,10 +37,6 @@
                         {"latitude": 35.991123, "longitude": 128.667234}
                     ]
                 }
-            ],
-            "combinations": [
-                ["Out Course", "In Course"],
-                ["In Course", "Out Course"]
             ]
         },
         {
@@ -79,10 +75,6 @@
                         {"latitude": 36.197345, "longitude": 128.625456}
                     ]
                 }
-            ],
-            "combinations": [
-                ["산울(Sanul) Course", "여울(Yeoul) Course"],
-                ["여울(Yeoul) Course", "산울(Sanul) Course"]
             ]
         },
         {
@@ -121,10 +113,6 @@
                         {"latitude": 36.150678, "longitude": 128.677789}
                     ]
                 }
-            ],
-            "combinations": [
-                ["East Course", "West Course"],
-                ["West Course", "East Course"]
             ]
         }
     ]
