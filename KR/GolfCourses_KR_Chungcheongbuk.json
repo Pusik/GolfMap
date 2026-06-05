@@ -4,6 +4,7 @@
         {
             "clubName": "클럽디보은CC/구.속리산CC (충북 보은군)",
             "latitude": 36.509349666658856, "longitude": 127.69010753232685,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
                     "courseName": "East Course",
