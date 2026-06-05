@@ -883,38 +883,37 @@
         },
         {
             "clubName": "곤지암 컨트리클럽 (경기 광주시)",
-            "latitude": 37.325012,
-            "longitude": 127.314123,
-            "hasVerifiedGPS": false,
+            "latitude": 37.33325713420661, "longitude": 127.29534493620048,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Out Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "courseName": "마운틴 코스",
+                    "holePars": [5, 4, 4, 4, 4, 3, 4, 3, 5],
                     "holeGreens": [
-                        {"latitude": 37.325012, "longitude": 127.315123},
-                        {"latitude": 37.326012, "longitude": 127.317123},
-                        {"latitude": 37.327012, "longitude": 127.319123},
-                        {"latitude": 37.328012, "longitude": 127.318123},
-                        {"latitude": 37.329012, "longitude": 127.316123},
-                        {"latitude": 37.328012, "longitude": 127.314123},
-                        {"latitude": 37.327012, "longitude": 127.313123},
-                        {"latitude": 37.326012, "longitude": 127.314123},
-                        {"latitude": 37.325012, "longitude": 127.316123}
+                        {"latitude": 37.32891830600513, "longitude": 127.29459172101018},
+                        {"latitude": 37.325540445182725, "longitude": 127.295094718431},
+                        {"latitude": 37.32833447381967, "longitude": 127.29475868869805},
+                        {"latitude": 37.32604395563801, "longitude": 127.29642241641602},
+                        {"latitude": 37.329239442592474, "longitude": 127.29588773096374},
+                        {"latitude": 37.330149839623296, "longitude": 127.29574461685067},
+                        {"latitude": 37.32707872651798, "longitude": 127.29788198238022},
+                        {"latitude": 37.32842464310091, "longitude": 127.29832733886661},
+                        {"latitude": 37.332688343158, "longitude": 127.29580252402785}
                     ]
                 },
                 {
-                    "courseName": "In Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "courseName": "레이크 코스",
+                    "holePars": [5, 4, 3, 4, 4, 3, 4, 5, 4],
                     "holeGreens": [
-                        {"latitude": 37.330012, "longitude": 127.315123},
-                        {"latitude": 37.331012, "longitude": 127.317123},
-                        {"latitude": 37.332012, "longitude": 127.319123},
-                        {"latitude": 37.333012, "longitude": 127.318123},
-                        {"latitude": 37.334012, "longitude": 127.316123},
-                        {"latitude": 37.333012, "longitude": 127.314123},
-                        {"latitude": 37.332012, "longitude": 127.313123},
-                        {"latitude": 37.331012, "longitude": 127.314123},
-                        {"latitude": 37.330012, "longitude": 127.316123}
+                        {"latitude": 37.32897689473477, "longitude": 127.29818001948276},
+                        {"latitude": 37.331157633149544, "longitude": 127.29986424722043},
+                        {"latitude": 37.33336750471573, "longitude": 127.29982507439614},
+                        {"latitude": 37.33366702103944, "longitude": 127.3042664944029},
+                        {"latitude": 37.33309295524411, "longitude": 127.30149399342535},
+                        {"latitude": 37.332071595755274, "longitude": 127.30009355389151},
+                        {"latitude": 37.334436220356096, "longitude": 127.29764585750772},
+                        {"latitude": 37.33016382011299, "longitude": 127.29914380052087},
+                        {"latitude": 37.33290980644837, "longitude": 127.29641836091349}
                     ]
                 }
             ]
@@ -2287,8 +2286,7 @@
         },
         {
             "clubName": "신라 컨트리클럽 (경기 여주시)",
-            "latitude": 37.331678,
-            "longitude": 127.651789,
+            "latitude": 37.36638471228023, "longitude": 127.69637807993746,
             "hasVerifiedGPS": true,
             "courses": [
                 {
