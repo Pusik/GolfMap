@@ -39,39 +39,38 @@
             ]
         },
         {
-            "clubName": "속리산CC/구.클럽디속리산CC (충북 보은군)",
-            "latitude": 36.486789,
-            "longitude": 127.755678,
-            "hasVerifiedGPS": false,
+            "clubName": "속리산CC (충북 보은군)",
+            "latitude": 36.44717926661837, "longitude": 127.7822571806724,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
                     "courseName": "East Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holePars": [4, 4, 5, 3, 4, 5, 3, 4, 4],
                     "holeGreens": [
-                        {"latitude": 36.486789, "longitude": 127.756678},
-                        {"latitude": 36.487789, "longitude": 127.758678},
-                        {"latitude": 36.488789, "longitude": 127.760678},
-                        {"latitude": 36.489789, "longitude": 127.759678},
-                        {"latitude": 36.490789, "longitude": 127.757678},
-                        {"latitude": 36.489789, "longitude": 127.755678},
-                        {"latitude": 36.488789, "longitude": 127.754678},
-                        {"latitude": 36.487789, "longitude": 127.755678},
-                        {"latitude": 36.486789, "longitude": 127.757678}
+                        {"latitude": 36.44792261894198, "longitude": 127.7860430778187},
+                        {"latitude": 36.446780923642294, "longitude": 127.78904031927043},
+                        {"latitude": 36.442646919837976, "longitude": 127.7856273767113},
+                        {"latitude": 36.44103641899024, "longitude": 127.7855832582299},
+                        {"latitude": 36.443128623439485, "longitude": 127.78431892488582},
+                        {"latitude": 36.44594648665255, "longitude": 127.78815072197703},
+                        {"latitude": 36.444904345197536, "longitude": 127.78595964931274},
+                        {"latitude": 36.44333794054326, "longitude": 127.78194535912016},
+                        {"latitude": 36.445273436197084, "longitude": 127.78361831355731}
                     ]
                 },
                 {
                     "courseName": "West Course",
-                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holePars": [4, 4, 5, 3, 4, 5, 3, 4, 4],
                     "holeGreens": [
-                        {"latitude": 36.491789, "longitude": 127.756678},
-                        {"latitude": 36.492789, "longitude": 127.758678},
-                        {"latitude": 36.493789, "longitude": 127.760678},
-                        {"latitude": 36.494789, "longitude": 127.759678},
-                        {"latitude": 36.495789, "longitude": 127.757678},
-                        {"latitude": 36.494789, "longitude": 127.755678},
-                        {"latitude": 36.493789, "longitude": 127.754678},
-                        {"latitude": 36.492789, "longitude": 127.755678},
-                        {"latitude": 36.491789, "longitude": 127.757678}
+                        {"latitude": 36.450270057068415, "longitude": 127.77917614082286},
+                        {"latitude": 36.44617138465845, "longitude": 127.78101177849166},
+                        {"latitude": 36.445456601721624, "longitude": 127.78110778555656},
+                        {"latitude": 36.448624787967475, "longitude": 127.77859082434156},
+                        {"latitude": 36.44847604987035, "longitude": 127.77444278893819},
+                        {"latitude": 36.44958306291561, "longitude": 127.77812076662109},
+                        {"latitude": 36.4500876321101, "longitude": 127.77466795339302},
+                        {"latitude": 36.45113160980765, "longitude": 127.77902859477697},
+                        {"latitude": 36.44796910715605, "longitude": 127.78239617101929}
                     ]
                 }
             ]
