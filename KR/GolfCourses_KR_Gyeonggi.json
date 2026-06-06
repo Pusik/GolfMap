@@ -2611,53 +2611,52 @@
         },
         {
             "clubName": "양평TPC 골프클럽 (경기 양평군)",
-            "latitude": 37.421345,
-            "longitude": 127.651456,
-            "hasVerifiedGPS": false,
+            "latitude": 37.418550037230126, "longitude": 127.65021194928755,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
                     "courseName": "Lunar Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holePars": [4, 4, 4, 3, 5, 4, 3, 5, 4],
                     "holeGreens": [
-                        {"latitude": 37.421345, "longitude": 127.652456},
-                        {"latitude": 37.422345, "longitude": 127.654456},
-                        {"latitude": 37.423345, "longitude": 127.656456},
-                        {"latitude": 37.424345, "longitude": 127.655456},
-                        {"latitude": 37.425345, "longitude": 127.653456},
-                        {"latitude": 37.424345, "longitude": 127.651456},
-                        {"latitude": 37.423345, "longitude": 127.650456},
-                        {"latitude": 37.422345, "longitude": 127.651456},
-                        {"latitude": 37.421345, "longitude": 127.653456}
+                        {"latitude": 37.415767209734035, "longitude": 127.64669457384318},
+                        {"latitude": 37.413638410453466, "longitude": 127.6438382071049},
+                        {"latitude": 37.41512442765942, "longitude": 127.6464320631575},
+                        {"latitude": 37.41339200447403, "longitude": 127.64647647698965},
+                        {"latitude": 37.41253874596305, "longitude": 127.64018595952652},
+                        {"latitude": 37.413193240620394, "longitude": 127.6432724350808},
+                        {"latitude": 37.413834633790046, "longitude": 127.64047373612595},
+                        {"latitude": 37.41608470848217, "longitude": 127.64547732035888},
+                        {"latitude": 37.4184332719875, "longitude": 127.64850516917593}
                     ]
                 },
                 {
                     "courseName": "Solar Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holePars": [4, 5, 3, 4, 4, 4, 3, 4, 5],
                     "holeGreens": [
-                        {"latitude": 37.426345, "longitude": 127.652456},
-                        {"latitude": 37.427345, "longitude": 127.654456},
-                        {"latitude": 37.428345, "longitude": 127.656456},
-                        {"latitude": 37.429345, "longitude": 127.655456},
-                        {"latitude": 37.430345, "longitude": 127.653456},
-                        {"latitude": 37.429345, "longitude": 127.651456},
-                        {"latitude": 37.428345, "longitude": 127.650456},
-                        {"latitude": 37.427345, "longitude": 127.651456},
-                        {"latitude": 37.426345, "longitude": 127.653456}
+                        {"latitude": 37.41527221358355, "longitude": 127.6474160870985},
+                        {"latitude": 37.41101104345826, "longitude": 127.64566251422524},
+                        {"latitude": 37.4121237937171, "longitude": 127.64607305724934},
+                        {"latitude": 37.41144662685106, "longitude": 127.64136833497932},
+                        {"latitude": 37.410255111621105, "longitude": 127.6450827912957},
+                        {"latitude": 37.41181131449358, "longitude": 127.64760656152606},
+                        {"latitude": 37.40994237968533, "longitude": 127.64707653982744},
+                        {"latitude": 37.41284562417972, "longitude": 127.64876479920596},
+                        {"latitude": 37.417600719681836, "longitude": 127.64998628668089}
                     ]
                 },
                 {
                     "courseName": "Stella Course",
-                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "holePars": [4, 5, 4, 5, 3, 4, 4, 3, 4],
                     "holeGreens": [
-                        {"latitude": 37.421345, "longitude": 127.662456},
-                        {"latitude": 37.422345, "longitude": 127.664456},
-                        {"latitude": 37.423345, "longitude": 127.666456},
-                        {"latitude": 37.424345, "longitude": 127.665456},
-                        {"latitude": 37.425345, "longitude": 127.663456},
-                        {"latitude": 37.424345, "longitude": 127.661456},
-                        {"latitude": 37.423345, "longitude": 127.660456},
-                        {"latitude": 37.422345, "longitude": 127.661456},
-                        {"latitude": 37.421345, "longitude": 127.663456}
+                        {"latitude": 37.414538676376424, "longitude": 127.6493272537699},
+                        {"latitude": 37.410062773526356, "longitude": 127.64894693719712},
+                        {"latitude": 37.40896022788337, "longitude": 127.64585104793846},
+                        {"latitude": 37.407531465501854, "longitude": 127.64967338667617},
+                        {"latitude": 37.408072895772136, "longitude": 127.64829160849816},
+                        {"latitude": 37.40958979282603, "longitude": 127.65016838256938},
+                        {"latitude": 37.41330574644336, "longitude": 127.65029369042928},
+                        {"latitude": 37.414438409886124, "longitude": 127.65035713846493},
+                        {"latitude": 37.41778137512862, "longitude": 127.65113160803797}
                     ]
                 }
             ]
