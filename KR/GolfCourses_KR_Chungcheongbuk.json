@@ -229,38 +229,37 @@
         },
         {
             "clubName": "감곡 컨트리클럽 (충북 음성군)",
-            "latitude": 37.108992,
-            "longitude": 127.643211,
-            "hasVerifiedGPS": false,
+            "latitude": 37.12916098261306, "longitude": 127.69929898497055,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Peach Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "courseName": "피치 코스",
+                    "holePars": [4, 5, 4, 4, 3, 5, 4, 3, 4],
                     "holeGreens": [
-                        {"latitude": 37.108992, "longitude": 127.644211},
-                        {"latitude": 37.109992, "longitude": 127.646211},
-                        {"latitude": 37.110992, "longitude": 127.648211},
-                        {"latitude": 37.111992, "longitude": 127.647211},
-                        {"latitude": 37.112992, "longitude": 127.645211},
-                        {"latitude": 37.111992, "longitude": 127.643211},
-                        {"latitude": 37.110992, "longitude": 127.642211},
-                        {"latitude": 37.109992, "longitude": 127.643211},
-                        {"latitude": 37.108992, "longitude": 127.645211}
+                        {"latitude": 37.12698121161493, "longitude": 127.69457236414192},
+                        {"latitude": 37.129555688174186, "longitude": 127.69730232950965},
+                        {"latitude": 37.13005276548179, "longitude": 127.69359043847045},
+                        {"latitude": 37.12643981979499, "longitude": 127.69316361539828},
+                        {"latitude": 37.1247539196094, "longitude": 127.69486427261602},
+                        {"latitude": 37.12832342544564, "longitude": 127.69884677733037},
+                        {"latitude": 37.12605031595555, "longitude": 127.69582136418146},
+                        {"latitude": 37.126234142420316, "longitude": 127.69443612898752},
+                        {"latitude": 37.12886008459297, "longitude": 127.69799083680763}
                     ]
                 },
                 {
-                    "courseName": "Apple Course",
-                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "courseName": "글렌 코스",
+                    "holePars": [4, 5, 4, 3, 4, 5, 3, 4, 4],
                     "holeGreens": [
-                        {"latitude": 37.113992, "longitude": 127.644211},
-                        {"latitude": 37.114992, "longitude": 127.646211},
-                        {"latitude": 37.115992, "longitude": 127.648211},
-                        {"latitude": 37.116992, "longitude": 127.647211},
-                        {"latitude": 37.117992, "longitude": 127.645211},
-                        {"latitude": 37.116992, "longitude": 127.643211},
-                        {"latitude": 37.115992, "longitude": 127.642211},
-                        {"latitude": 37.114992, "longitude": 127.643211},
-                        {"latitude": 37.113992, "longitude": 127.645211}
+                        {"latitude": 37.13297933852008, "longitude": 127.70231640087657},
+                        {"latitude": 37.13170716403155, "longitude": 127.69764561467865},
+                        {"latitude": 37.133534462451756, "longitude": 127.70062781037005},
+                        {"latitude": 37.13336057311521, "longitude": 127.69802936095503},
+                        {"latitude": 37.13422783331062, "longitude": 127.69265225604556},
+                        {"latitude": 37.13147929484451, "longitude": 127.69694016896499},
+                        {"latitude": 37.13108232673474, "longitude": 127.70008472312593},
+                        {"latitude": 37.13165185278702, "longitude": 127.69363598093653},
+                        {"latitude": 37.13040746071761, "longitude": 127.69840173454675}
                     ]
                 }
             ]
