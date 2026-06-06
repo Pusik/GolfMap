@@ -4256,53 +4256,52 @@
         },
         {
             "clubName": "금강 컨트리클럽 (경기 여주시)",
-            "latitude": 37.241678,
-            "longitude": 127.621789,
-            "hasVerifiedGPS": false,
+            "latitude": 37.243124885975156, "longitude": 127.60197521003425,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
                     "courseName": "West Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
                     "holeGreens": [
-                        {"latitude": 37.241678, "longitude": 127.622789},
-                        {"latitude": 37.242678, "longitude": 127.624789},
-                        {"latitude": 37.243678, "longitude": 127.626789},
-                        {"latitude": 37.244678, "longitude": 127.625789},
-                        {"latitude": 37.245678, "longitude": 127.623789},
-                        {"latitude": 37.244678, "longitude": 127.621789},
-                        {"latitude": 37.243678, "longitude": 127.620789},
-                        {"latitude": 37.242678, "longitude": 127.621789},
-                        {"latitude": 37.241678, "longitude": 127.623789}
+                        {"latitude": 37.24116491605695, "longitude": 127.59623163983352},
+                        {"latitude": 37.237878399747146, "longitude": 127.59443925594897},
+                        {"latitude": 37.23454802636197, "longitude": 127.59285234594991},
+                        {"latitude": 37.23398329457148, "longitude": 127.59406778687207},
+                        {"latitude": 37.236902546557324, "longitude": 127.59453583493254},
+                        {"latitude": 37.24097082541367, "longitude": 127.59898280380386},
+                        {"latitude": 37.23801356366589, "longitude": 127.59757043248942},
+                        {"latitude": 37.23946178484802, "longitude": 127.59939066089626},
+                        {"latitude": 37.24229438548622, "longitude": 127.60139382571462}
                     ]
                 },
                 {
                     "courseName": "South Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holePars": [4, 5, 4, 3, 4, 4, 4, 3, 5],
                     "holeGreens": [
-                        {"latitude": 37.246678, "longitude": 127.622789},
-                        {"latitude": 37.247678, "longitude": 127.624789},
-                        {"latitude": 37.248678, "longitude": 127.626789},
-                        {"latitude": 37.249678, "longitude": 127.625789},
-                        {"latitude": 37.250678, "longitude": 127.623789},
-                        {"latitude": 37.249678, "longitude": 127.621789},
-                        {"latitude": 37.248678, "longitude": 127.620789},
-                        {"latitude": 37.247678, "longitude": 127.621789},
-                        {"latitude": 37.246678, "longitude": 127.623789}
+                        {"latitude": 37.23867849884534, "longitude": 127.60015924626995},
+                        {"latitude": 37.23601567678371, "longitude": 127.59530363058066},
+                        {"latitude": 37.23675162366115, "longitude": 127.59900576554199},
+                        {"latitude": 37.23472029768651, "longitude": 127.59712184831626},
+                        {"latitude": 37.2369098789339, "longitude": 127.60022692761495},
+                        {"latitude": 37.24020151635132, "longitude": 127.60232386583701},
+                        {"latitude": 37.23739969561068, "longitude": 127.60136057339598},
+                        {"latitude": 37.23720804486277, "longitude": 127.60272546791825},
+                        {"latitude": 37.24162413032505, "longitude": 127.60296631075131}
                     ]
                 },
                 {
                     "courseName": "East Course",
-                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "holePars": [4, 5, 4, 3, 4, 4, 4, 3, 5],
                     "holeGreens": [
-                        {"latitude": 37.241678, "longitude": 127.632789},
-                        {"latitude": 37.242678, "longitude": 127.634789},
-                        {"latitude": 37.243678, "longitude": 127.636789},
-                        {"latitude": 37.244678, "longitude": 127.635789},
-                        {"latitude": 37.245678, "longitude": 127.633789},
-                        {"latitude": 37.244678, "longitude": 127.631789},
-                        {"latitude": 37.243678, "longitude": 127.630789},
-                        {"latitude": 37.242678, "longitude": 127.631789},
-                        {"latitude": 37.241678, "longitude": 127.633789}
+                        {"latitude": 37.24369070456087, "longitude": 127.60762617178061},
+                        {"latitude": 37.24370908806873, "longitude": 127.60314915917158},
+                        {"latitude": 37.24508509665735, "longitude": 127.60717809052038},
+                        {"latitude": 37.24614883746304, "longitude": 127.60839259494705},
+                        {"latitude": 37.24385878446643, "longitude": 127.6091095794681},
+                        {"latitude": 37.24219642465786, "longitude": 127.60602790067445},
+                        {"latitude": 37.24237895224256, "longitude": 127.60864968022291},
+                        {"latitude": 37.241904560190946, "longitude": 127.60935024749746},
+                        {"latitude": 37.24160706661219, "longitude": 127.60410445212896}
                     ]
                 }
             ]
