@@ -7,7 +7,7 @@
             "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "코스(1)",
+                    "courseName": "코스",
                     "holePars": [4, 3, 5, 4, 4, 5, 4, 4, 3],
                     "holeGreens": [
                         {"latitude": 37.17880903291768, "longitude": 127.63053123496621},
@@ -22,7 +22,7 @@
                     ]
                 },
                 {
-                    "courseName": "코스(2)",
+                    "courseName": "코스",
                     "holePars": [4, 3, 5, 4, 4, 5, 4, 4, 3],
                     "holeGreens": [
                         {"latitude": 37.17880903291768, "longitude": 127.63053123496621},
@@ -260,53 +260,52 @@
         },
         {
             "clubName": "블랙스톤 이천 골프클럽 (경기 이천시)",
-            "latitude": 37.215432,
-            "longitude": 127.521345,
-            "hasVerifiedGPS": false,
+            "latitude": 37.161571619817906, "longitude": 127.61779295437812,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
                     "courseName": "North Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holePars": [5, 4, 3, 4, 5, 4, 3, 4, 4],
                     "holeGreens": [
-                        {"latitude": 37.215432, "longitude": 127.522345},
-                        {"latitude": 37.216432, "longitude": 127.524345},
-                        {"latitude": 37.217432, "longitude": 127.526345},
-                        {"latitude": 37.218432, "longitude": 127.525345},
-                        {"latitude": 37.219432, "longitude": 127.523345},
-                        {"latitude": 37.218432, "longitude": 127.521345},
-                        {"latitude": 37.217432, "longitude": 127.520345},
-                        {"latitude": 37.216432, "longitude": 127.521345},
-                        {"latitude": 37.215432, "longitude": 127.523345}
+                        {"latitude": 37.166758294992874, "longitude": 127.6158367096559},
+                        {"latitude": 37.170400822519255, "longitude": 127.61495706555542},
+                        {"latitude": 37.17133856547835, "longitude": 127.61352624840475},
+                        {"latitude": 37.17185623605591, "longitude": 127.61664655500542},
+                        {"latitude": 37.16780087112399, "longitude": 127.61547643422077},
+                        {"latitude": 37.17023934965203, "longitude": 127.61741876310018},
+                        {"latitude": 37.16835330033564, "longitude": 127.61926399742681},
+                        {"latitude": 37.16648054991274, "longitude": 127.61899257684395},
+                        {"latitude": 37.16222892498525, "longitude": 127.61874399832593}
                     ]
                 },
                 {
                     "courseName": "East Course",
-                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holePars": [5, 4, 4, 3, 4, 4, 3, 4, 5],
                     "holeGreens": [
-                        {"latitude": 37.220432, "longitude": 127.522345},
-                        {"latitude": 37.221432, "longitude": 127.524345},
-                        {"latitude": 37.222432, "longitude": 127.526345},
-                        {"latitude": 37.223432, "longitude": 127.525345},
-                        {"latitude": 37.224432, "longitude": 127.523345},
-                        {"latitude": 37.223432, "longitude": 127.521345},
-                        {"latitude": 37.222432, "longitude": 127.520345},
-                        {"latitude": 37.221432, "longitude": 127.521345},
-                        {"latitude": 37.220432, "longitude": 127.523345}
+                        {"latitude": 37.16376988978191, "longitude": 127.6234372782368},
+                        {"latitude": 37.16065390455197, "longitude": 127.6209827669593},
+                        {"latitude": 37.16241626371977, "longitude": 127.62468427464972},
+                        {"latitude": 37.163654196887066, "longitude": 127.6244467761117},
+                        {"latitude": 37.16510131110209, "longitude": 127.62682863551933},
+                        {"latitude": 37.1666167325344, "longitude": 127.62180841660904},
+                        {"latitude": 37.16502893998087, "longitude": 127.62389515224018},
+                        {"latitude": 37.166206394404995, "longitude": 127.61972779599489},
+                        {"latitude": 37.16185121447225, "longitude": 127.6194670741194}
                     ]
                 },
                 {
                     "courseName": "West Course",
-                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "holePars": [4, 4, 4, 3, 4, 5, 3, 4, 5],
                     "holeGreens": [
-                        {"latitude": 37.215432, "longitude": 127.532345},
-                        {"latitude": 37.216432, "longitude": 127.534345},
-                        {"latitude": 37.217432, "longitude": 127.536345},
-                        {"latitude": 37.218432, "longitude": 127.535345},
-                        {"latitude": 37.219432, "longitude": 127.533345},
-                        {"latitude": 37.218432, "longitude": 127.531345},
-                        {"latitude": 37.217432, "longitude": 127.530345},
-                        {"latitude": 37.216432, "longitude": 127.531345},
-                        {"latitude": 37.215432, "longitude": 127.533345}
+                        {"latitude": 37.16275739446268, "longitude": 127.61328237887277},
+                        {"latitude": 37.16586989619879, "longitude": 127.6138338772861},
+                        {"latitude": 37.17030836642632, "longitude": 127.61193033425876},
+                        {"latitude": 37.16789185540284, "longitude": 127.61139011530959},
+                        {"latitude": 37.16496914954177, "longitude": 127.61290619582857},
+                        {"latitude": 37.16948675908238, "longitude": 127.61050503133575},
+                        {"latitude": 37.170430028949546, "longitude": 127.61105307531363},
+                        {"latitude": 37.167890873063335, "longitude": 127.61332385954661},
+                        {"latitude": 37.163156799107256, "longitude": 127.61705435729876}
                     ]
                 }
             ]
