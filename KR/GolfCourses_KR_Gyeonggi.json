@@ -13132,63 +13132,72 @@
                             "holeNumber": 1,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.30409250870605, "longitude": 127.11960278614617 }
+                                {"latitude": 37.30394595094802, "longitude": 127.11974072829801},
+                                {"latitude": 37.304218844259466, "longitude": 127.11941405339714}
                             ]
                         },
                         {
                             "holeNumber": 2,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.30328539137547, "longitude": 127.11576650085205 }
+                                {"latitude": 37.30313447363915, "longitude": 127.11576062981166},
+                                {"latitude": 37.30339350446073, "longitude": 127.11577794602393}
                             ]
                         },
                         {
                             "holeNumber": 3,
                             "par": 5,
                             "greens": [
-                                { "latitude": 37.305471084939555, "longitude": 127.11033582723978 }
+                                {"latitude": 37.30530893821456, "longitude": 127.1102932913244},
+                                {"latitude": 37.305646757676286, "longitude": 127.11036710332287}
                             ]
                         },
                         {
                             "holeNumber": 4,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.30486815351004, "longitude": 127.11428001075832 }
+                                {"latitude": 37.30500336851856, "longitude": 127.11421817708279},
+                                {"latitude": 37.304746459427555, "longitude": 127.11433622485922}
                             ]
                         },
                         {
                             "holeNumber": 5,
                             "par": 3,
                             "greens": [
-                                { "latitude": 37.30460013469624, "longitude": 127.1165496305554 }
+                                {"latitude": 37.304683621892046, "longitude": 127.11640594397196},
+                                {"latitude": 37.30455266088202, "longitude": 127.1167215715242}
                             ]
                         },
                         {
                             "holeNumber": 6,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.30806923425652, "longitude": 127.11412129309207 }
+                                {"latitude": 37.30804913218684, "longitude": 127.11394360043442},
+                                {"latitude": 37.3080915831959, "longitude": 127.11430462932056}
                             ]
                         },
                         {
                             "holeNumber": 7,
                             "par": 3,
                             "greens": [
-                                { "latitude": 37.30948595166369, "longitude": 127.11428699951786 }
+                                {"latitude": 37.30961897658001, "longitude": 127.11416029660246},
+                                {"latitude": 37.30934387264348, "longitude": 127.11445880961944}
                             ]
                         },
                         {
                             "holeNumber": 8,
                             "par": 5,
                             "greens": [
-                                { "latitude": 37.3049432961398, "longitude": 127.11804753771764 }
+                                {"latitude": 37.30506254805497, "longitude": 127.1181830805038},
+                                {"latitude": 37.30482174652054, "longitude": 127.1179571104205}
                             ]
                         },
                         {
                             "holeNumber": 9,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.30684755654625, "longitude": 127.12168266306513 }
+                                {"latitude": 37.306748280374165, "longitude": 127.12184042238258},
+                                {"latitude": 37.3069580983226, "longitude": 127.1215221014678}
                             ]
                         }
                     ]
@@ -13200,63 +13209,72 @@
                             "holeNumber": 1,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.31004907416133, "longitude": 127.11888463242319 }
+                                {"latitude": 37.30993883067021, "longitude": 127.11875191383179},
+                                {"latitude": 37.310170608774094, "longitude": 127.11898916804824}
                             ]
                         },
                         {
                             "holeNumber": 2,
                             "par": 5,
                             "greens": [
-                                { "latitude": 37.30568147545485, "longitude": 127.11871701921233 }
+                                {"latitude": 37.30570606987611, "longitude": 127.11890035452942},
+                                {"latitude": 37.305650120170746, "longitude": 127.11853649334866}
                             ]
                         },
                         {
                             "holeNumber": 3,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.308917024189725, "longitude": 127.11560029032702 }
+                                {"latitude": 37.30889657449953, "longitude": 127.11578074335456},
+                                {"latitude": 37.30893069109762, "longitude": 127.11544520745456}
                             ]
                         },
                         {
                             "holeNumber": 4,
                             "par": 3,
                             "greens": [
-                                { "latitude": 37.31063658974882, "longitude": 127.11703555046942 }
+                                {"latitude": 37.31056432846233, "longitude": 127.1172159267785},
+                                {"latitude": 37.31074487816227, "longitude": 127.11686933025771}
                             ]
                         },
                         {
                             "holeNumber": 5,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.31286699691178, "longitude": 127.11437672402307 }
+                                {"latitude": 37.3129433910097, "longitude": 127.11457707530349},
+                                {"latitude": 37.3128266573943, "longitude": 127.11416232660154}
                             ]
                         },
                         {
                             "holeNumber": 6,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.315758119667926, "longitude": 127.11560794532195 }
+                                {"latitude": 37.31574028072177, "longitude": 127.11542177665862},
+                                {"latitude": 37.31576470093499, "longitude": 127.11578845615595}
                             ]
                         },
                         {
                             "holeNumber": 7,
                             "par": 3,
                             "greens": [
-                                { "latitude": 37.3137664927404, "longitude": 127.11595742658828 }
+                                {"latitude": 37.31383648294629, "longitude": 127.11579395946079},
+                                {"latitude": 37.31370549879795, "longitude": 127.11613500848688}
                             ]
                         },
                         {
                             "holeNumber": 8,
                             "par": 5,
                             "greens": [
-                                { "latitude": 37.31103946886601, "longitude": 127.1196222504192 }
+                                {"latitude": 37.31094045211557, "longitude": 127.11952620864598},
+                                {"latitude": 37.311160897189595, "longitude": 127.11983113406951}
                             ]
                         },
                         {
                             "holeNumber": 9,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.30802054520389, "longitude": 127.12227394056619 }
+                                {"latitude": 37.308052282254614, "longitude": 127.12207940947197},
+                                {"latitude": 37.30797977998866, "longitude": 127.12248537705382}
                             ]
                         }
                     ]
@@ -13268,63 +13286,72 @@
                             "holeNumber": 1,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.31036202363557, "longitude": 127.12126248832438 }
+                                {"latitude": 37.310253994988834, "longitude": 127.12116925092212},
+                                {"latitude": 37.31049704270434, "longitude": 127.12139525115832}
                             ]
                         },
                         {
                             "holeNumber": 2,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.31305025960927, "longitude": 127.1181448194268 }
+                                {"latitude": 37.31292635070803, "longitude": 127.11816154683049},
+                                {"latitude": 37.31321696474578, "longitude": 127.11813097916092}
                             ]
                         },
                         {
                             "holeNumber": 3,
                             "par": 5,
                             "greens": [
-                                { "latitude": 37.317494604870575, "longitude": 127.11814895479772 }
+                                {"latitude": 37.3174425982438, "longitude": 127.1183463004806},
+                                {"latitude": 37.31756686752137, "longitude": 127.1179685628442}
                             ]
                         },
                         {
                             "holeNumber": 4,
                             "par": 3,
                             "greens": [
-                                { "latitude": 37.316227789860214, "longitude": 127.11900999652671 }
+                                {"latitude": 37.31627266264579, "longitude": 127.11918774889162},
+                                {"latitude": 37.31617839465142, "longitude": 127.11884915929176}
                             ]
                         },
                         {
                             "holeNumber": 5,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.31374167262589, "longitude": 127.11827563288145 }
+                                {"latitude": 37.31373249023126, "longitude": 127.11844765364218},
+                                {"latitude": 37.31375535148959, "longitude": 127.1181120798604}
                             ]
                         },
                         {
                             "holeNumber": 6,
                             "par": 5,
                             "greens": [
-                                { "latitude": 37.31054059268561, "longitude": 127.12285050772711 }
+                                {"latitude": 37.31051149926209, "longitude": 127.12266715207826},
+                                {"latitude": 37.31055615273716, "longitude": 127.1230507622412}
                             ]
                         },
                         {
                             "holeNumber": 7,
                             "par": 3,
                             "greens": [
-                                { "latitude": 37.31276467050109, "longitude": 127.12210113008854 }
+                                {"latitude": 37.31277351194388, "longitude": 127.12226471670553},
+                                {"latitude": 37.31276031946494, "longitude": 127.12195165182163}
                             ]
                         },
                         {
                             "holeNumber": 8,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.310513498424605, "longitude": 127.12506144392057 }
+                                {"latitude": 37.310450595883786, "longitude": 127.1249005925757},
+                                {"latitude": 37.310576388808784, "longitude": 127.12523357603403}
                             ]
                         },
                         {
                             "holeNumber": 9,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.30750904660546, "longitude": 127.12458834520125 }
+                                {"latitude": 37.30746608413567, "longitude": 127.12474337509028},
+                                {"latitude": 37.30756103106587, "longitude": 127.12442204993228}
                             ]
                         }
                     ]
