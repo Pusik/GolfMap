@@ -3257,6 +3257,43 @@
             ]
         },
         {
+            "clubName": "경찰체력단련장 용인 (경기 용인시)",
+            "latitude": 37.182134, "longitude": 127.135456,
+            "hasVerifiedGPS": true,
+            "courses": [
+                {
+                    "courseName": "코스(1)",
+                    "holePars": [4, 4, 5, 4, 3, 4, 4, 3, 5],
+                    "holeGreens": [
+                        {"latitude": 37.30243420763401, "longitude": 127.13265595497914},
+                        {"latitude": 37.30016201641272, "longitude": 127.13405901503417},
+                        {"latitude": 37.30340732731099, "longitude": 127.13265484438608},
+                        {"latitude": 37.3012309692204, "longitude": 127.12890071301796},
+                        {"latitude": 37.30080780828132, "longitude": 127.12860109571443},
+                        {"latitude": 37.30074504040636, "longitude": 127.13241048857212},
+                        {"latitude": 37.30009545703329, "longitude": 127.12909051738966},
+                        {"latitude": 37.29905974942697, "longitude": 127.12864605440834},
+                        {"latitude": 37.29903984879808, "longitude": 127.13239340085813}
+                    ]
+                },
+                {
+                    "courseName": "코스(2)",
+                    "holePars": [4, 4, 5, 4, 3, 4, 4, 3, 5],
+                    "holeGreens": [
+                        {"latitude": 37.30243420763401, "longitude": 127.13265595497914},
+                        {"latitude": 37.30016201641272, "longitude": 127.13405901503417},
+                        {"latitude": 37.30340732731099, "longitude": 127.13265484438608},
+                        {"latitude": 37.3012309692204, "longitude": 127.12890071301796},
+                        {"latitude": 37.30080780828132, "longitude": 127.12860109571443},
+                        {"latitude": 37.30074504040636, "longitude": 127.13241048857212},
+                        {"latitude": 37.30009545703329, "longitude": 127.12909051738966},
+                        {"latitude": 37.29905974942697, "longitude": 127.12864605440834},
+                        {"latitude": 37.29903984879808, "longitude": 127.13239340085813}
+                    ]
+                }
+            ]
+        },
+        {
             "clubName": "은화삼 컨트리클럽 (경기 용인시)",
             "latitude": 37.221456, "longitude": 127.221567,
             "hasVerifiedGPS": false,
