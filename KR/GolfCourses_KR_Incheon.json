@@ -3,53 +3,52 @@
     "clubs": [
         {
             "clubName": "베어즈베스트 청라 골프클럽 (인천 서구)",
-            "latitude": 37.545123,
-            "longitude": 126.621345,
-            "hasVerifiedGPS": false,
+            "latitude": 37.54476281766498, "longitude": 126.63454813471122,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Australasia Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "courseName": "아시아 코스",
+                    "holePars": [5, 4, 3, 4, 4, 4, 3, 4, 5],
                     "holeGreens": [
-                        {"latitude": 37.545123, "longitude": 126.622345},
-                        {"latitude": 37.546123, "longitude": 126.624345},
-                        {"latitude": 37.547123, "longitude": 126.626345},
-                        {"latitude": 37.548123, "longitude": 126.625345},
-                        {"latitude": 37.549123, "longitude": 126.623345},
-                        {"latitude": 37.548123, "longitude": 126.621345},
-                        {"latitude": 37.547123, "longitude": 126.620345},
-                        {"latitude": 37.546123, "longitude": 126.621345},
-                        {"latitude": 37.545123, "longitude": 126.623345}
+                        {"latitude": 37.547699941611455, "longitude": 126.63964018847172},
+                        {"latitude": 37.5462361951986, "longitude": 126.64347200414706},
+                        {"latitude": 37.546962379681595, "longitude": 126.64005111489767},
+                        {"latitude": 37.5447954477569, "longitude": 126.63563145042296},
+                        {"latitude": 37.54579202641585, "longitude": 126.64035944045565},
+                        {"latitude": 37.5450909764614, "longitude": 126.64390179748777},
+                        {"latitude": 37.54422950101306, "longitude": 126.64655939950153},
+                        {"latitude": 37.543496519961785, "longitude": 126.64400273416658},
+                        {"latitude": 37.543597445915765, "longitude": 126.63719881800749}
                     ]
                 },
                 {
-                    "courseName": "Europe Course",
-                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "courseName": "유럽 코스",
+                    "holePars": [4, 4, 3, 5, 3, 5, 4, 4, 4],
                     "holeGreens": [
-                        {"latitude": 37.550123, "longitude": 126.622345},
-                        {"latitude": 37.551123, "longitude": 126.624345},
-                        {"latitude": 37.552123, "longitude": 126.626345},
-                        {"latitude": 37.553123, "longitude": 126.625345},
-                        {"latitude": 37.554123, "longitude": 126.623345},
-                        {"latitude": 37.553123, "longitude": 126.621345},
-                        {"latitude": 37.552123, "longitude": 126.620345},
-                        {"latitude": 37.551123, "longitude": 126.621345},
-                        {"latitude": 37.550123, "longitude": 126.623345}
+                        {"latitude": 37.54910165293008, "longitude": 126.63399791427503},
+                        {"latitude": 37.553152707138416, "longitude": 126.63289733716461},
+                        {"latitude": 37.554951298945205, "longitude": 126.63398062433441},
+                        {"latitude": 37.55371034632489, "longitude": 126.62898174485191},
+                        {"latitude": 37.552462650660864, "longitude": 126.62689431798384},
+                        {"latitude": 37.55400161408391, "longitude": 126.63208400352421},
+                        {"latitude": 37.55115067991602, "longitude": 126.62728279427583},
+                        {"latitude": 37.55063282702855, "longitude": 126.63093778835281},
+                        {"latitude": 37.54624669556524, "longitude": 126.63293120617978}
                     ]
                 },
                 {
-                    "courseName": "USA Course",
-                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
+                    "courseName": "미국 코스",
+                    "holePars": [4, 5, 3, 4, 4, 5, 3, 4, 4],
                     "holeGreens": [
-                        {"latitude": 37.545123, "longitude": 126.632345},
-                        {"latitude": 37.546123, "longitude": 126.634345},
-                        {"latitude": 37.547123, "longitude": 126.636345},
-                        {"latitude": 37.548123, "longitude": 126.635345},
-                        {"latitude": 37.549123, "longitude": 126.633345},
-                        {"latitude": 37.548123, "longitude": 126.631345},
-                        {"latitude": 37.547123, "longitude": 126.630345},
-                        {"latitude": 37.546123, "longitude": 126.631345},
-                        {"latitude": 37.545123, "longitude": 126.633345}
+                        {"latitude": 37.549371468575025, "longitude": 126.63022824821049},
+                        {"latitude": 37.54882685683334, "longitude": 126.62609201179218},
+                        {"latitude": 37.54849350485392, "longitude": 126.62752234999888},
+                        {"latitude": 37.544776457886016, "longitude": 126.62809531205977},
+                        {"latitude": 37.54755157440111, "longitude": 126.62811264417104},
+                        {"latitude": 37.54515200589972, "longitude": 126.62363505405577},
+                        {"latitude": 37.54434621226149, "longitude": 126.62311575882094},
+                        {"latitude": 37.543509406816405, "longitude": 126.62701532127474},
+                        {"latitude": 37.54496526444523, "longitude": 126.63083842883287}
                     ]
                 }
             ]
