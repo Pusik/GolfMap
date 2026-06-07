@@ -4957,37 +4957,67 @@
         },
         {
             "clubName": "리베라 컨트리클럽 (경기 화성시)",
-            "latitude": 37.185234, "longitude": 127.108345,
-            "hasVerifiedGPS": false,
+            "latitude": 37.190826745940036, "longitude": 127.11505961919976,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
                     "courseName": "Lake Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holePars": [4, 3, 4, 5, 4, 4, 3, 5, 4],
                     "holeGreens": [
-                        {"latitude": 37.185234, "longitude": 127.109345},
-                        {"latitude": 37.186234, "longitude": 127.111345},
-                        {"latitude": 37.187234, "longitude": 127.113345},
-                        {"latitude": 37.188234, "longitude": 127.112345},
-                        {"latitude": 37.189234, "longitude": 127.110345},
-                        {"latitude": 37.188234, "longitude": 127.108345},
-                        {"latitude": 37.187234, "longitude": 127.107345},
-                        {"latitude": 37.186234, "longitude": 127.108345},
-                        {"latitude": 37.185234, "longitude": 127.110345}
+                        {"latitude": 37.19351560986385, "longitude": 127.10872821481055},
+                        {"latitude": 37.19311921593465, "longitude": 127.106168123973},
+                        {"latitude": 37.192155699526964, "longitude": 127.10798573037006},
+                        {"latitude": 37.193543273396884, "longitude": 127.10297844796156},
+                        {"latitude": 37.19209564633587, "longitude": 127.099386441034},
+                        {"latitude": 37.19143216264083, "longitude": 127.1034317233755},
+                        {"latitude": 37.19309567079136, "longitude": 127.1022035073118},
+                        {"latitude": 37.19412700061136, "longitude": 127.10771259000711},
+                        {"latitude": 37.19129253754015, "longitude": 127.1108621347125}
                     ]
                 },
                 {
                     "courseName": "Valley Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holePars": [4, 5, 3, 4, 4, 3, 5, 4, 4],
                     "holeGreens": [
-                        {"latitude": 37.190234, "longitude": 127.109345},
-                        {"latitude": 37.191234, "longitude": 127.111345},
-                        {"latitude": 37.192234, "longitude": 127.113345},
-                        {"latitude": 37.193234, "longitude": 127.112345},
-                        {"latitude": 37.194234, "longitude": 127.110345},
-                        {"latitude": 37.193234, "longitude": 127.108345},
-                        {"latitude": 37.192234, "longitude": 127.107345},
-                        {"latitude": 37.191234, "longitude": 127.108345},
-                        {"latitude": 37.190234, "longitude": 127.110345}
+                        {"latitude": 37.193302790335736, "longitude": 127.11229266559754},
+                        {"latitude": 37.196030593844924, "longitude": 127.10758013284045},
+                        {"latitude": 37.19509213137166, "longitude": 127.1066017084144},
+                        {"latitude": 37.194649957783454, "longitude": 127.10223657630983},
+                        {"latitude": 37.19459833854423, "longitude": 127.10711912342482},
+                        {"latitude": 37.19542943591159, "longitude": 127.10725545801859},
+                        {"latitude": 37.1937111201054, "longitude": 127.11165408867942},
+                        {"latitude": 37.193002905195804, "longitude": 127.11493902816426},
+                        {"latitude": 37.190873168170285, "longitude": 127.11364059060561}
+                    ]
+                },
+                {
+                    "courseName": "Pinehill Course",
+                    "holePars": [5, 4, 3, 4, 4, 3, 4, 4, 5],
+                    "holeGreens": [
+                        {"latitude": 37.19091964309555, "longitude": 127.10476565410839},
+                        {"latitude": 37.19090794171017, "longitude": 127.10006064623452},
+                        {"latitude": 37.189951085015096, "longitude": 127.10210072180293},
+                        {"latitude": 37.190122077050646, "longitude": 127.10743096807296},
+                        {"latitude": 37.18836116436315, "longitude": 127.10418492584162},
+                        {"latitude": 37.18656576059519, "longitude": 127.10424721629427},
+                        {"latitude": 37.18872942721249, "longitude": 127.1055059450224},
+                        {"latitude": 37.18575827476455, "longitude": 127.10542579382157},
+                        {"latitude": 37.19010453628228, "longitude": 127.10936810649831}
+                    ]
+                },
+                {
+                    "courseName": "Cherryhill Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 4, 3, 5],
+                    "holeGreens": [
+                        {"latitude": 37.18591570722775, "longitude": 127.1106431133847},
+                        {"latitude": 37.188271866251036, "longitude": 127.1131298888979},
+                        {"latitude": 37.189768400644795, "longitude": 127.11465537810044},
+                        {"latitude": 37.185044342874775, "longitude": 127.1126042153556},
+                        {"latitude": 37.18527915476851, "longitude": 127.10962861736445},
+                        {"latitude": 37.18801759545987, "longitude": 127.11044909008127},
+                        {"latitude": 37.18571996629173, "longitude": 127.10794278108813},
+                        {"latitude": 37.18538366162728, "longitude": 127.1061826343047},
+                        {"latitude": 37.18965817718028, "longitude": 127.1097334943675}
                     ]
                 }
             ]
