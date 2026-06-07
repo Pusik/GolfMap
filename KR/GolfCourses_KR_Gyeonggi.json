@@ -3229,52 +3229,52 @@
         },
         {
             "clubName": "코리아 컨트리클럽 (경기 용인시)",
-            "latitude": 37.222345, "longitude": 127.117456,
-            "hasVerifiedGPS": false,
+            "latitude": 37.2192523283526, "longitude": 127.15138785140113,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Lake Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "courseName": "레이크 코스",
+                    "holePars": [5, 4, 3, 4, 4, 4, 5, 3, 4],
                     "holeGreens": [
-                        {"latitude": 37.222345, "longitude": 127.118456},
-                        {"latitude": 37.223345, "longitude": 127.120456},
-                        {"latitude": 37.224345, "longitude": 127.122456},
-                        {"latitude": 37.225345, "longitude": 127.121456},
-                        {"latitude": 37.226345, "longitude": 127.119456},
-                        {"latitude": 37.225345, "longitude": 127.117456},
-                        {"latitude": 37.224345, "longitude": 127.116456},
-                        {"latitude": 37.223345, "longitude": 127.117456},
-                        {"latitude": 37.222345, "longitude": 127.119456}
+                        {"latitude": 37.21609951738726, "longitude": 127.15763723913244},
+                        {"latitude": 37.218952067280334, "longitude": 127.15537853618986},
+                        {"latitude": 37.219422879706926, "longitude": 127.15707517464081},
+                        {"latitude": 37.21675964243826, "longitude": 127.1592412768777},
+                        {"latitude": 37.21868141077876, "longitude": 127.15734404086848},
+                        {"latitude": 37.219155859757365, "longitude": 127.16132787140434},
+                        {"latitude": 37.22053882181862, "longitude": 127.15639864616583},
+                        {"latitude": 37.22180709891852, "longitude": 127.15635901249368},
+                        {"latitude": 37.21948029749508, "longitude": 127.1527882240064}
                     ]
                 },
                 {
-                    "courseName": "Pine Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "courseName": "챌린지 코스",
+                    "holePars": [4, 3, 5, 4, 5, 3, 4, 4, 4],
                     "holeGreens": [
-                        {"latitude": 37.227345, "longitude": 127.118456},
-                        {"latitude": 37.228345, "longitude": 127.120456},
-                        {"latitude": 37.229345, "longitude": 127.122456},
-                        {"latitude": 37.230345, "longitude": 127.121456},
-                        {"latitude": 37.231345, "longitude": 127.119456},
-                        {"latitude": 37.230345, "longitude": 127.117456},
-                        {"latitude": 37.229345, "longitude": 127.116456},
-                        {"latitude": 37.228345, "longitude": 127.117456},
-                        {"latitude": 37.227345, "longitude": 127.119456}
+                        {"latitude": 37.22188332290226, "longitude": 127.15492258975657},
+                        {"latitude": 37.223157167538, "longitude": 127.1557899746162},
+                        {"latitude": 37.22085354519828, "longitude": 127.15857667102497},
+                        {"latitude": 37.22054750589317, "longitude": 127.16331666069397},
+                        {"latitude": 37.22368530929499, "longitude": 127.15841076922663},
+                        {"latitude": 37.22272772346872, "longitude": 127.16025098966315},
+                        {"latitude": 37.225485920879535, "longitude": 127.15783424203885},
+                        {"latitude": 37.223197980592126, "longitude": 127.15386331769696},
+                        {"latitude": 37.22032659487036, "longitude": 127.15157027130941}
                     ]
                 },
                 {
-                    "courseName": "Creek Course",
-                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "courseName": "크릭 코스",
+                    "holePars": [5, 4, 4, 3, 4, 3, 5, 4, 4],
                     "holeGreens": [
-                        {"latitude": 37.222345, "longitude": 127.128456},
-                        {"latitude": 37.223345, "longitude": 127.130456},
-                        {"latitude": 37.224345, "longitude": 127.132456},
-                        {"latitude": 37.225345, "longitude": 127.131456},
-                        {"latitude": 37.226345, "longitude": 127.129456},
-                        {"latitude": 37.225345, "longitude": 127.127456},
-                        {"latitude": 37.224345, "longitude": 127.126456},
-                        {"latitude": 37.223345, "longitude": 127.127456},
-                        {"latitude": 37.222345, "longitude": 127.129456}
+                        {"latitude": 37.215557728752394, "longitude": 127.14624864406184},
+                        {"latitude": 37.2180043185893, "longitude": 127.14786732453534},
+                        {"latitude": 37.21606499816912, "longitude": 127.1459003639108},
+                        {"latitude": 37.21465069110534, "longitude": 127.14562443455311},
+                        {"latitude": 37.21656999502144, "longitude": 127.14918833944253},
+                        {"latitude": 37.214813655454904, "longitude": 127.14862720193855},
+                        {"latitude": 37.218018344888215, "longitude": 127.15103330044893},
+                        {"latitude": 37.21590394251381, "longitude": 127.15390483540828},
+                        {"latitude": 37.21875339213185, "longitude": 127.15225158351568}
                     ]
                 }
             ]
