@@ -3162,37 +3162,67 @@
         },
         {
             "clubName": "골드 컨트리클럽 (경기 용인시)",
-            "latitude": 37.228123, "longitude": 127.112345,
-            "hasVerifiedGPS": false,
+            "latitude": 37.217751948174936, "longitude": 127.13667901660298,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Champion Out Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "courseName": "챔피언 OUT코스",
+                    "holePars": [4, 3, 5, 3, 4, 5, 3, 5, 4],
                     "holeGreens": [
-                        {"latitude": 37.228123, "longitude": 127.113345},
-                        {"latitude": 37.229123, "longitude": 127.115345},
-                        {"latitude": 37.230123, "longitude": 127.117345},
-                        {"latitude": 37.231123, "longitude": 127.116345},
-                        {"latitude": 37.232123, "longitude": 127.114345},
-                        {"latitude": 37.231123, "longitude": 127.112345},
-                        {"latitude": 37.230123, "longitude": 127.111345},
-                        {"latitude": 37.229123, "longitude": 127.112345},
-                        {"latitude": 37.228123, "longitude": 127.114345}
+                        {"latitude": 37.21821534014757, "longitude": 127.13127744500638},
+                        {"latitude": 37.21733085855419, "longitude": 127.13258284035578},
+                        {"latitude": 37.217737277362986, "longitude": 127.12551089223692},
+                        {"latitude": 37.217356304119534, "longitude": 127.12577502676878},
+                        {"latitude": 37.21707932093628, "longitude": 127.12986715353091},
+                        {"latitude": 37.21564091847468, "longitude": 127.13499651920358},
+                        {"latitude": 37.21610400262133, "longitude": 127.1318455582555},
+                        {"latitude": 37.21470802625098, "longitude": 127.13526524653986},
+                        {"latitude": 37.2150983093177, "longitude": 127.13073689526261}
                     ]
                 },
                 {
-                    "courseName": "Champion In Course",
-                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "courseName": "챔피언 IN코스",
+                    "holePars": [3, 4, 4, 5, 3, 4, 4, 5, 4],
                     "holeGreens": [
-                        {"latitude": 37.233123, "longitude": 127.113345},
-                        {"latitude": 37.234123, "longitude": 127.115345},
-                        {"latitude": 37.235123, "longitude": 127.117345},
-                        {"latitude": 37.236123, "longitude": 127.116345},
-                        {"latitude": 37.237123, "longitude": 127.114345},
-                        {"latitude": 37.236123, "longitude": 127.112345},
-                        {"latitude": 37.235123, "longitude": 127.111345},
-                        {"latitude": 37.234123, "longitude": 127.112345},
-                        {"latitude": 37.233123, "longitude": 127.114345}
+                        {"latitude": 37.213587309932954, "longitude": 127.13230590401346},
+                        {"latitude": 37.215535522413006, "longitude": 127.13654545499553},
+                        {"latitude": 37.21345144450881, "longitude": 127.13689376303157},
+                        {"latitude": 37.21354607683658, "longitude": 127.14260300840083},
+                        {"latitude": 37.21558835086748, "longitude": 127.14331099979255},
+                        {"latitude": 37.215643040614985, "longitude": 127.13900453382385},
+                        {"latitude": 37.215229134297324, "longitude": 127.1423132521657},
+                        {"latitude": 37.21399023623592, "longitude": 127.13847481027821},
+                        {"latitude": 37.2166780888408, "longitude": 127.13806849484936}
+                    ]
+                },
+                {
+                    "courseName": "마스터 OUT코스",
+                    "holePars": [4, 3, 4, 5, 4, 4, 3, 4, 5],
+                    "holeGreens": [
+                        {"latitude": 37.22138855598491, "longitude": 127.13978688145865},
+                        {"latitude": 37.222193546299685, "longitude": 127.14100805691119},
+                        {"latitude": 37.219953838843175, "longitude": 127.1433868602515},
+                        {"latitude": 37.21969265122224, "longitude": 127.14877197764605},
+                        {"latitude": 37.21938030871345, "longitude": 127.14450965034055},
+                        {"latitude": 37.21776803993315, "longitude": 127.14025621812709},
+                        {"latitude": 37.218941898961404, "longitude": 127.14194278689625},
+                        {"latitude": 37.22144303616677, "longitude": 127.14133340949876},
+                        {"latitude": 37.21816147935514, "longitude": 127.13899788796367}
+                    ]
+                },
+                {
+                    "courseName": "마스터 IN코스",
+                    "holePars": [3, 5, 4, 5, 3, 4, 3, 4, 5],
+                    "holeGreens": [
+                        {"latitude": 37.21624320516681, "longitude": 127.14009566478796},
+                        {"latitude": 37.21855959560985, "longitude": 127.14513057556293},
+                        {"latitude": 37.21655747625663, "longitude": 127.14289878894321},
+                        {"latitude": 37.21305382214426, "longitude": 127.14358222251498},
+                        {"latitude": 37.215650271919365, "longitude": 127.14426030853923},
+                        {"latitude": 37.218113569412886, "longitude": 127.14696338227665},
+                        {"latitude": 37.21820544002483, "longitude": 127.1491549431387},
+                        {"latitude": 37.21875027582607, "longitude": 127.14577596689092},
+                        {"latitude": 37.217359250163376, "longitude": 127.1392499151168}
                     ]
                 }
             ]
