@@ -93,38 +93,37 @@
         },
         {
             "clubName": "인천국제 컨트리클럽 (인천 서구)",
-            "latitude": 37.568345,
-            "longitude": 126.643123,
-            "hasVerifiedGPS": false,
+            "latitude": 37.56189182437959, "longitude": 126.65360082051072,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Out Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "courseName": "OUT코스",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 4, 5],
                     "holeGreens": [
-                        {"latitude": 37.568345, "longitude": 126.644123},
-                        {"latitude": 37.569345, "longitude": 126.646123},
-                        {"latitude": 37.570345, "longitude": 126.648123},
-                        {"latitude": 37.571345, "longitude": 126.647123},
-                        {"latitude": 37.572345, "longitude": 126.645123},
-                        {"latitude": 37.571345, "longitude": 126.643123},
-                        {"latitude": 37.570345, "longitude": 126.642123},
-                        {"latitude": 37.569345, "longitude": 126.643123},
-                        {"latitude": 37.568345, "longitude": 126.645123}
+                        {"latitude": 37.560898496188386, "longitude": 126.64903007509795},
+                        {"latitude": 37.5590321343163, "longitude": 126.64407879397831},
+                        {"latitude": 37.562237922152256, "longitude": 126.64350045797532},
+                        {"latitude": 37.56028972560828, "longitude": 126.64431331952278},
+                        {"latitude": 37.56085829361253, "longitude": 126.64763247845721},
+                        {"latitude": 37.562819284673616, "longitude": 126.64432110092034},
+                        {"latitude": 37.56409790736747, "longitude": 126.64406035375114},
+                        {"latitude": 37.561974970287274, "longitude": 126.64669346220157},
+                        {"latitude": 37.56286721389726, "longitude": 126.65209095662723}
                     ]
                 },
                 {
-                    "courseName": "In Course",
-                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "courseName": "IN코스",
+                    "holePars": [4, 4, 4, 3, 5, 4, 3, 4, 5],
                     "holeGreens": [
-                        {"latitude": 37.573345, "longitude": 126.644123},
-                        {"latitude": 37.574345, "longitude": 126.646123},
-                        {"latitude": 37.575345, "longitude": 126.648123},
-                        {"latitude": 37.576345, "longitude": 126.647123},
-                        {"latitude": 37.577345, "longitude": 126.645123},
-                        {"latitude": 37.576345, "longitude": 126.643123},
-                        {"latitude": 37.575345, "longitude": 126.642123},
-                        {"latitude": 37.574345, "longitude": 126.643123},
-                        {"latitude": 37.573345, "longitude": 126.645123}
+                        {"latitude": 37.56257486529277, "longitude": 126.657646801645},
+                        {"latitude": 37.55987433124746, "longitude": 126.65616235914375},
+                        {"latitude": 37.561967117400506, "longitude": 126.65935015269503},
+                        {"latitude": 37.55945813648992, "longitude": 126.65789024990158},
+                        {"latitude": 37.558742261929225, "longitude": 126.66273187503582},
+                        {"latitude": 37.55915075177709, "longitude": 126.65908568784307},
+                        {"latitude": 37.56028099013944, "longitude": 126.66204302867084},
+                        {"latitude": 37.56324108579769, "longitude": 126.66058938293119},
+                        {"latitude": 37.56277945034066, "longitude": 126.65442012373562}
                     ]
                 }
             ]
