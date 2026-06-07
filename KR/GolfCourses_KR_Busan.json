@@ -2,6 +2,82 @@
     "region": "부산광역시",
     "clubs": [
         {
+            "clubName": "동래베네스트 골프클럽 (부산 금정구)",
+            "latitude": 35.265432,
+            "longitude": 129.091234,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Out Course",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.265432, "longitude": 129.092234},
+                        {"latitude": 35.266432, "longitude": 129.094234},
+                        {"latitude": 35.267432, "longitude": 129.096234},
+                        {"latitude": 35.268432, "longitude": 129.095234},
+                        {"latitude": 35.269432, "longitude": 129.093234},
+                        {"latitude": 35.268432, "longitude": 129.091234},
+                        {"latitude": 35.267432, "longitude": 129.090234},
+                        {"latitude": 35.266432, "longitude": 129.091234},
+                        {"latitude": 35.265432, "longitude": 129.093234}
+                    ]
+                },
+                {
+                    "courseName": "In Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.270432, "longitude": 129.092234},
+                        {"latitude": 35.271432, "longitude": 129.094234},
+                        {"latitude": 35.272432, "longitude": 129.096234},
+                        {"latitude": 35.273432, "longitude": 129.095234},
+                        {"latitude": 35.274432, "longitude": 129.093234},
+                        {"latitude": 35.273432, "longitude": 129.091234},
+                        {"latitude": 35.272432, "longitude": 129.090234},
+                        {"latitude": 35.271432, "longitude": 129.091234},
+                        {"latitude": 35.270432, "longitude": 129.093234}
+                    ]
+                }
+            ]
+        },
+        {
+            "clubName": "부산 컨트리클럽 (부산 금정구)",
+            "latitude": 35.282345,
+            "longitude": 129.098765,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Out Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.282345, "longitude": 129.099765},
+                        {"latitude": 35.283345, "longitude": 129.101765},
+                        {"latitude": 35.284345, "longitude": 129.103765},
+                        {"latitude": 35.285345, "longitude": 129.102765},
+                        {"latitude": 35.286345, "longitude": 129.100765},
+                        {"latitude": 35.285345, "longitude": 129.098765},
+                        {"latitude": 35.284345, "longitude": 129.097765},
+                        {"latitude": 35.283345, "longitude": 129.098765},
+                        {"latitude": 35.282345, "longitude": 129.100765}
+                    ]
+                },
+                {
+                    "courseName": "In Course",
+                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "holeGreens": [
+                        {"latitude": 35.287345, "longitude": 129.099765},
+                        {"latitude": 35.288345, "longitude": 129.101765},
+                        {"latitude": 35.289345, "longitude": 129.103765},
+                        {"latitude": 35.290345, "longitude": 129.102765},
+                        {"latitude": 35.291345, "longitude": 129.100765},
+                        {"latitude": 35.290345, "longitude": 129.098765},
+                        {"latitude": 35.289345, "longitude": 129.097765},
+                        {"latitude": 35.288345, "longitude": 129.098765},
+                        {"latitude": 35.287345, "longitude": 129.100765}
+                    ]
+                }
+            ]
+        },
+        {
             "clubName": "아시아드 컨트리클럽 (부산 기장군)",
             "latitude": 35.291234,
             "longitude": 129.215678,
@@ -103,82 +179,6 @@
                         {"latitude": 35.342123, "longitude": 129.184432},
                         {"latitude": 35.341123, "longitude": 129.185432},
                         {"latitude": 35.340123, "longitude": 129.187432}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "동래베네스트 골프클럽 (부산 금정구)",
-            "latitude": 35.265432,
-            "longitude": 129.091234,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Out Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 35.265432, "longitude": 129.092234},
-                        {"latitude": 35.266432, "longitude": 129.094234},
-                        {"latitude": 35.267432, "longitude": 129.096234},
-                        {"latitude": 35.268432, "longitude": 129.095234},
-                        {"latitude": 35.269432, "longitude": 129.093234},
-                        {"latitude": 35.268432, "longitude": 129.091234},
-                        {"latitude": 35.267432, "longitude": 129.090234},
-                        {"latitude": 35.266432, "longitude": 129.091234},
-                        {"latitude": 35.265432, "longitude": 129.093234}
-                    ]
-                },
-                {
-                    "courseName": "In Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
-                    "holeGreens": [
-                        {"latitude": 35.270432, "longitude": 129.092234},
-                        {"latitude": 35.271432, "longitude": 129.094234},
-                        {"latitude": 35.272432, "longitude": 129.096234},
-                        {"latitude": 35.273432, "longitude": 129.095234},
-                        {"latitude": 35.274432, "longitude": 129.093234},
-                        {"latitude": 35.273432, "longitude": 129.091234},
-                        {"latitude": 35.272432, "longitude": 129.090234},
-                        {"latitude": 35.271432, "longitude": 129.091234},
-                        {"latitude": 35.270432, "longitude": 129.093234}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "부산 컨트리클럽 (부산 금정구)",
-            "latitude": 35.282345,
-            "longitude": 129.098765,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Out Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
-                    "holeGreens": [
-                        {"latitude": 35.282345, "longitude": 129.099765},
-                        {"latitude": 35.283345, "longitude": 129.101765},
-                        {"latitude": 35.284345, "longitude": 129.103765},
-                        {"latitude": 35.285345, "longitude": 129.102765},
-                        {"latitude": 35.286345, "longitude": 129.100765},
-                        {"latitude": 35.285345, "longitude": 129.098765},
-                        {"latitude": 35.284345, "longitude": 129.097765},
-                        {"latitude": 35.283345, "longitude": 129.098765},
-                        {"latitude": 35.282345, "longitude": 129.100765}
-                    ]
-                },
-                {
-                    "courseName": "In Course",
-                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
-                    "holeGreens": [
-                        {"latitude": 35.287345, "longitude": 129.099765},
-                        {"latitude": 35.288345, "longitude": 129.101765},
-                        {"latitude": 35.289345, "longitude": 129.103765},
-                        {"latitude": 35.290345, "longitude": 129.102765},
-                        {"latitude": 35.291345, "longitude": 129.100765},
-                        {"latitude": 35.290345, "longitude": 129.098765},
-                        {"latitude": 35.289345, "longitude": 129.097765},
-                        {"latitude": 35.288345, "longitude": 129.098765},
-                        {"latitude": 35.287345, "longitude": 129.100765}
                     ]
                 }
             ]
