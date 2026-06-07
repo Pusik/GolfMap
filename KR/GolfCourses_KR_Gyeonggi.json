@@ -144,38 +144,38 @@
         },
         {
             "clubName": "프리스틴밸리 골프클럽 (경기 가평군)",
-            "latitude": 37.681678, "longitude": 127.481789,
-            "hasVerifiedGPS": false,
+            "latitude": 37.656138264866044, "longitude": 127.45072753200185,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Pristine Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "courseName": "프리스틴 코스",
+                    "holePars": [5, 4, 3, 4, 5, 3, 4, 4, 4],
                     "holeGreens": [
-                        {"latitude": 37.681678, "longitude": 127.482789},
-                        {"latitude": 37.682678, "longitude": 127.484789},
-                        {"latitude": 37.683678, "longitude": 127.486789},
-                        {"latitude": 37.684678, "longitude": 127.485789},
-                        {"latitude": 37.685678, "longitude": 127.483789},
-                        {"latitude": 37.684678, "longitude": 127.481789},
-                        {"latitude": 37.683678, "longitude": 127.480789},
-                        {"latitude": 37.682678, "longitude": 127.481789},
-                        {"latitude": 37.681678, "longitude": 127.483789}
+                        {"latitude": 37.65216823181044, "longitude": 127.45222767697881},
+                        {"latitude": 37.65528404633106, "longitude": 127.4532211583935},
+                        {"latitude": 37.653518212636335, "longitude": 127.4543719670996},
+                        {"latitude": 37.65624731265583, "longitude": 127.45400895791376},
+                        {"latitude": 37.66051173775012, "longitude": 127.45678038859035},
+                        {"latitude": 37.659503730216414, "longitude": 127.4553349188192},
+                        {"latitude": 37.65749852746048, "longitude": 127.45195968867313},
+                        {"latitude": 37.65902965565007, "longitude": 127.45444238687546},
+                        {"latitude": 37.65649158497612, "longitude": 127.4525740427946}
                     ]
                 },
                 {
-                    "courseName": "Valley Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "courseName": "밸리 코스",
+                    "holePars": [5, 3, 4, 4, 5, 4, 4, 3, 4],
                     "holeGreens": [
-                        {"latitude": 37.686678, "longitude": 127.482789},
-                        {"latitude": 37.687678, "longitude": 127.484789},
-                        {"latitude": 37.688678, "longitude": 127.486789},
-                        {"latitude": 37.689678, "longitude": 127.485789},
-                        {"latitude": 37.690678, "longitude": 127.483789},
-                        {"latitude": 37.689678, "longitude": 127.481789},
-                        {"latitude": 37.688678, "longitude": 127.480789},
-                        {"latitude": 37.687678, "longitude": 127.481789},
-                        {"latitude": 37.686678, "longitude": 127.483789}
-                    ]
+                        {"latitude": 37.65244181271454, "longitude": 127.44900822932476},
+                        {"latitude": 37.650819823765715, "longitude": 127.44847720505419},
+                        {"latitude": 37.650819823765715, "longitude": 127.44847720505419},
+                        {"latitude": 37.65173387344696, "longitude": 127.45036662084975},
+                        {"latitude": 37.65139230217795, "longitude": 127.45485477964422},
+                        {"latitude": 37.652040305225356, "longitude": 127.45736591201435},
+                        {"latitude": 37.651864184288584, "longitude": 127.45339301486199},
+                        {"latitude": 37.65171638533657, "longitude": 127.45140621150729},
+                        {"latitude": 37.65550678308682, "longitude": 127.45152548312288}
+                    ]   
                 }
             ]
         },
