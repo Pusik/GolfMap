@@ -3407,52 +3407,52 @@
         },
         {
             "clubName": "해솔리아 컨트리클럽 (경기 용인시)",
-            "latitude": 37.201678, "longitude": 127.181789,
-            "hasVerifiedGPS": false,
+            "latitude": 37.20372374946219, "longitude": 127.18408610534317,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Hae Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "courseName": "해코스",
+                    "holePars": [4, 5, 4, 4, 3, 5, 4, 3, 4],
                     "holeGreens": [
-                        {"latitude": 37.201678, "longitude": 127.182789},
-                        {"latitude": 37.202678, "longitude": 127.184789},
-                        {"latitude": 37.203678, "longitude": 127.186789},
-                        {"latitude": 37.204678, "longitude": 127.185789},
-                        {"latitude": 37.205678, "longitude": 127.183789},
-                        {"latitude": 37.204678, "longitude": 127.181789},
-                        {"latitude": 37.203678, "longitude": 127.180789},
-                        {"latitude": 37.202678, "longitude": 127.181789},
-                        {"latitude": 37.201678, "longitude": 127.183789}
+                        {"latitude": 37.209350479492045, "longitude": 127.18137635587014},
+                        {"latitude": 37.21370621860965, "longitude": 127.17896175951739},
+                        {"latitude": 37.211849263403806, "longitude": 127.17799414789867},
+                        {"latitude": 37.21393621892094, "longitude": 127.17730900121795},
+                        {"latitude": 37.21099565024483, "longitude": 127.17640086658669},
+                        {"latitude": 37.21711355619899, "longitude": 127.17654467634902},
+                        {"latitude": 37.21395740694771, "longitude": 127.17969183358338},
+                        {"latitude": 37.21054449463954, "longitude": 127.18129472170409},
+                        {"latitude": 37.205522503480054, "longitude": 127.18333854489694}
                     ]
                 },
                 {
-                    "courseName": "Sol Course",
-                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
+                    "courseName": "솔코스",
+                    "holePars": [5, 4, 4, 3, 4, 4, 5, 3, 4],
                     "holeGreens": [
-                        {"latitude": 37.206678, "longitude": 127.182789},
-                        {"latitude": 37.207678, "longitude": 127.184789},
-                        {"latitude": 37.208678, "longitude": 127.186789},
-                        {"latitude": 37.209678, "longitude": 127.185789},
-                        {"latitude": 37.210678, "longitude": 127.183789},
-                        {"latitude": 37.209678, "longitude": 127.181789},
-                        {"latitude": 37.208678, "longitude": 127.180789},
-                        {"latitude": 37.207678, "longitude": 127.181789},
-                        {"latitude": 37.206678, "longitude": 127.183789}
+                        {"latitude": 37.21086235648519, "longitude": 127.18550320299326},
+                        {"latitude": 37.20766673896468, "longitude": 127.1863937784737},
+                        {"latitude": 37.2089792900969, "longitude": 127.1868560706412},
+                        {"latitude": 37.21127769736632, "longitude": 127.18639139464422},
+                        {"latitude": 37.210182824256954, "longitude": 127.18356949765199},
+                        {"latitude": 37.21303787528533, "longitude": 127.1814724934828},
+                        {"latitude": 37.210423536967404, "longitude": 127.1823167842927},
+                        {"latitude": 37.20910425797967, "longitude": 127.18328525021097},
+                        {"latitude": 37.20521915838153, "longitude": 127.1843009525871}
                     ]
                 },
                 {
-                    "courseName": "Lia Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "courseName": "리아코스",
+                    "holePars": [5, 4, 5, 4, 3, 4, 4, 4, 3],
                     "holeGreens": [
-                        {"latitude": 37.201678, "longitude": 127.192789},
-                        {"latitude": 37.202678, "longitude": 127.194789},
-                        {"latitude": 37.203678, "longitude": 127.196789},
-                        {"latitude": 37.204678, "longitude": 127.195789},
-                        {"latitude": 37.205678, "longitude": 127.193789},
-                        {"latitude": 37.204678, "longitude": 127.191789},
-                        {"latitude": 37.203678, "longitude": 127.190789},
-                        {"latitude": 37.202678, "longitude": 127.191789},
-                        {"latitude": 37.201678, "longitude": 127.193789}
+                        {"latitude": 37.20690972732148, "longitude": 127.18647640462687},
+                        {"latitude": 37.204391375413095, "longitude": 127.18785013298753},
+                        {"latitude": 37.203356679292185, "longitude": 127.19527371293276},
+                        {"latitude": 37.2039772513866, "longitude": 127.20001490287872},
+                        {"latitude": 37.20458018138074, "longitude": 127.20179913501886},
+                        {"latitude": 37.20448691639863, "longitude": 127.19833499121481},
+                        {"latitude": 37.20466853610315, "longitude": 127.192010321319},
+                        {"latitude": 37.20509025058679, "longitude": 127.18891357181208},
+                        {"latitude": 37.20261811946395, "longitude": 127.18812734896643}
                     ]
                 }
             ]
