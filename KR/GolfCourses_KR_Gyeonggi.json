@@ -181,37 +181,37 @@
         },
         {
             "clubName": "크리스탈밸리 컨트리클럽 (경기 가평군)",
-            "latitude": 37.821789, "longitude": 127.38189,
-            "hasVerifiedGPS": false,
+            "latitude": 37.79411896622132, "longitude": 127.38733452023814,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Crystal Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "courseName": "크리스탈 코스",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
                     "holeGreens": [
-                        {"latitude": 37.821789, "longitude": 127.38289},
-                        {"latitude": 37.822789, "longitude": 127.38489},
-                        {"latitude": 37.823789, "longitude": 127.38689},
-                        {"latitude": 37.824789, "longitude": 127.38589},
-                        {"latitude": 37.825789, "longitude": 127.38389},
-                        {"latitude": 37.824789, "longitude": 127.38189},
-                        {"latitude": 37.823789, "longitude": 127.38089},
-                        {"latitude": 37.822789, "longitude": 127.38189},
-                        {"latitude": 37.821789, "longitude": 127.38389}
+                        {"latitude": 37.79629771091459, "longitude": 127.39121757967231},
+                        {"latitude": 37.794519552334926, "longitude": 127.38330606896517},
+                        {"latitude": 37.794329601008215, "longitude": 127.38075903977783},
+                        {"latitude": 37.79641585330992, "longitude": 127.38544189054025},
+                        {"latitude": 37.797081997194496, "longitude": 127.39040138693879},
+                        {"latitude": 37.79369222290627, "longitude": 127.38969949991647},
+                        {"latitude": 37.79074865082438, "longitude": 127.3943473098846},
+                        {"latitude": 37.79124695773937, "longitude": 127.39216447922236},
+                        {"latitude": 37.79301907804218, "longitude": 127.38892109396318}
                     ]
                 },
                 {
-                    "courseName": "Valley Course",
-                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "courseName": "밸리 코스",
+                    "holePars": [5, 3, 4, 4, 4, 3, 5, 4, 4],
                     "holeGreens": [
-                        {"latitude": 37.826789, "longitude": 127.38289},
-                        {"latitude": 37.827789, "longitude": 127.38489},
-                        {"latitude": 37.828789, "longitude": 127.38689},
-                        {"latitude": 37.829789, "longitude": 127.38589},
-                        {"latitude": 37.830789, "longitude": 127.38389},
-                        {"latitude": 37.829789, "longitude": 127.38189},
-                        {"latitude": 37.828789, "longitude": 127.38089},
-                        {"latitude": 37.827789, "longitude": 127.38189},
-                        {"latitude": 37.826789, "longitude": 127.38389}
+                        {"latitude": 37.79319291905504, "longitude": 127.38121585893082},
+                        {"latitude": 37.79269284710754, "longitude": 127.3826182681797},
+                        {"latitude": 37.79323264928797, "longitude": 127.38561836137808},
+                        {"latitude": 37.7904599423826, "longitude": 127.38836557324026},
+                        {"latitude": 37.7914315568079, "longitude": 127.38536774579016},
+                        {"latitude": 37.78927923125981, "longitude": 127.3830008534178},
+                        {"latitude": 37.792623724374444, "longitude": 127.38585645525114},
+                        {"latitude": 37.791372524817035, "longitude": 127.38893800773612},
+                        {"latitude": 37.793309401311234, "longitude": 127.3876254835912}
                     ]
                 }
             ]
