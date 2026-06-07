@@ -3370,37 +3370,37 @@
         },
         {
             "clubName": "은화삼 컨트리클럽 (경기 용인시)",
-            "latitude": 37.221456, "longitude": 127.221567,
-            "hasVerifiedGPS": false,
+            "latitude": 37.215569450178165, "longitude": 127.22021789514298,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
                     "courseName": "East Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holePars": [4, 4, 5, 4, 3, 5, 4, 3, 4],
                     "holeGreens": [
-                        {"latitude": 37.221456, "longitude": 127.222567},
-                        {"latitude": 37.222456, "longitude": 127.224567},
-                        {"latitude": 37.223456, "longitude": 127.226567},
-                        {"latitude": 37.224456, "longitude": 127.225567},
-                        {"latitude": 37.225456, "longitude": 127.223567},
-                        {"latitude": 37.224456, "longitude": 127.221567},
-                        {"latitude": 37.223456, "longitude": 127.220567},
-                        {"latitude": 37.222456, "longitude": 127.221567},
-                        {"latitude": 37.221456, "longitude": 127.223567}
+                        {"latitude": 37.21877240365806, "longitude": 127.2215707740519},
+                        {"latitude": 37.2155196294673, "longitude": 127.22156689417285},
+                        {"latitude": 37.217595105438996, "longitude": 127.22472199136956},
+                        {"latitude": 37.21511364291327, "longitude": 127.22304158908723},
+                        {"latitude": 37.215366411417484, "longitude": 127.22517166644217},
+                        {"latitude": 37.213070713619814, "longitude": 127.22293699804676},
+                        {"latitude": 37.212717381337356, "longitude": 127.2263270002059},
+                        {"latitude": 37.21282971560771, "longitude": 127.22411357932162},
+                        {"latitude": 37.21457767408169, "longitude": 127.22055299839124}
                     ]
                 },
                 {
                     "courseName": "West Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holePars": [5, 4, 4, 4, 3, 4, 5, 3, 4],
                     "holeGreens": [
-                        {"latitude": 37.226456, "longitude": 127.222567},
-                        {"latitude": 37.227456, "longitude": 127.224567},
-                        {"latitude": 37.228456, "longitude": 127.226567},
-                        {"latitude": 37.229456, "longitude": 127.225567},
-                        {"latitude": 37.230456, "longitude": 127.223567},
-                        {"latitude": 37.229456, "longitude": 127.221567},
-                        {"latitude": 37.228456, "longitude": 127.220567},
-                        {"latitude": 37.227456, "longitude": 127.221567},
-                        {"latitude": 37.226456, "longitude": 127.223567}
+                        {"latitude": 37.219410641462375, "longitude": 127.21996147189317},
+                        {"latitude": 37.217409378763065, "longitude": 127.21803188613342},
+                        {"latitude": 37.21568300076763, "longitude": 127.21481037150465},
+                        {"latitude": 37.214737029281466, "longitude": 127.21721021121418},
+                        {"latitude": 37.21316935849828, "longitude": 127.21712685519726},
+                        {"latitude": 37.21321945200848, "longitude": 127.21311067116612},
+                        {"latitude": 37.211811668839125, "longitude": 127.21800451252396},
+                        {"latitude": 37.21217998680372, "longitude": 127.21982500546618},
+                        {"latitude": 37.21479853020114, "longitude": 127.21928619043918}
                     ]
                 }
             ]
