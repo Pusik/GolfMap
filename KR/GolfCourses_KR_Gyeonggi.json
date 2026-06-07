@@ -2887,52 +2887,52 @@
         },
         {
             "clubName": "신원 컨트리클럽 (경기 용인시)",
-            "latitude": 37.195678, "longitude": 127.241345,
-            "hasVerifiedGPS": false,
+            "latitude": 37.18120571783419, "longitude": 127.24756735954631,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Ebenezer Course",
+                    "courseName": "솔로몬 코스",
+                    "holePars": [4, 4, 3, 5, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 37.177116841996, "longitude": 127.24773418669604},
+                        {"latitude": 37.17834230384175, "longitude": 127.24337180991076},
+                        {"latitude": 37.17814414897078, "longitude": 127.24002109232372},
+                        {"latitude": 37.174417049618455, "longitude": 127.24063424453719},
+                        {"latitude": 37.17652241177426, "longitude": 127.23994276831931},
+                        {"latitude": 37.17564851930257, "longitude": 127.24428933771556},
+                        {"latitude": 37.17699265471234, "longitude": 127.24243003486757},
+                        {"latitude": 37.17612891676503, "longitude": 127.24834184193524},
+                        {"latitude": 37.180127270546116, "longitude": 127.2483746373056}
+                    ]
+                },
+                {
+                    "courseName": "에벤에셀 코스",
+                    "holePars": [4, 5, 4, 4, 3, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 37.18213074249485, "longitude": 127.24251120771847},
+                        {"latitude": 37.18581399149913, "longitude": 127.24460643892053},
+                        {"latitude": 37.183883233077694, "longitude": 127.24143569404113},
+                        {"latitude": 37.186456605118764, "longitude": 127.24211397546924},
+                        {"latitude": 37.18682545356823, "longitude": 127.24349757181082},
+                        {"latitude": 37.18937032223231, "longitude": 127.24488257674409},
+                        {"latitude": 37.18484010062042, "longitude": 127.24605888228733},
+                        {"latitude": 37.18364130943164, "longitude": 127.24407013732466},
+                        {"latitude": 37.18268478489765, "longitude": 127.24692465320778}
+                    ]
+                },
+                {
+                    "courseName": "데이비드 코스",
                     "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
                     "holeGreens": [
-                        {"latitude": 37.195678, "longitude": 127.242345},
-                        {"latitude": 37.196678, "longitude": 127.244345},
-                        {"latitude": 37.197678, "longitude": 127.246345},
-                        {"latitude": 37.198678, "longitude": 127.245345},
-                        {"latitude": 37.199678, "longitude": 127.243345},
-                        {"latitude": 37.198678, "longitude": 127.241345},
-                        {"latitude": 37.197678, "longitude": 127.240345},
-                        {"latitude": 37.196678, "longitude": 127.241345},
-                        {"latitude": 37.195678, "longitude": 127.243345}
-                    ]
-                },
-                {
-                    "courseName": "David Course",
-                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 37.200678, "longitude": 127.242345},
-                        {"latitude": 37.201678, "longitude": 127.244345},
-                        {"latitude": 37.202678, "longitude": 127.246345},
-                        {"latitude": 37.203678, "longitude": 127.245345},
-                        {"latitude": 37.204678, "longitude": 127.243345},
-                        {"latitude": 37.203678, "longitude": 127.241345},
-                        {"latitude": 37.202678, "longitude": 127.240345},
-                        {"latitude": 37.201678, "longitude": 127.241345},
-                        {"latitude": 37.200678, "longitude": 127.243345}
-                    ]
-                },
-                {
-                    "courseName": "Solomon Course",
-                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
-                    "holeGreens": [
-                        {"latitude": 37.195678, "longitude": 127.252345},
-                        {"latitude": 37.196678, "longitude": 127.254345},
-                        {"latitude": 37.197678, "longitude": 127.256345},
-                        {"latitude": 37.198678, "longitude": 127.255345},
-                        {"latitude": 37.199678, "longitude": 127.253345},
-                        {"latitude": 37.198678, "longitude": 127.251345},
-                        {"latitude": 37.197678, "longitude": 127.250345},
-                        {"latitude": 37.196678, "longitude": 127.251345},
-                        {"latitude": 37.195678, "longitude": 127.253345}
+                        {"latitude": 37.178610558103024, "longitude": 127.25084142761145},
+                        {"latitude": 37.17474962888101, "longitude": 127.24758851923382},
+                        {"latitude": 37.17408941787989, "longitude": 127.24333001807688},
+                        {"latitude": 37.17411777892405, "longitude": 127.24595936137143},
+                        {"latitude": 37.17370828796, "longitude": 127.25003138235748},
+                        {"latitude": 37.17570719239933, "longitude": 127.2528305524054},
+                        {"latitude": 37.174382389761334, "longitude": 127.25083026415804},
+                        {"latitude": 37.17922681152272, "longitude": 127.25235806137982},
+                        {"latitude": 37.18150874534935, "longitude": 127.24915618862673}
                     ]
                 }
             ]
