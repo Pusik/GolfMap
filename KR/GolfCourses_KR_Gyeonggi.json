@@ -3006,37 +3006,37 @@
         },
         {
             "clubName": "화산 컨트리클럽 (경기 용인시)",
-            "latitude": 37.168234, "longitude": 127.241345,
-            "hasVerifiedGPS": false,
+            "latitude": 37.154436808258914, "longitude": 127.23354919301798,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Out Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "courseName": "OUT코스",
+                    "holePars": [5, 4, 4, 4, 3, 4, 3, 4, 5],
                     "holeGreens": [
-                        {"latitude": 37.168234, "longitude": 127.242345},
-                        {"latitude": 37.169234, "longitude": 127.244345},
-                        {"latitude": 37.170234, "longitude": 127.246345},
-                        {"latitude": 37.171234, "longitude": 127.245345},
-                        {"latitude": 37.172234, "longitude": 127.243345},
-                        {"latitude": 37.171234, "longitude": 127.241345},
-                        {"latitude": 37.170234, "longitude": 127.240345},
-                        {"latitude": 37.169234, "longitude": 127.241345},
-                        {"latitude": 37.168234, "longitude": 127.243345}
+                        {"latitude": 37.14952109251628, "longitude": 127.23604991105765},
+                        {"latitude": 37.150976183377566, "longitude": 127.23269147935183},
+                        {"latitude": 37.148691689902115, "longitude": 127.23513274970512},
+                        {"latitude": 37.14926319980837, "longitude": 127.23884353483048},
+                        {"latitude": 37.14758009955527, "longitude": 127.23902959809705},
+                        {"latitude": 37.14780729462963, "longitude": 127.23581664488356},
+                        {"latitude": 37.14818186527937, "longitude": 127.23322040808029},
+                        {"latitude": 37.1500850297145, "longitude": 127.22992524865556},
+                        {"latitude": 37.15329889843347, "longitude": 127.23256914011344}
                     ]
                 },
                 {
-                    "courseName": "In Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "courseName": "IN코스",
+                    "holePars": [4, 3, 4, 4, 3, 5, 4, 5, 4],
                     "holeGreens": [
-                        {"latitude": 37.173234, "longitude": 127.242345},
-                        {"latitude": 37.174234, "longitude": 127.244345},
-                        {"latitude": 37.175234, "longitude": 127.246345},
-                        {"latitude": 37.176234, "longitude": 127.245345},
-                        {"latitude": 37.177234, "longitude": 127.243345},
-                        {"latitude": 37.176234, "longitude": 127.241345},
-                        {"latitude": 37.175234, "longitude": 127.240345},
-                        {"latitude": 37.174234, "longitude": 127.241345},
-                        {"latitude": 37.173234, "longitude": 127.243345}
+                        {"latitude": 37.15108937648981, "longitude": 127.23582683612551},
+                        {"latitude": 37.14957944670634, "longitude": 127.23728549811766},
+                        {"latitude": 37.15252842552906, "longitude": 127.23602267374045},
+                        {"latitude": 37.155547429064875, "longitude": 127.23579002311679},
+                        {"latitude": 37.15347180028647, "longitude": 127.23626481974073},
+                        {"latitude": 37.149839686604615, "longitude": 127.24005261623817},
+                        {"latitude": 37.153396535811936, "longitude": 127.23785465229203},
+                        {"latitude": 37.15838966873784, "longitude": 127.23495451121968},
+                        {"latitude": 37.15498451591133, "longitude": 127.23224221118835}
                     ]
                 }
             ]
