@@ -2,44 +2,6 @@
     "region": "대구광역시",
     "clubs": [
         {
-            "clubName": "팔공 컨트리클럽 (대구 동구)",
-            "latitude": 35.986123,
-            "longitude": 128.665234,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Out Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
-                    "holeGreens": [
-                        {"latitude": 35.986123, "longitude": 128.666234},
-                        {"latitude": 35.987123, "longitude": 128.668234},
-                        {"latitude": 35.988123, "longitude": 128.670234},
-                        {"latitude": 35.989123, "longitude": 128.669234},
-                        {"latitude": 35.990123, "longitude": 128.667234},
-                        {"latitude": 35.989123, "longitude": 128.665234},
-                        {"latitude": 35.988123, "longitude": 128.664234},
-                        {"latitude": 35.987123, "longitude": 128.665234},
-                        {"latitude": 35.986123, "longitude": 128.667234}
-                    ]
-                },
-                {
-                    "courseName": "In Course",
-                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 35.991123, "longitude": 128.666234},
-                        {"latitude": 35.992123, "longitude": 128.668234},
-                        {"latitude": 35.993123, "longitude": 128.670234},
-                        {"latitude": 35.994123, "longitude": 128.669234},
-                        {"latitude": 35.995123, "longitude": 128.667234},
-                        {"latitude": 35.994123, "longitude": 128.665234},
-                        {"latitude": 35.993123, "longitude": 128.664234},
-                        {"latitude": 35.992123, "longitude": 128.665234},
-                        {"latitude": 35.991123, "longitude": 128.667234}
-                    ]
-                }
-            ]
-        },
-        {
             "clubName": "군위 오펠 골프클럽 (대구 군위군)",
             "latitude": 36.192345,
             "longitude": 128.623456,
@@ -77,7 +39,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "구니 컨트리클럽 (대구 군위군)",
             "latitude": 36.145678,
             "longitude": 128.675789,
@@ -111,6 +73,44 @@
                         {"latitude": 36.152678, "longitude": 128.674789},
                         {"latitude": 36.151678, "longitude": 128.675789},
                         {"latitude": 36.150678, "longitude": 128.677789}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "팔공 컨트리클럽 (대구 동구)",
+            "latitude": 35.986123,
+            "longitude": 128.665234,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Out Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.986123, "longitude": 128.666234},
+                        {"latitude": 35.987123, "longitude": 128.668234},
+                        {"latitude": 35.988123, "longitude": 128.670234},
+                        {"latitude": 35.989123, "longitude": 128.669234},
+                        {"latitude": 35.990123, "longitude": 128.667234},
+                        {"latitude": 35.989123, "longitude": 128.665234},
+                        {"latitude": 35.988123, "longitude": 128.664234},
+                        {"latitude": 35.987123, "longitude": 128.665234},
+                        {"latitude": 35.986123, "longitude": 128.667234}
+                    ]
+                },
+                {
+                    "courseName": "In Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.991123, "longitude": 128.666234},
+                        {"latitude": 35.992123, "longitude": 128.668234},
+                        {"latitude": 35.993123, "longitude": 128.670234},
+                        {"latitude": 35.994123, "longitude": 128.669234},
+                        {"latitude": 35.995123, "longitude": 128.667234},
+                        {"latitude": 35.994123, "longitude": 128.665234},
+                        {"latitude": 35.993123, "longitude": 128.664234},
+                        {"latitude": 35.992123, "longitude": 128.665234},
+                        {"latitude": 35.991123, "longitude": 128.667234}
                     ]
                 }
             ]
