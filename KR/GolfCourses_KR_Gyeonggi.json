@@ -3496,37 +3496,37 @@
         },
         {
             "clubName": "용인 컨트리클럽 (경기 용인시)",
-            "latitude": 37.18189, "longitude": 127.351901,
-            "hasVerifiedGPS": false,
+            "latitude": 37.1107343271435, "longitude": 127.3440438244669,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Yongin Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "courseName": "용인 코스",
+                    "holePars": [4, 4, 4, 4, 5, 3, 4, 3, 5],
                     "holeGreens": [
-                        {"latitude": 37.18189, "longitude": 127.352901},
-                        {"latitude": 37.18289, "longitude": 127.354901},
-                        {"latitude": 37.18389, "longitude": 127.356901},
-                        {"latitude": 37.18489, "longitude": 127.355901},
-                        {"latitude": 37.18589, "longitude": 127.353901},
-                        {"latitude": 37.18489, "longitude": 127.351901},
-                        {"latitude": 37.18389, "longitude": 127.350901},
-                        {"latitude": 37.18289, "longitude": 127.351901},
-                        {"latitude": 37.18189, "longitude": 127.353901}
+                        {"latitude": 37.11285096962908, "longitude": 127.34278202857395},
+                        {"latitude": 37.11177971033041, "longitude": 127.34631280062702},
+                        {"latitude": 37.11317684732147, "longitude": 127.34382141367148},
+                        {"latitude": 37.11491524136537, "longitude": 127.34249035931649},
+                        {"latitude": 37.111045091537356, "longitude": 127.3409596959652},
+                        {"latitude": 37.11050646051107, "longitude": 127.34260832572289},
+                        {"latitude": 37.11316503031485, "longitude": 127.34167520863937},
+                        {"latitude": 37.11485418095278, "longitude": 127.34179249920123},
+                        {"latitude": 37.110763372429865, "longitude": 127.3433492210101}
                     ]
                 },
                 {
-                    "courseName": "Seokcheon Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "courseName": "석천 코스",
+                    "holePars": [4, 6, 4, 3, 4, 4, 3, 4, 5],
                     "holeGreens": [
-                        {"latitude": 37.18689, "longitude": 127.352901},
-                        {"latitude": 37.18789, "longitude": 127.354901},
-                        {"latitude": 37.18889, "longitude": 127.356901},
-                        {"latitude": 37.18989, "longitude": 127.355901},
-                        {"latitude": 37.19089, "longitude": 127.353901},
-                        {"latitude": 37.18989, "longitude": 127.351901},
-                        {"latitude": 37.18889, "longitude": 127.350901},
-                        {"latitude": 37.18789, "longitude": 127.351901},
-                        {"latitude": 37.18689, "longitude": 127.353901}
+                        {"latitude": 37.111639848155505, "longitude": 127.34868610262633},
+                        {"latitude": 37.114389964446694, "longitude": 127.34341060039098},
+                        {"latitude": 37.11350651780809, "longitude": 127.34664694841085},
+                        {"latitude": 37.11324755783021, "longitude": 127.34891849683314},
+                        {"latitude": 37.11485493645133, "longitude": 127.34386838081463},
+                        {"latitude": 37.11427379907762, "longitude": 127.34848159270483},
+                        {"latitude": 37.11527458303518, "longitude": 127.34750730444605},
+                        {"latitude": 37.11530842287203, "longitude": 127.34362571275506},
+                        {"latitude": 37.11207874812205, "longitude": 127.34727611949808}
                     ]
                 }
             ]
