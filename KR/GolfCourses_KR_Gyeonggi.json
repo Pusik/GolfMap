@@ -3,7 +3,7 @@
     "clubs": [
         {
             "clubName": "가평베네스트 골프클럽 (경기 가평군)",
-            "latitude": 37.864321, "longitude": 127.482109,
+            "latitude": 37.79716380950021, "longitude": 127.30550185111856,
             "hasVerifiedGPS": true,
             "courses": [
                 {
@@ -92,52 +92,52 @@
         },
         {
             "clubName": "아난티 클럽 서울 (경기 가평군)",
-            "latitude": 37.625567, "longitude": 127.468678,
+            "latitude": 37.62008016411293, "longitude": 127.48230755731898,
             "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Zelkova Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "courseName": "자작나무 코스",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 4, 5],
                     "holeGreens": [
-                        {"latitude": 37.625567, "longitude": 127.469678},
-                        {"latitude": 37.626567, "longitude": 127.471678},
-                        {"latitude": 37.627567, "longitude": 127.473678},
-                        {"latitude": 37.628567, "longitude": 127.472678},
-                        {"latitude": 37.629567, "longitude": 127.470678},
-                        {"latitude": 37.628567, "longitude": 127.468678},
-                        {"latitude": 37.627567, "longitude": 127.467678},
-                        {"latitude": 37.626567, "longitude": 127.468678},
-                        {"latitude": 37.625567, "longitude": 127.470678}
+                        {"latitude": 37.623233075749454, "longitude": 127.4840836898376},
+                        {"latitude": 37.6267852441907, "longitude": 127.48735220967689},
+                        {"latitude": 37.623439968368714, "longitude": 127.48196395108053},
+                        {"latitude": 37.62346771620872, "longitude": 127.47902180237392},
+                        {"latitude": 37.62264778784714, "longitude": 127.48124520959924},
+                        {"latitude": 37.622186177299234, "longitude": 127.47732863666486},
+                        {"latitude": 37.62191092029397, "longitude": 127.47632724222485},
+                        {"latitude": 37.62203387701466, "longitude": 127.47488096136976},
+                        {"latitude": 37.62094938255182, "longitude": 127.48125974733755}
                     ]
                 },
                 {
-                    "courseName": "Birch Course",
-                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "courseName": "느티나무 코스",
+                    "holePars": [4, 5, 3, 4, 3, 4, 5, 4, 4],
                     "holeGreens": [
-                        {"latitude": 37.630567, "longitude": 127.469678},
-                        {"latitude": 37.631567, "longitude": 127.471678},
-                        {"latitude": 37.632567, "longitude": 127.473678},
-                        {"latitude": 37.633567, "longitude": 127.472678},
-                        {"latitude": 37.634567, "longitude": 127.470678},
-                        {"latitude": 37.633567, "longitude": 127.468678},
-                        {"latitude": 37.632567, "longitude": 127.467678},
-                        {"latitude": 37.631567, "longitude": 127.468678},
-                        {"latitude": 37.630567, "longitude": 127.470678}
+                        {"latitude": 37.62320436371201, "longitude": 127.48613661221222},
+                        {"latitude": 37.62540363384725, "longitude": 127.48973619263376},
+                        {"latitude": 37.623864086681316, "longitude": 127.49109106715308},
+                        {"latitude": 37.62397642570277, "longitude": 127.48735652650582},
+                        {"latitude": 37.622553198130745, "longitude": 127.48727927061509},
+                        {"latitude": 37.61993183511033, "longitude": 127.48770674586451},
+                        {"latitude": 37.61644672599362, "longitude": 127.48511287292592},
+                        {"latitude": 37.61734465320709, "longitude": 127.48035303669798},
+                        {"latitude": 37.61844286197763, "longitude": 127.48225167341562}
                     ]
                 },
                 {
-                    "courseName": "Nut Pine Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "courseName": "잣나무 코스",
+                    "holePars": [5, 3, 4, 4, 4, 3, 4, 5, 4],
                     "holeGreens": [
-                        {"latitude": 37.625567, "longitude": 127.479678},
-                        {"latitude": 37.626567, "longitude": 127.481678},
-                        {"latitude": 37.627567, "longitude": 127.483678},
-                        {"latitude": 37.628567, "longitude": 127.482678},
-                        {"latitude": 37.629567, "longitude": 127.480678},
-                        {"latitude": 37.628567, "longitude": 127.478678},
-                        {"latitude": 37.627567, "longitude": 127.477678},
-                        {"latitude": 37.626567, "longitude": 127.478678},
-                        {"latitude": 37.625567, "longitude": 127.480678}
+                        {"latitude": 37.61937593907988, "longitude": 127.47601090551024},
+                        {"latitude": 37.62051192818371, "longitude": 127.4752648968376},
+                        {"latitude": 37.618911347486986, "longitude": 127.47447881894385},
+                        {"latitude": 37.61870484699941, "longitude": 127.4776490152973},
+                        {"latitude": 37.61665883941533, "longitude": 127.47337149705255},
+                        {"latitude": 37.61426145234666, "longitude": 127.4724417131718},
+                        {"latitude": 37.61356027220405, "longitude": 127.47597100065965},
+                        {"latitude": 37.61763838807434, "longitude": 127.47790836924082},
+                        {"latitude": 37.61892072990063, "longitude": 127.48161479316498}
                     ]
                 }
             ]
