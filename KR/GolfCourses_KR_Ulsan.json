@@ -2,6 +2,44 @@
     "region": "울산광역시",
     "clubs": [
         {
+            "clubName": "베이스타즈 컨트리클럽 (울산 북구)",
+            "latitude": 35.602511,
+            "longitude": 129.418722,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Bay Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.602511, "longitude": 129.419722},
+                        {"latitude": 35.603511, "longitude": 129.421722},
+                        {"latitude": 35.604511, "longitude": 129.423722},
+                        {"latitude": 35.605511, "longitude": 129.422722},
+                        {"latitude": 35.606511, "longitude": 129.420722},
+                        {"latitude": 35.605511, "longitude": 129.418722},
+                        {"latitude": 35.604511, "longitude": 129.417722},
+                        {"latitude": 35.603511, "longitude": 129.418722},
+                        {"latitude": 35.602511, "longitude": 129.420722}
+                    ]
+                },
+                {
+                    "courseName": "Stars Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.607511, "longitude": 129.419722},
+                        {"latitude": 35.608511, "longitude": 129.421722},
+                        {"latitude": 35.609511, "longitude": 129.423722},
+                        {"latitude": 35.610511, "longitude": 129.422722},
+                        {"latitude": 35.611511, "longitude": 129.420722},
+                        {"latitude": 35.610511, "longitude": 129.418722},
+                        {"latitude": 35.609511, "longitude": 129.417722},
+                        {"latitude": 35.608511, "longitude": 129.418722},
+                        {"latitude": 35.607511, "longitude": 129.420722}
+                    ]
+                }
+            ]
+        },
+{
             "clubName": "보라 컨트리클럽 (울산 울주군)",
             "latitude": 35.539301,
             "longitude": 129.131742,
@@ -54,7 +92,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "울산 컨트리클럽 (울산 울주군)",
             "latitude": 35.485123,
             "longitude": 129.186645,
@@ -107,45 +145,7 @@
                 }
             ]
         },
-        {
-            "clubName": "베이스타즈 컨트리클럽 (울산 북구)",
-            "latitude": 35.602511,
-            "longitude": 129.418722,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Bay Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
-                    "holeGreens": [
-                        {"latitude": 35.602511, "longitude": 129.419722},
-                        {"latitude": 35.603511, "longitude": 129.421722},
-                        {"latitude": 35.604511, "longitude": 129.423722},
-                        {"latitude": 35.605511, "longitude": 129.422722},
-                        {"latitude": 35.606511, "longitude": 129.420722},
-                        {"latitude": 35.605511, "longitude": 129.418722},
-                        {"latitude": 35.604511, "longitude": 129.417722},
-                        {"latitude": 35.603511, "longitude": 129.418722},
-                        {"latitude": 35.602511, "longitude": 129.420722}
-                    ]
-                },
-                {
-                    "courseName": "Stars Course",
-                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 35.607511, "longitude": 129.419722},
-                        {"latitude": 35.608511, "longitude": 129.421722},
-                        {"latitude": 35.609511, "longitude": 129.423722},
-                        {"latitude": 35.610511, "longitude": 129.422722},
-                        {"latitude": 35.611511, "longitude": 129.420722},
-                        {"latitude": 35.610511, "longitude": 129.418722},
-                        {"latitude": 35.609511, "longitude": 129.417722},
-                        {"latitude": 35.608511, "longitude": 129.418722},
-                        {"latitude": 35.607511, "longitude": 129.420722}
-                    ]
-                }
-            ]
-        },
-        {
+{
             "clubName": "골프존카운티 더골프 (울산 울주군)",
             "latitude": 35.378712,
             "longitude": 129.317545,
