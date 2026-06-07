@@ -42,7 +42,7 @@
             "clubName": "더세이나 벨루토 컨트리클럽 (경기 여주시)",
             "latitude": 37.320763396,
             "longitude": 127.1789276,
-            "hasVerifiedGPS": false,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
                     "courseName": "벨라 코스",
@@ -77,7 +77,7 @@
             ]
         },
         {
-            "clubName": "레이크사이드 골프클럽 (경기 용인)",
+            "clubName": "레이크사이드 골프클럽 (경기 용인시)",
             "latitude": 37.320763396,
             "longitude": 127.1789276,
             "hasVerifiedGPS": false,
