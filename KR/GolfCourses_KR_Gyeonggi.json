@@ -218,52 +218,67 @@
         },
         {
             "clubName": "썬힐 골프클럽 (경기 가평군)",
-            "latitude": 37.821345, "longitude": 127.351456,
-            "hasVerifiedGPS": false,
+            "latitude": 37.87752040873442, "longitude": 127.35125920582237,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Sun Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "courseName": "힐 코스",
+                    "holePars": [4, 5, 4, 3, 4, 4, 5, 3, 4],
                     "holeGreens": [
-                        {"latitude": 37.821345, "longitude": 127.352456},
-                        {"latitude": 37.822345, "longitude": 127.354456},
-                        {"latitude": 37.823345, "longitude": 127.356456},
-                        {"latitude": 37.824345, "longitude": 127.355456},
-                        {"latitude": 37.825345, "longitude": 127.353456},
-                        {"latitude": 37.824345, "longitude": 127.351456},
-                        {"latitude": 37.823345, "longitude": 127.350456},
-                        {"latitude": 37.822345, "longitude": 127.351456},
-                        {"latitude": 37.821345, "longitude": 127.353456}
+                        {"latitude": 37.87333529598341, "longitude": 127.35359204119044},
+                        {"latitude": 37.877959189751444, "longitude": 127.3536596100657},
+                        {"latitude": 37.875413619377476, "longitude": 127.35454251650262},
+                        {"latitude": 37.87711780984768, "longitude": 127.35482347640686},
+                        {"latitude": 37.880293016901575, "longitude": 127.3550291028898},
+                        {"latitude": 37.878347109807095, "longitude": 127.35198490500969},
+                        {"latitude": 37.881902479532314, "longitude": 127.35460488103111},
+                        {"latitude": 37.88088793948827, "longitude": 127.35492965664636},
+                        {"latitude": 37.87782077008254, "longitude": 127.35249957272814}
                     ]
                 },
                 {
-                    "courseName": "Valley Course",
-                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
+                    "courseName": "파인 코스",
+                    "holePars": [5, 4, 4, 3, 4, 3, 4, 4, 5],
                     "holeGreens": [
-                        {"latitude": 37.826345, "longitude": 127.352456},
-                        {"latitude": 37.827345, "longitude": 127.354456},
-                        {"latitude": 37.828345, "longitude": 127.356456},
-                        {"latitude": 37.829345, "longitude": 127.355456},
-                        {"latitude": 37.830345, "longitude": 127.353456},
-                        {"latitude": 37.829345, "longitude": 127.351456},
-                        {"latitude": 37.828345, "longitude": 127.350456},
-                        {"latitude": 37.827345, "longitude": 127.351456},
-                        {"latitude": 37.826345, "longitude": 127.353456}
+                        {"latitude": 37.87217834567392, "longitude": 127.35258634230212},
+                        {"latitude": 37.874667577711634, "longitude": 127.35170882134774},
+                        {"latitude": 37.872283573855675, "longitude": 127.35053535730295},
+                        {"latitude": 37.87065933031062, "longitude": 127.35063279099333},
+                        {"latitude": 37.86826237587892, "longitude": 127.34774325615928},
+                        {"latitude": 37.866798143209245, "longitude": 127.34551456922932},
+                        {"latitude": 37.86985820141243, "longitude": 127.34735297421562},
+                        {"latitude": 37.87298869109144, "longitude": 127.34897591660986},
+                        {"latitude": 37.876171102832714, "longitude": 127.35130678774608}
                     ]
                 },
                 {
-                    "courseName": "Pine Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "courseName": "썬 코스",
+                    "holePars": [4, 3, 4, 5, 3, 4, 5, 4, 4],
                     "holeGreens": [
-                        {"latitude": 37.821345, "longitude": 127.362456},
-                        {"latitude": 37.822345, "longitude": 127.364456},
-                        {"latitude": 37.823345, "longitude": 127.366456},
-                        {"latitude": 37.824345, "longitude": 127.365456},
-                        {"latitude": 37.825345, "longitude": 127.363456},
-                        {"latitude": 37.824345, "longitude": 127.361456},
-                        {"latitude": 37.823345, "longitude": 127.360456},
-                        {"latitude": 37.822345, "longitude": 127.361456},
-                        {"latitude": 37.821345, "longitude": 127.363456}
+                        {"latitude": 37.87443104179024, "longitude": 127.3479313742803},
+                        {"latitude": 37.8744295000535, "longitude": 127.3492128730196},
+                        {"latitude": 37.87145169760881, "longitude": 127.34698823703975},
+                        {"latitude": 37.86717303298417, "longitude": 127.34440541120857},
+                        {"latitude": 37.86871208212981, "longitude": 127.34494104874214},
+                        {"latitude": 37.86782677852202, "longitude": 127.34266962528953},
+                        {"latitude": 37.87127962679008, "longitude": 127.34575996428272},
+                        {"latitude": 37.87505323135618, "longitude": 127.3462208757105},
+                        {"latitude": 37.877456300641555, "longitude": 127.35009668992407}
+                    ]
+                },
+                {
+                    "courseName": "밸리 코스",
+                    "holePars": [4, 4, 3, 5, 4, 5, 3, 4, 4],
+                    "holeGreens": [
+                        {"latitude": 37.87507351835494, "longitude": 127.34774401549303},
+                        {"latitude": 37.87196241467962, "longitude": 127.3464166731804},
+                        {"latitude": 37.87093752920326, "longitude": 127.34413311742236},
+                        {"latitude": 37.86819621067785, "longitude": 127.3411029729078},
+                        {"latitude": 37.87058282034779, "longitude": 127.34218799827411},
+                        {"latitude": 37.87554920742321, "longitude": 127.34452965116164},
+                        {"latitude": 37.87254475548504, "longitude": 127.34446167225353},
+                        {"latitude": 37.87544976786513, "longitude": 127.34541289954721},
+                        {"latitude": 37.878135450743926, "longitude": 127.34969639456759}
                     ]
                 }
             ]
