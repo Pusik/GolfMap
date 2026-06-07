@@ -5226,64 +5226,66 @@
                     "courseName": "힐 코스",
                     "holes": [
                         {
-                            "holeNumber": 1,
+                            "holeNumber": 10,
                             "greens": [
-                                { "latitude": 37.08450380456552, "longitude": 127.6968331927129 }
+                                {"latitude": 37.08450609011184, "longitude": 127.69682759027928}
                             ],
                             "par": 4
                         },
                         {
-                            "holeNumber": 2,
+                            "holeNumber": 11,
                             "greens": [
-                                { "latitude": 37.081807615072634, "longitude": 127.6994767006687 }
+                                {"latitude": 37.08180763165407, "longitude": 127.6994738892433}
                             ],
                             "par": 5
                         },
                         {
-                            "holeNumber": 3,
+                            "holeNumber": 12,
                             "greens": [
-                                { "latitude": 37.08174417156457, "longitude": 127.69609379220614 }
+                                {"latitude": 37.081746424072755, "longitude": 127.69609381280186}
                             ],
                             "par": 4
                         },
                         {
-                            "holeNumber": 4,
+                            "holeNumber": 13,
                             "greens": [
-                                { "latitude": 37.08482377587201, "longitude": 127.69528125736606 }
+                                {"latitude": 37.084826061345595, "longitude": 127.69527565486129}
                             ],
                             "par": 4
                         },
                         {
-                            "holeNumber": 5,
+                            "holeNumber": 14,
                             "greens": [
-                                { "latitude": 37.08451082032802, "longitude": 127.69410030566422 }
+                                {"latitude": 37.084513089291114, "longitude": 127.69409751467452}
                             ],
                             "par": 3
                         },
                         {
-                            "holeNumber": 6,
+                            "holeNumber": 15,
                             "greens": [
-                                { "latitude": 37.08104228065927, "longitude": 127.69478281533384 }
+                                {"latitude": 37.08104905465638, "longitude": 127.69478006560293}
                             ],
                             "par": 4
                         },
                         {
-                            "holeNumber": 7,
+                            "holeNumber": 16,
                             "greens": [
-                                { "latitude": 37.08062519098916, "longitude": 127.70020527040627 }
+                                {"latitude": 37.08063645352232, "longitude": 127.70020537398898}
                             ],
                             "par": 5
                         },
                         {
-                            "holeNumber": 8,
+                            "holeNumber": 17,
                             "greens": [
-                                { "latitude": 37.0817421477401, "longitude": 127.7014076513037 }
+                                {"latitude": 37.0790813571245, "longitude": 127.70262299952911}
                             ],
                             "par": 3
                         },
                         {
-                            "holeNumber": 9,
-                            "greens": [],
+                            "holeNumber": 18,
+                            "greens": [
+                                {"latitude": 37.08174440024573, "longitude": 127.70140767205666}
+                            ],
                             "par": 4
                         }
                     ]
