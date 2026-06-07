@@ -2,44 +2,6 @@
     "region": "전북특별자치도",
     "clubs": [
         {
-            "clubName": "장수 골프리조트 (전북 장수군)",
-            "latitude": 35.651234,
-            "longitude": 127.521345,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Apple Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
-                    "holeGreens": [
-                        {"latitude": 35.651234, "longitude": 127.522345},
-                        {"latitude": 35.652234, "longitude": 127.524345},
-                        {"latitude": 35.653234, "longitude": 127.526345},
-                        {"latitude": 35.654234, "longitude": 127.525345},
-                        {"latitude": 35.655234, "longitude": 127.523345},
-                        {"latitude": 35.654234, "longitude": 127.521345},
-                        {"latitude": 35.653234, "longitude": 127.520345},
-                        {"latitude": 35.652234, "longitude": 127.521345},
-                        {"latitude": 35.651234, "longitude": 127.523345}
-                    ]
-                },
-                {
-                    "courseName": "Tree Course",
-                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 35.656234, "longitude": 127.522345},
-                        {"latitude": 35.657234, "longitude": 127.524345},
-                        {"latitude": 35.658234, "longitude": 127.526345},
-                        {"latitude": 35.659234, "longitude": 127.525345},
-                        {"latitude": 35.660234, "longitude": 127.523345},
-                        {"latitude": 35.659234, "longitude": 127.521345},
-                        {"latitude": 35.658234, "longitude": 127.520345},
-                        {"latitude": 35.657234, "longitude": 127.521345},
-                        {"latitude": 35.656234, "longitude": 127.523345}
-                    ]
-                }
-            ]
-        },
-        {
             "clubName": "고창 컨트리클럽 (전북 고창군)",
             "latitude": 35.431456,
             "longitude": 126.701567,
@@ -92,7 +54,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "골프존카운티 선운 (전북 고창군)",
             "latitude": 35.512678,
             "longitude": 126.582789,
@@ -130,45 +92,45 @@
                 }
             ]
         },
-        {
-            "clubName": "내장산 골프앤리조트 (전북 정읍시)",
-            "latitude": 35.531789,
-            "longitude": 126.87189,
+{
+            "clubName": "군산 컨트리클럽 (전북 군산시)",
+            "latitude": 35.912345,
+            "longitude": 126.681456,
             "hasVerifiedGPS": false,
             "courses": [
                 {
-                    "courseName": "Hongdan Course",
+                    "courseName": "Lake Course",
                     "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
                     "holeGreens": [
-                        {"latitude": 35.531789, "longitude": 126.87289},
-                        {"latitude": 35.532789, "longitude": 126.87489},
-                        {"latitude": 35.533789, "longitude": 126.87689},
-                        {"latitude": 35.534789, "longitude": 126.87589},
-                        {"latitude": 35.535789, "longitude": 126.87389},
-                        {"latitude": 35.534789, "longitude": 126.87189},
-                        {"latitude": 35.533789, "longitude": 126.87089},
-                        {"latitude": 35.532789, "longitude": 126.87189},
-                        {"latitude": 35.531789, "longitude": 126.87389}
+                        {"latitude": 35.912345, "longitude": 126.682456},
+                        {"latitude": 35.913345, "longitude": 126.684456},
+                        {"latitude": 35.914345, "longitude": 126.686456},
+                        {"latitude": 35.915345, "longitude": 126.685456},
+                        {"latitude": 35.916345, "longitude": 126.683456},
+                        {"latitude": 35.915345, "longitude": 126.681456},
+                        {"latitude": 35.914345, "longitude": 126.680456},
+                        {"latitude": 35.913345, "longitude": 126.681456},
+                        {"latitude": 35.912345, "longitude": 126.683456}
                     ]
                 },
                 {
-                    "courseName": "Cheongdan Course",
+                    "courseName": "Reed Course",
                     "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
                     "holeGreens": [
-                        {"latitude": 35.536789, "longitude": 126.87289},
-                        {"latitude": 35.537789, "longitude": 126.87489},
-                        {"latitude": 35.538789, "longitude": 126.87689},
-                        {"latitude": 35.539789, "longitude": 126.87589},
-                        {"latitude": 35.540789, "longitude": 126.87389},
-                        {"latitude": 35.539789, "longitude": 126.87189},
-                        {"latitude": 35.538789, "longitude": 126.87089},
-                        {"latitude": 35.537789, "longitude": 126.87189},
-                        {"latitude": 35.536789, "longitude": 126.87389}
+                        {"latitude": 35.917345, "longitude": 126.682456},
+                        {"latitude": 35.918345, "longitude": 126.684456},
+                        {"latitude": 35.919345, "longitude": 126.686456},
+                        {"latitude": 35.920345, "longitude": 126.685456},
+                        {"latitude": 35.921345, "longitude": 126.683456},
+                        {"latitude": 35.920345, "longitude": 126.681456},
+                        {"latitude": 35.919345, "longitude": 126.680456},
+                        {"latitude": 35.918345, "longitude": 126.681456},
+                        {"latitude": 35.917345, "longitude": 126.683456}
                     ]
                 }
             ]
         },
-        {
+{
             "clubName": "남원상록 컨트리클럽 (전북 남원시)",
             "latitude": 35.40189,
             "longitude": 127.381901,
@@ -206,7 +168,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "드래곤레이크 컨트리클럽 (전북 남원시)",
             "latitude": 35.421901,
             "longitude": 127.451012,
@@ -244,7 +206,121 @@
                 }
             ]
         },
-        {
+{
+            "clubName": "클럽디 금강 (전북 익산시)",
+            "latitude": 36.061234,
+            "longitude": 126.881345,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "East Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 36.061234, "longitude": 126.882345},
+                        {"latitude": 36.062234, "longitude": 126.884345},
+                        {"latitude": 36.063234, "longitude": 126.886345},
+                        {"latitude": 36.064234, "longitude": 126.885345},
+                        {"latitude": 36.065234, "longitude": 126.883345},
+                        {"latitude": 36.064234, "longitude": 126.881345},
+                        {"latitude": 36.063234, "longitude": 126.880345},
+                        {"latitude": 36.062234, "longitude": 126.881345},
+                        {"latitude": 36.061234, "longitude": 126.883345}
+                    ]
+                },
+                {
+                    "courseName": "West Course",
+                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "holeGreens": [
+                        {"latitude": 36.066234, "longitude": 126.882345},
+                        {"latitude": 36.067234, "longitude": 126.884345},
+                        {"latitude": 36.068234, "longitude": 126.886345},
+                        {"latitude": 36.069234, "longitude": 126.885345},
+                        {"latitude": 36.070234, "longitude": 126.883345},
+                        {"latitude": 36.069234, "longitude": 126.881345},
+                        {"latitude": 36.068234, "longitude": 126.880345},
+                        {"latitude": 36.067234, "longitude": 126.881345},
+                        {"latitude": 36.066234, "longitude": 126.883345}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "장수 골프리조트 (전북 장수군)",
+            "latitude": 35.651234,
+            "longitude": 127.521345,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Apple Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.651234, "longitude": 127.522345},
+                        {"latitude": 35.652234, "longitude": 127.524345},
+                        {"latitude": 35.653234, "longitude": 127.526345},
+                        {"latitude": 35.654234, "longitude": 127.525345},
+                        {"latitude": 35.655234, "longitude": 127.523345},
+                        {"latitude": 35.654234, "longitude": 127.521345},
+                        {"latitude": 35.653234, "longitude": 127.520345},
+                        {"latitude": 35.652234, "longitude": 127.521345},
+                        {"latitude": 35.651234, "longitude": 127.523345}
+                    ]
+                },
+                {
+                    "courseName": "Tree Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.656234, "longitude": 127.522345},
+                        {"latitude": 35.657234, "longitude": 127.524345},
+                        {"latitude": 35.658234, "longitude": 127.526345},
+                        {"latitude": 35.659234, "longitude": 127.525345},
+                        {"latitude": 35.660234, "longitude": 127.523345},
+                        {"latitude": 35.659234, "longitude": 127.521345},
+                        {"latitude": 35.658234, "longitude": 127.520345},
+                        {"latitude": 35.657234, "longitude": 127.521345},
+                        {"latitude": 35.656234, "longitude": 127.523345}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "내장산 골프앤리조트 (전북 정읍시)",
+            "latitude": 35.531789,
+            "longitude": 126.87189,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Hongdan Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 35.531789, "longitude": 126.87289},
+                        {"latitude": 35.532789, "longitude": 126.87489},
+                        {"latitude": 35.533789, "longitude": 126.87689},
+                        {"latitude": 35.534789, "longitude": 126.87589},
+                        {"latitude": 35.535789, "longitude": 126.87389},
+                        {"latitude": 35.534789, "longitude": 126.87189},
+                        {"latitude": 35.533789, "longitude": 126.87089},
+                        {"latitude": 35.532789, "longitude": 126.87189},
+                        {"latitude": 35.531789, "longitude": 126.87389}
+                    ]
+                },
+                {
+                    "courseName": "Cheongdan Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 35.536789, "longitude": 126.87289},
+                        {"latitude": 35.537789, "longitude": 126.87489},
+                        {"latitude": 35.538789, "longitude": 126.87689},
+                        {"latitude": 35.539789, "longitude": 126.87589},
+                        {"latitude": 35.540789, "longitude": 126.87389},
+                        {"latitude": 35.539789, "longitude": 126.87189},
+                        {"latitude": 35.538789, "longitude": 126.87089},
+                        {"latitude": 35.537789, "longitude": 126.87189},
+                        {"latitude": 35.536789, "longitude": 126.87389}
+                    ]
+                }
+            ]
+        },
+{
             "clubName": "태인 컨트리클럽 (전북 정읍시)",
             "latitude": 35.611012,
             "longitude": 126.961123,
@@ -282,7 +358,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "써미트 컨트리클럽 (전북 진안군)",
             "latitude": 35.791123,
             "longitude": 127.421234,
@@ -331,82 +407,6 @@
                         {"latitude": 35.793123, "longitude": 127.430234},
                         {"latitude": 35.792123, "longitude": 127.431234},
                         {"latitude": 35.791123, "longitude": 127.433234}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "클럽디 금강 (전북 익산시)",
-            "latitude": 36.061234,
-            "longitude": 126.881345,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "East Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
-                    "holeGreens": [
-                        {"latitude": 36.061234, "longitude": 126.882345},
-                        {"latitude": 36.062234, "longitude": 126.884345},
-                        {"latitude": 36.063234, "longitude": 126.886345},
-                        {"latitude": 36.064234, "longitude": 126.885345},
-                        {"latitude": 36.065234, "longitude": 126.883345},
-                        {"latitude": 36.064234, "longitude": 126.881345},
-                        {"latitude": 36.063234, "longitude": 126.880345},
-                        {"latitude": 36.062234, "longitude": 126.881345},
-                        {"latitude": 36.061234, "longitude": 126.883345}
-                    ]
-                },
-                {
-                    "courseName": "West Course",
-                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
-                    "holeGreens": [
-                        {"latitude": 36.066234, "longitude": 126.882345},
-                        {"latitude": 36.067234, "longitude": 126.884345},
-                        {"latitude": 36.068234, "longitude": 126.886345},
-                        {"latitude": 36.069234, "longitude": 126.885345},
-                        {"latitude": 36.070234, "longitude": 126.883345},
-                        {"latitude": 36.069234, "longitude": 126.881345},
-                        {"latitude": 36.068234, "longitude": 126.880345},
-                        {"latitude": 36.067234, "longitude": 126.881345},
-                        {"latitude": 36.066234, "longitude": 126.883345}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "군산 컨트리클럽 (전북 군산시)",
-            "latitude": 35.912345,
-            "longitude": 126.681456,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Lake Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
-                    "holeGreens": [
-                        {"latitude": 35.912345, "longitude": 126.682456},
-                        {"latitude": 35.913345, "longitude": 126.684456},
-                        {"latitude": 35.914345, "longitude": 126.686456},
-                        {"latitude": 35.915345, "longitude": 126.685456},
-                        {"latitude": 35.916345, "longitude": 126.683456},
-                        {"latitude": 35.915345, "longitude": 126.681456},
-                        {"latitude": 35.914345, "longitude": 126.680456},
-                        {"latitude": 35.913345, "longitude": 126.681456},
-                        {"latitude": 35.912345, "longitude": 126.683456}
-                    ]
-                },
-                {
-                    "courseName": "Reed Course",
-                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 35.917345, "longitude": 126.682456},
-                        {"latitude": 35.918345, "longitude": 126.684456},
-                        {"latitude": 35.919345, "longitude": 126.686456},
-                        {"latitude": 35.920345, "longitude": 126.685456},
-                        {"latitude": 35.921345, "longitude": 126.683456},
-                        {"latitude": 35.920345, "longitude": 126.681456},
-                        {"latitude": 35.919345, "longitude": 126.680456},
-                        {"latitude": 35.918345, "longitude": 126.681456},
-                        {"latitude": 35.917345, "longitude": 126.683456}
                     ]
                 }
             ]
