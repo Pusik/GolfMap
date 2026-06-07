@@ -53,45 +53,7 @@
                 }
             ]
         },
-        {
-            "clubName": "잭니클라우스 골프클럽 코리아 (인천 연수구)",
-            "latitude": 37.381234,
-            "longitude": 126.625456,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Urban Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 37.381234, "longitude": 126.626456},
-                        {"latitude": 37.382234, "longitude": 126.628456},
-                        {"latitude": 37.383234, "longitude": 126.630456},
-                        {"latitude": 37.384234, "longitude": 126.629456},
-                        {"latitude": 37.385234, "longitude": 126.627456},
-                        {"latitude": 37.384234, "longitude": 126.625456},
-                        {"latitude": 37.383234, "longitude": 126.624456},
-                        {"latitude": 37.382234, "longitude": 126.625456},
-                        {"latitude": 37.381234, "longitude": 126.627456}
-                    ]
-                },
-                {
-                    "courseName": "Links Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
-                    "holeGreens": [
-                        {"latitude": 37.386234, "longitude": 126.626456},
-                        {"latitude": 37.387234, "longitude": 126.628456},
-                        {"latitude": 37.388234, "longitude": 126.630456},
-                        {"latitude": 37.389234, "longitude": 126.629456},
-                        {"latitude": 37.390234, "longitude": 126.627456},
-                        {"latitude": 37.389234, "longitude": 126.625456},
-                        {"latitude": 37.388234, "longitude": 126.624456},
-                        {"latitude": 37.387234, "longitude": 126.625456},
-                        {"latitude": 37.386234, "longitude": 126.627456}
-                    ]
-                }
-            ]
-        },
-        {
+{
             "clubName": "인천국제 컨트리클럽 (인천 서구)",
             "latitude": 37.56189182437959, "longitude": 126.65360082051072,
             "hasVerifiedGPS": true,
@@ -128,7 +90,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "인천그랜드 컨트리클럽 (인천 서구)",
             "latitude": 37.551234,
             "longitude": 126.650123,
@@ -166,121 +128,7 @@
                 }
             ]
         },
-        {
-            "clubName": "오렌지듄스 영종 골프클럽 (인천 중구)",
-            "latitude": 37.472134,
-            "longitude": 126.438234,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "East Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 37.472134, "longitude": 126.439234},
-                        {"latitude": 37.473134, "longitude": 126.441234},
-                        {"latitude": 37.474134, "longitude": 126.443234},
-                        {"latitude": 37.475134, "longitude": 126.442234},
-                        {"latitude": 37.476134, "longitude": 126.440234},
-                        {"latitude": 37.475134, "longitude": 126.438234},
-                        {"latitude": 37.474134, "longitude": 126.437234},
-                        {"latitude": 37.473134, "longitude": 126.438234},
-                        {"latitude": 37.472134, "longitude": 126.440234}
-                    ]
-                },
-                {
-                    "courseName": "West Course",
-                    "holePars": [4, 4, 3, 5, 4, 4, 3, 5, 4],
-                    "holeGreens": [
-                        {"latitude": 37.477134, "longitude": 126.439234},
-                        {"latitude": 37.478134, "longitude": 126.441234},
-                        {"latitude": 37.479134, "longitude": 126.443234},
-                        {"latitude": 37.480134, "longitude": 126.442234},
-                        {"latitude": 37.481134, "longitude": 126.440234},
-                        {"latitude": 37.480134, "longitude": 126.438234},
-                        {"latitude": 37.479134, "longitude": 126.437234},
-                        {"latitude": 37.478134, "longitude": 126.438234},
-                        {"latitude": 37.477134, "longitude": 126.440234}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "클럽72 하늘코스 (인천 중구)",
-            "latitude": 37.474567,
-            "longitude": 126.430123,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Out Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
-                    "holeGreens": [
-                        {"latitude": 37.474567, "longitude": 126.431123},
-                        {"latitude": 37.475567, "longitude": 126.433123},
-                        {"latitude": 37.476567, "longitude": 126.435123},
-                        {"latitude": 37.477567, "longitude": 126.434123},
-                        {"latitude": 37.478567, "longitude": 126.432123},
-                        {"latitude": 37.477567, "longitude": 126.430123},
-                        {"latitude": 37.476567, "longitude": 126.429123},
-                        {"latitude": 37.475567, "longitude": 126.430123},
-                        {"latitude": 37.474567, "longitude": 126.432123}
-                    ]
-                },
-                {
-                    "courseName": "In Course",
-                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
-                    "holeGreens": [
-                        {"latitude": 37.479567, "longitude": 126.431123},
-                        {"latitude": 37.480567, "longitude": 126.433123},
-                        {"latitude": 37.481567, "longitude": 126.435123},
-                        {"latitude": 37.482567, "longitude": 126.434123},
-                        {"latitude": 37.483567, "longitude": 126.432123},
-                        {"latitude": 37.482567, "longitude": 126.430123},
-                        {"latitude": 37.481567, "longitude": 126.429123},
-                        {"latitude": 37.480567, "longitude": 126.430123},
-                        {"latitude": 37.479567, "longitude": 126.432123}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "클럽72 오션코스 (인천 중구)",
-            "latitude": 37.458123,
-            "longitude": 126.425234,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Out Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
-                    "holeGreens": [
-                        {"latitude": 37.458123, "longitude": 126.426234},
-                        {"latitude": 37.459123, "longitude": 126.428234},
-                        {"latitude": 37.460123, "longitude": 126.430234},
-                        {"latitude": 37.461123, "longitude": 126.429234},
-                        {"latitude": 37.462123, "longitude": 126.427234},
-                        {"latitude": 37.461123, "longitude": 126.425234},
-                        {"latitude": 37.460123, "longitude": 126.424234},
-                        {"latitude": 37.459123, "longitude": 126.425234},
-                        {"latitude": 37.458123, "longitude": 126.427234}
-                    ]
-                },
-                {
-                    "courseName": "In Course",
-                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 37.463123, "longitude": 126.426234},
-                        {"latitude": 37.464123, "longitude": 126.428234},
-                        {"latitude": 37.465123, "longitude": 126.430234},
-                        {"latitude": 37.466123, "longitude": 126.429234},
-                        {"latitude": 37.467123, "longitude": 126.427234},
-                        {"latitude": 37.466123, "longitude": 126.425234},
-                        {"latitude": 37.465123, "longitude": 126.424234},
-                        {"latitude": 37.464123, "longitude": 126.425234},
-                        {"latitude": 37.463123, "longitude": 126.427234}
-                    ]
-                }
-            ]
-        },
-        {
+{
             "clubName": "드림파크 컨트리클럽 (인천 서구)",
             "latitude": 37.57269893833785, "longitude": 126.64366850607638,
             "hasVerifiedGPS": true,
@@ -343,6 +191,158 @@
                         {"latitude": 37.57262697248881, "longitude": 126.63631941869902},
                         {"latitude": 37.57175885548819, "longitude": 126.63166556551712},
                         {"latitude": 37.573404572364325, "longitude": 126.63574963761447}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "잭니클라우스 골프클럽 코리아 (인천 연수구)",
+            "latitude": 37.381234,
+            "longitude": 126.625456,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Urban Course",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 37.381234, "longitude": 126.626456},
+                        {"latitude": 37.382234, "longitude": 126.628456},
+                        {"latitude": 37.383234, "longitude": 126.630456},
+                        {"latitude": 37.384234, "longitude": 126.629456},
+                        {"latitude": 37.385234, "longitude": 126.627456},
+                        {"latitude": 37.384234, "longitude": 126.625456},
+                        {"latitude": 37.383234, "longitude": 126.624456},
+                        {"latitude": 37.382234, "longitude": 126.625456},
+                        {"latitude": 37.381234, "longitude": 126.627456}
+                    ]
+                },
+                {
+                    "courseName": "Links Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 37.386234, "longitude": 126.626456},
+                        {"latitude": 37.387234, "longitude": 126.628456},
+                        {"latitude": 37.388234, "longitude": 126.630456},
+                        {"latitude": 37.389234, "longitude": 126.629456},
+                        {"latitude": 37.390234, "longitude": 126.627456},
+                        {"latitude": 37.389234, "longitude": 126.625456},
+                        {"latitude": 37.388234, "longitude": 126.624456},
+                        {"latitude": 37.387234, "longitude": 126.625456},
+                        {"latitude": 37.386234, "longitude": 126.627456}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "오렌지듄스 영종 골프클럽 (인천 중구)",
+            "latitude": 37.472134,
+            "longitude": 126.438234,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "East Course",
+                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 37.472134, "longitude": 126.439234},
+                        {"latitude": 37.473134, "longitude": 126.441234},
+                        {"latitude": 37.474134, "longitude": 126.443234},
+                        {"latitude": 37.475134, "longitude": 126.442234},
+                        {"latitude": 37.476134, "longitude": 126.440234},
+                        {"latitude": 37.475134, "longitude": 126.438234},
+                        {"latitude": 37.474134, "longitude": 126.437234},
+                        {"latitude": 37.473134, "longitude": 126.438234},
+                        {"latitude": 37.472134, "longitude": 126.440234}
+                    ]
+                },
+                {
+                    "courseName": "West Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 37.477134, "longitude": 126.439234},
+                        {"latitude": 37.478134, "longitude": 126.441234},
+                        {"latitude": 37.479134, "longitude": 126.443234},
+                        {"latitude": 37.480134, "longitude": 126.442234},
+                        {"latitude": 37.481134, "longitude": 126.440234},
+                        {"latitude": 37.480134, "longitude": 126.438234},
+                        {"latitude": 37.479134, "longitude": 126.437234},
+                        {"latitude": 37.478134, "longitude": 126.438234},
+                        {"latitude": 37.477134, "longitude": 126.440234}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "클럽72 하늘코스 (인천 중구)",
+            "latitude": 37.474567,
+            "longitude": 126.430123,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Out Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 37.474567, "longitude": 126.431123},
+                        {"latitude": 37.475567, "longitude": 126.433123},
+                        {"latitude": 37.476567, "longitude": 126.435123},
+                        {"latitude": 37.477567, "longitude": 126.434123},
+                        {"latitude": 37.478567, "longitude": 126.432123},
+                        {"latitude": 37.477567, "longitude": 126.430123},
+                        {"latitude": 37.476567, "longitude": 126.429123},
+                        {"latitude": 37.475567, "longitude": 126.430123},
+                        {"latitude": 37.474567, "longitude": 126.432123}
+                    ]
+                },
+                {
+                    "courseName": "In Course",
+                    "holePars": [5, 4, 3, 4, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 37.479567, "longitude": 126.431123},
+                        {"latitude": 37.480567, "longitude": 126.433123},
+                        {"latitude": 37.481567, "longitude": 126.435123},
+                        {"latitude": 37.482567, "longitude": 126.434123},
+                        {"latitude": 37.483567, "longitude": 126.432123},
+                        {"latitude": 37.482567, "longitude": 126.430123},
+                        {"latitude": 37.481567, "longitude": 126.429123},
+                        {"latitude": 37.480567, "longitude": 126.430123},
+                        {"latitude": 37.479567, "longitude": 126.432123}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "클럽72 오션코스 (인천 중구)",
+            "latitude": 37.458123,
+            "longitude": 126.425234,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Out Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 3, 5, 4],
+                    "holeGreens": [
+                        {"latitude": 37.458123, "longitude": 126.426234},
+                        {"latitude": 37.459123, "longitude": 126.428234},
+                        {"latitude": 37.460123, "longitude": 126.430234},
+                        {"latitude": 37.461123, "longitude": 126.429234},
+                        {"latitude": 37.462123, "longitude": 126.427234},
+                        {"latitude": 37.461123, "longitude": 126.425234},
+                        {"latitude": 37.460123, "longitude": 126.424234},
+                        {"latitude": 37.459123, "longitude": 126.425234},
+                        {"latitude": 37.458123, "longitude": 126.427234}
+                    ]
+                },
+                {
+                    "courseName": "In Course",
+                    "holePars": [4, 4, 3, 5, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 37.463123, "longitude": 126.426234},
+                        {"latitude": 37.464123, "longitude": 126.428234},
+                        {"latitude": 37.465123, "longitude": 126.430234},
+                        {"latitude": 37.466123, "longitude": 126.429234},
+                        {"latitude": 37.467123, "longitude": 126.427234},
+                        {"latitude": 37.466123, "longitude": 126.425234},
+                        {"latitude": 37.465123, "longitude": 126.424234},
+                        {"latitude": 37.464123, "longitude": 126.425234},
+                        {"latitude": 37.463123, "longitude": 126.427234}
                     ]
                 }
             ]
