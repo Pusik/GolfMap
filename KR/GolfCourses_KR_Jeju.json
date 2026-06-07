@@ -2,82 +2,6 @@
     "region": "제주특별자치도",
     "clubs": [
         {
-            "clubName": "라온 컨트리클럽 (제주 제주시)",
-            "latitude": 33.3486,
-            "longitude": 126.2653,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Lake Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.3486, "longitude": 126.2663},
-                        {"latitude": 33.3496, "longitude": 126.2683},
-                        {"latitude": 33.3506, "longitude": 126.2703},
-                        {"latitude": 33.3516, "longitude": 126.2693},
-                        {"latitude": 33.3526, "longitude": 126.2673},
-                        {"latitude": 33.3516, "longitude": 126.2653},
-                        {"latitude": 33.3506, "longitude": 126.2643},
-                        {"latitude": 33.3496, "longitude": 126.2653},
-                        {"latitude": 33.3486, "longitude": 126.2673}
-                    ]
-                },
-                {
-                    "courseName": "Mountain Course",
-                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.3536, "longitude": 126.2663},
-                        {"latitude": 33.3546, "longitude": 126.2683},
-                        {"latitude": 33.3556, "longitude": 126.2703},
-                        {"latitude": 33.3566, "longitude": 126.2693},
-                        {"latitude": 33.3576, "longitude": 126.2673},
-                        {"latitude": 33.3566, "longitude": 126.2653},
-                        {"latitude": 33.3556, "longitude": 126.2643},
-                        {"latitude": 33.3546, "longitude": 126.2653},
-                        {"latitude": 33.3536, "longitude": 126.2673}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "엘리시안 제주 컨트리클럽 (제주 제주시)",
-            "latitude": 33.3905,
-            "longitude": 126.3902,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Ocean Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.3905, "longitude": 126.3912},
-                        {"latitude": 33.3915, "longitude": 126.3932},
-                        {"latitude": 33.3925, "longitude": 126.3952},
-                        {"latitude": 33.3935, "longitude": 126.3942},
-                        {"latitude": 33.3945, "longitude": 126.3922},
-                        {"latitude": 33.3935, "longitude": 126.3902},
-                        {"latitude": 33.3925, "longitude": 126.3892},
-                        {"latitude": 33.3915, "longitude": 126.3902},
-                        {"latitude": 33.3905, "longitude": 126.3922}
-                    ]
-                },
-                {
-                    "courseName": "Pine Course",
-                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.3955, "longitude": 126.3912},
-                        {"latitude": 33.3965, "longitude": 126.3932},
-                        {"latitude": 33.3975, "longitude": 126.3952},
-                        {"latitude": 33.3985, "longitude": 126.3942},
-                        {"latitude": 33.3995, "longitude": 126.3922},
-                        {"latitude": 33.3985, "longitude": 126.3902},
-                        {"latitude": 33.3975, "longitude": 126.3892},
-                        {"latitude": 33.3965, "longitude": 126.3902},
-                        {"latitude": 33.3955, "longitude": 126.3922}
-                    ]
-                }
-            ]
-        },
-        {
             "clubName": "캐슬렉스 제주 컨트리클럽 (제주 서귀포시)",
             "latitude": 33.3066,
             "longitude": 126.3303,
@@ -115,7 +39,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "테디밸리 골프앤리조트 (제주 서귀포시)",
             "latitude": 33.3004,
             "longitude": 126.3872,
@@ -153,7 +77,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "해비치 컨트리클럽 제주 (제주 서귀포시)",
             "latitude": 33.3215,
             "longitude": 126.8442,
@@ -191,387 +115,7 @@
                 }
             ]
         },
-        {
-            "clubName": "오라 컨트리클럽 (제주 제주시)",
-            "latitude": 33.4705,
-            "longitude": 126.4983,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "East Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4705, "longitude": 126.4993},
-                        {"latitude": 33.4715, "longitude": 126.5013},
-                        {"latitude": 33.4725, "longitude": 126.5033},
-                        {"latitude": 33.4735, "longitude": 126.5023},
-                        {"latitude": 33.4745, "longitude": 126.5003},
-                        {"latitude": 33.4735, "longitude": 126.4983},
-                        {"latitude": 33.4725, "longitude": 126.4973},
-                        {"latitude": 33.4715, "longitude": 126.4983},
-                        {"latitude": 33.4705, "longitude": 126.5003}
-                    ]
-                },
-                {
-                    "courseName": "West Course",
-                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4755, "longitude": 126.4993},
-                        {"latitude": 33.4765, "longitude": 126.5013},
-                        {"latitude": 33.4775, "longitude": 126.5033},
-                        {"latitude": 33.4785, "longitude": 126.5023},
-                        {"latitude": 33.4795, "longitude": 126.5003},
-                        {"latitude": 33.4785, "longitude": 126.4983},
-                        {"latitude": 33.4775, "longitude": 126.4973},
-                        {"latitude": 33.4765, "longitude": 126.4983},
-                        {"latitude": 33.4755, "longitude": 126.5003}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "제주 컨트리클럽 (제주 제주시)",
-            "latitude": 33.4902,
-            "longitude": 126.4971,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Out Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4902, "longitude": 126.4981},
-                        {"latitude": 33.4912, "longitude": 126.5001},
-                        {"latitude": 33.4922, "longitude": 126.5021},
-                        {"latitude": 33.4932, "longitude": 126.5011},
-                        {"latitude": 33.4942, "longitude": 126.4991},
-                        {"latitude": 33.4932, "longitude": 126.4971},
-                        {"latitude": 33.4922, "longitude": 126.4961},
-                        {"latitude": 33.4912, "longitude": 126.4971},
-                        {"latitude": 33.4902, "longitude": 126.4991}
-                    ]
-                },
-                {
-                    "courseName": "In Course",
-                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4952, "longitude": 126.4981},
-                        {"latitude": 33.4962, "longitude": 126.5001},
-                        {"latitude": 33.4972, "longitude": 126.5021},
-                        {"latitude": 33.4982, "longitude": 126.5011},
-                        {"latitude": 33.4992, "longitude": 126.4991},
-                        {"latitude": 33.4982, "longitude": 126.4971},
-                        {"latitude": 33.4972, "longitude": 126.4961},
-                        {"latitude": 33.4962, "longitude": 126.4971},
-                        {"latitude": 33.4952, "longitude": 126.4991}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "부영 컨트리클럽 (제주 제주시)",
-            "latitude": 33.4992,
-            "longitude": 126.5172,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "North Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4992, "longitude": 126.5182},
-                        {"latitude": 33.5002, "longitude": 126.5202},
-                        {"latitude": 33.5012, "longitude": 126.5222},
-                        {"latitude": 33.5022, "longitude": 126.5212},
-                        {"latitude": 33.5032, "longitude": 126.5192},
-                        {"latitude": 33.5022, "longitude": 126.5172},
-                        {"latitude": 33.5012, "longitude": 126.5162},
-                        {"latitude": 33.5002, "longitude": 126.5172},
-                        {"latitude": 33.4992, "longitude": 126.5192}
-                    ]
-                },
-                {
-                    "courseName": "South Course",
-                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.5042, "longitude": 126.5182},
-                        {"latitude": 33.5052, "longitude": 126.5202},
-                        {"latitude": 33.5062, "longitude": 126.5222},
-                        {"latitude": 33.5072, "longitude": 126.5212},
-                        {"latitude": 33.5082, "longitude": 126.5192},
-                        {"latitude": 33.5072, "longitude": 126.5172},
-                        {"latitude": 33.5062, "longitude": 126.5162},
-                        {"latitude": 33.5052, "longitude": 126.5172},
-                        {"latitude": 33.5042, "longitude": 126.5192}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "에코랜드 골프클럽 (제주 제주시)",
-            "latitude": 33.4477,
-            "longitude": 126.6685,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Forest Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4477, "longitude": 126.6695},
-                        {"latitude": 33.4487, "longitude": 126.6715},
-                        {"latitude": 33.4497, "longitude": 126.6735},
-                        {"latitude": 33.4507, "longitude": 126.6725},
-                        {"latitude": 33.4517, "longitude": 126.6705},
-                        {"latitude": 33.4507, "longitude": 126.6685},
-                        {"latitude": 33.4497, "longitude": 126.6675},
-                        {"latitude": 33.4487, "longitude": 126.6685},
-                        {"latitude": 33.4477, "longitude": 126.6705}
-                    ]
-                },
-                {
-                    "courseName": "Lake Course",
-                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4527, "longitude": 126.6695},
-                        {"latitude": 33.4537, "longitude": 126.6715},
-                        {"latitude": 33.4547, "longitude": 126.6735},
-                        {"latitude": 33.4557, "longitude": 126.6725},
-                        {"latitude": 33.4567, "longitude": 126.6705},
-                        {"latitude": 33.4557, "longitude": 126.6685},
-                        {"latitude": 33.4547, "longitude": 126.6675},
-                        {"latitude": 33.4537, "longitude": 126.6685},
-                        {"latitude": 33.4527, "longitude": 126.6705}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "세인트포 컨트리클럽 (제주 제주시)",
-            "latitude": 33.4365,
-            "longitude": 126.7305,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Saint Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4365, "longitude": 126.7315},
-                        {"latitude": 33.4375, "longitude": 126.7335},
-                        {"latitude": 33.4385, "longitude": 126.7355},
-                        {"latitude": 33.4395, "longitude": 126.7345},
-                        {"latitude": 33.4405, "longitude": 126.7325},
-                        {"latitude": 33.4395, "longitude": 126.7305},
-                        {"latitude": 33.4385, "longitude": 126.7295},
-                        {"latitude": 33.4375, "longitude": 126.7305},
-                        {"latitude": 33.4365, "longitude": 126.7325}
-                    ]
-                },
-                {
-                    "courseName": "Four Course",
-                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4415, "longitude": 126.7315},
-                        {"latitude": 33.4425, "longitude": 126.7335},
-                        {"latitude": 33.4435, "longitude": 126.7355},
-                        {"latitude": 33.4445, "longitude": 126.7345},
-                        {"latitude": 33.4455, "longitude": 126.7325},
-                        {"latitude": 33.4445, "longitude": 126.7305},
-                        {"latitude": 33.4435, "longitude": 126.7295},
-                        {"latitude": 33.4425, "longitude": 126.7305},
-                        {"latitude": 33.4415, "longitude": 126.7325}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "크라운 컨트리클럽 (제주 제주시)",
-            "latitude": 33.4421,
-            "longitude": 126.7251,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Crown Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4421, "longitude": 126.7261},
-                        {"latitude": 33.4431, "longitude": 126.7281},
-                        {"latitude": 33.4441, "longitude": 126.7301},
-                        {"latitude": 33.4451, "longitude": 126.7291},
-                        {"latitude": 33.4461, "longitude": 126.7271},
-                        {"latitude": 33.4451, "longitude": 126.7251},
-                        {"latitude": 33.4441, "longitude": 126.7241},
-                        {"latitude": 33.4431, "longitude": 126.7251},
-                        {"latitude": 33.4421, "longitude": 126.7271}
-                    ]
-                },
-                {
-                    "courseName": "Valley Course",
-                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4471, "longitude": 126.7261},
-                        {"latitude": 33.4481, "longitude": 126.7281},
-                        {"latitude": 33.4491, "longitude": 126.7301},
-                        {"latitude": 33.4501, "longitude": 126.7291},
-                        {"latitude": 33.4511, "longitude": 126.7271},
-                        {"latitude": 33.4501, "longitude": 126.7251},
-                        {"latitude": 33.4491, "longitude": 126.7241},
-                        {"latitude": 33.4481, "longitude": 126.7251},
-                        {"latitude": 33.4471, "longitude": 126.7271}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "그린필드 컨트리클럽 (제주 제주시)",
-            "latitude": 33.4555,
-            "longitude": 126.6902,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Green Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4555, "longitude": 126.6912},
-                        {"latitude": 33.4565, "longitude": 126.6932},
-                        {"latitude": 33.4575, "longitude": 126.6952},
-                        {"latitude": 33.4585, "longitude": 126.6942},
-                        {"latitude": 33.4595, "longitude": 126.6922},
-                        {"latitude": 33.4585, "longitude": 126.6902},
-                        {"latitude": 33.4575, "longitude": 126.6892},
-                        {"latitude": 33.4565, "longitude": 126.6902},
-                        {"latitude": 33.4555, "longitude": 126.6922}
-                    ]
-                },
-                {
-                    "courseName": "Field Course",
-                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4605, "longitude": 126.6912},
-                        {"latitude": 33.4615, "longitude": 126.6932},
-                        {"latitude": 33.4625, "longitude": 126.6952},
-                        {"latitude": 33.4635, "longitude": 126.6942},
-                        {"latitude": 33.4645, "longitude": 126.6922},
-                        {"latitude": 33.4635, "longitude": 126.6902},
-                        {"latitude": 33.4625, "longitude": 126.6892},
-                        {"latitude": 33.4615, "longitude": 126.6902},
-                        {"latitude": 33.4605, "longitude": 126.6922}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "에버리스 컨트리클럽 (제주 제주시)",
-            "latitude": 33.4012,
-            "longitude": 126.4205,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Ever Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4012, "longitude": 126.4215},
-                        {"latitude": 33.4022, "longitude": 126.4235},
-                        {"latitude": 33.4032, "longitude": 126.4255},
-                        {"latitude": 33.4042, "longitude": 126.4245},
-                        {"latitude": 33.4052, "longitude": 126.4225},
-                        {"latitude": 33.4042, "longitude": 126.4205},
-                        {"latitude": 33.4032, "longitude": 126.4195},
-                        {"latitude": 33.4022, "longitude": 126.4205},
-                        {"latitude": 33.4012, "longitude": 126.4225}
-                    ]
-                },
-                {
-                    "courseName": "Ris Course",
-                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.4062, "longitude": 126.4215},
-                        {"latitude": 33.4072, "longitude": 126.4235},
-                        {"latitude": 33.4082, "longitude": 126.4255},
-                        {"latitude": 33.4092, "longitude": 126.4245},
-                        {"latitude": 33.4102, "longitude": 126.4225},
-                        {"latitude": 33.4092, "longitude": 126.4205},
-                        {"latitude": 33.4082, "longitude": 126.4195},
-                        {"latitude": 33.4072, "longitude": 126.4205},
-                        {"latitude": 33.4062, "longitude": 126.4225}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "아덴힐 컨트리클럽 (제주 제주시)",
-            "latitude": 33.3793,
-            "longitude": 126.3631,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Hill Course",
-                    "holePars": [4, 5, 4, 3, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.3793, "longitude": 126.3641},
-                        {"latitude": 33.3803, "longitude": 126.3661},
-                        {"latitude": 33.3813, "longitude": 126.3681},
-                        {"latitude": 33.3823, "longitude": 126.3671},
-                        {"latitude": 33.3833, "longitude": 126.3651},
-                        {"latitude": 33.3823, "longitude": 126.3631},
-                        {"latitude": 33.3813, "longitude": 126.3621},
-                        {"latitude": 33.3803, "longitude": 126.3631},
-                        {"latitude": 33.3793, "longitude": 126.3651}
-                    ]
-                },
-                {
-                    "courseName": "Aden Course",
-                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.3843, "longitude": 126.3641},
-                        {"latitude": 33.3853, "longitude": 126.3661},
-                        {"latitude": 33.3863, "longitude": 126.3681},
-                        {"latitude": 33.3873, "longitude": 126.3671},
-                        {"latitude": 33.3883, "longitude": 126.3651},
-                        {"latitude": 33.3873, "longitude": 126.3631},
-                        {"latitude": 33.3863, "longitude": 126.3621},
-                        {"latitude": 33.3853, "longitude": 126.3631},
-                        {"latitude": 33.3843, "longitude": 126.3651}
-                    ]
-                }
-            ]
-        },
-        {
-            "clubName": "타미우스 컨트리클럽 (제주 제주시)",
-            "latitude": 33.3782,
-            "longitude": 126.3385,
-            "hasVerifiedGPS": false,
-            "courses": [
-                {
-                    "courseName": "Tam Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 5, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.3782, "longitude": 126.3395},
-                        {"latitude": 33.3792, "longitude": 126.3415},
-                        {"latitude": 33.3802, "longitude": 126.3435},
-                        {"latitude": 33.3812, "longitude": 126.3425},
-                        {"latitude": 33.3822, "longitude": 126.3405},
-                        {"latitude": 33.3812, "longitude": 126.3385},
-                        {"latitude": 33.3802, "longitude": 126.3375},
-                        {"latitude": 33.3792, "longitude": 126.3385},
-                        {"latitude": 33.3782, "longitude": 126.3405}
-                    ]
-                },
-                {
-                    "courseName": "Ius Course",
-                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
-                    "holeGreens": [
-                        {"latitude": 33.3832, "longitude": 126.3395},
-                        {"latitude": 33.3842, "longitude": 126.3415},
-                        {"latitude": 33.3852, "longitude": 126.3435},
-                        {"latitude": 33.3862, "longitude": 126.3425},
-                        {"latitude": 33.3872, "longitude": 126.3405},
-                        {"latitude": 33.3862, "longitude": 126.3385},
-                        {"latitude": 33.3852, "longitude": 126.3375},
-                        {"latitude": 33.3842, "longitude": 126.3385},
-                        {"latitude": 33.3832, "longitude": 126.3405}
-                    ]
-                }
-            ]
-        },
-        {
+{
             "clubName": "핀크스 골프클럽 (제주 서귀포시)",
             "latitude": 33.3056,
             "longitude": 126.3682,
@@ -609,7 +153,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "클럽 나인브릿지 (제주 서귀포시)",
             "latitude": 33.3085,
             "longitude": 126.3751,
@@ -647,7 +191,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "블랙스톤 제주 (제주 서귀포시)",
             "latitude": 33.3021,
             "longitude": 126.3405,
@@ -685,7 +229,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "롯데스카이힐 제주 (제주 서귀포시)",
             "latitude": 33.2915,
             "longitude": 126.3485,
@@ -723,7 +267,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "중문 골프클럽 (제주 서귀포시)",
             "latitude": 33.2451,
             "longitude": 126.4093,
@@ -761,7 +305,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "우리들 컨트리클럽 (제주 서귀포시)",
             "latitude": 33.2875,
             "longitude": 126.5622,
@@ -799,7 +343,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "더클래식 골프앤리조트 (제주 서귀포시)",
             "latitude": 33.3052,
             "longitude": 126.5284,
@@ -837,7 +381,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "스프링데일 골프앤리조트 (제주 서귀포시)",
             "latitude": 33.3365,
             "longitude": 126.6515,
@@ -875,7 +419,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "사이프러스 골프앤리조트 (제주 서귀포시)",
             "latitude": 33.3225,
             "longitude": 126.8242,
@@ -913,7 +457,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "샤인빌파크 컨트리클럽 (제주 서귀포시)",
             "latitude": 33.3452,
             "longitude": 126.8122,
@@ -951,7 +495,7 @@
                 }
             ]
         },
-        {
+{
             "clubName": "더 시에나 컨트리클럽 (제주 서귀포시)",
             "latitude": 33.3602,
             "longitude": 126.5091,
@@ -985,6 +529,462 @@
                         {"latitude": 33.3672, "longitude": 126.5081},
                         {"latitude": 33.3662, "longitude": 126.5091},
                         {"latitude": 33.3652, "longitude": 126.5111}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "라온 컨트리클럽 (제주 제주시)",
+            "latitude": 33.3486,
+            "longitude": 126.2653,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Lake Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.3486, "longitude": 126.2663},
+                        {"latitude": 33.3496, "longitude": 126.2683},
+                        {"latitude": 33.3506, "longitude": 126.2703},
+                        {"latitude": 33.3516, "longitude": 126.2693},
+                        {"latitude": 33.3526, "longitude": 126.2673},
+                        {"latitude": 33.3516, "longitude": 126.2653},
+                        {"latitude": 33.3506, "longitude": 126.2643},
+                        {"latitude": 33.3496, "longitude": 126.2653},
+                        {"latitude": 33.3486, "longitude": 126.2673}
+                    ]
+                },
+                {
+                    "courseName": "Mountain Course",
+                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.3536, "longitude": 126.2663},
+                        {"latitude": 33.3546, "longitude": 126.2683},
+                        {"latitude": 33.3556, "longitude": 126.2703},
+                        {"latitude": 33.3566, "longitude": 126.2693},
+                        {"latitude": 33.3576, "longitude": 126.2673},
+                        {"latitude": 33.3566, "longitude": 126.2653},
+                        {"latitude": 33.3556, "longitude": 126.2643},
+                        {"latitude": 33.3546, "longitude": 126.2653},
+                        {"latitude": 33.3536, "longitude": 126.2673}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "엘리시안 제주 컨트리클럽 (제주 제주시)",
+            "latitude": 33.3905,
+            "longitude": 126.3902,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Ocean Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.3905, "longitude": 126.3912},
+                        {"latitude": 33.3915, "longitude": 126.3932},
+                        {"latitude": 33.3925, "longitude": 126.3952},
+                        {"latitude": 33.3935, "longitude": 126.3942},
+                        {"latitude": 33.3945, "longitude": 126.3922},
+                        {"latitude": 33.3935, "longitude": 126.3902},
+                        {"latitude": 33.3925, "longitude": 126.3892},
+                        {"latitude": 33.3915, "longitude": 126.3902},
+                        {"latitude": 33.3905, "longitude": 126.3922}
+                    ]
+                },
+                {
+                    "courseName": "Pine Course",
+                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.3955, "longitude": 126.3912},
+                        {"latitude": 33.3965, "longitude": 126.3932},
+                        {"latitude": 33.3975, "longitude": 126.3952},
+                        {"latitude": 33.3985, "longitude": 126.3942},
+                        {"latitude": 33.3995, "longitude": 126.3922},
+                        {"latitude": 33.3985, "longitude": 126.3902},
+                        {"latitude": 33.3975, "longitude": 126.3892},
+                        {"latitude": 33.3965, "longitude": 126.3902},
+                        {"latitude": 33.3955, "longitude": 126.3922}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "오라 컨트리클럽 (제주 제주시)",
+            "latitude": 33.4705,
+            "longitude": 126.4983,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "East Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4705, "longitude": 126.4993},
+                        {"latitude": 33.4715, "longitude": 126.5013},
+                        {"latitude": 33.4725, "longitude": 126.5033},
+                        {"latitude": 33.4735, "longitude": 126.5023},
+                        {"latitude": 33.4745, "longitude": 126.5003},
+                        {"latitude": 33.4735, "longitude": 126.4983},
+                        {"latitude": 33.4725, "longitude": 126.4973},
+                        {"latitude": 33.4715, "longitude": 126.4983},
+                        {"latitude": 33.4705, "longitude": 126.5003}
+                    ]
+                },
+                {
+                    "courseName": "West Course",
+                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4755, "longitude": 126.4993},
+                        {"latitude": 33.4765, "longitude": 126.5013},
+                        {"latitude": 33.4775, "longitude": 126.5033},
+                        {"latitude": 33.4785, "longitude": 126.5023},
+                        {"latitude": 33.4795, "longitude": 126.5003},
+                        {"latitude": 33.4785, "longitude": 126.4983},
+                        {"latitude": 33.4775, "longitude": 126.4973},
+                        {"latitude": 33.4765, "longitude": 126.4983},
+                        {"latitude": 33.4755, "longitude": 126.5003}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "제주 컨트리클럽 (제주 제주시)",
+            "latitude": 33.4902,
+            "longitude": 126.4971,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Out Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4902, "longitude": 126.4981},
+                        {"latitude": 33.4912, "longitude": 126.5001},
+                        {"latitude": 33.4922, "longitude": 126.5021},
+                        {"latitude": 33.4932, "longitude": 126.5011},
+                        {"latitude": 33.4942, "longitude": 126.4991},
+                        {"latitude": 33.4932, "longitude": 126.4971},
+                        {"latitude": 33.4922, "longitude": 126.4961},
+                        {"latitude": 33.4912, "longitude": 126.4971},
+                        {"latitude": 33.4902, "longitude": 126.4991}
+                    ]
+                },
+                {
+                    "courseName": "In Course",
+                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4952, "longitude": 126.4981},
+                        {"latitude": 33.4962, "longitude": 126.5001},
+                        {"latitude": 33.4972, "longitude": 126.5021},
+                        {"latitude": 33.4982, "longitude": 126.5011},
+                        {"latitude": 33.4992, "longitude": 126.4991},
+                        {"latitude": 33.4982, "longitude": 126.4971},
+                        {"latitude": 33.4972, "longitude": 126.4961},
+                        {"latitude": 33.4962, "longitude": 126.4971},
+                        {"latitude": 33.4952, "longitude": 126.4991}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "부영 컨트리클럽 (제주 제주시)",
+            "latitude": 33.4992,
+            "longitude": 126.5172,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "North Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4992, "longitude": 126.5182},
+                        {"latitude": 33.5002, "longitude": 126.5202},
+                        {"latitude": 33.5012, "longitude": 126.5222},
+                        {"latitude": 33.5022, "longitude": 126.5212},
+                        {"latitude": 33.5032, "longitude": 126.5192},
+                        {"latitude": 33.5022, "longitude": 126.5172},
+                        {"latitude": 33.5012, "longitude": 126.5162},
+                        {"latitude": 33.5002, "longitude": 126.5172},
+                        {"latitude": 33.4992, "longitude": 126.5192}
+                    ]
+                },
+                {
+                    "courseName": "South Course",
+                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.5042, "longitude": 126.5182},
+                        {"latitude": 33.5052, "longitude": 126.5202},
+                        {"latitude": 33.5062, "longitude": 126.5222},
+                        {"latitude": 33.5072, "longitude": 126.5212},
+                        {"latitude": 33.5082, "longitude": 126.5192},
+                        {"latitude": 33.5072, "longitude": 126.5172},
+                        {"latitude": 33.5062, "longitude": 126.5162},
+                        {"latitude": 33.5052, "longitude": 126.5172},
+                        {"latitude": 33.5042, "longitude": 126.5192}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "에코랜드 골프클럽 (제주 제주시)",
+            "latitude": 33.4477,
+            "longitude": 126.6685,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Forest Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4477, "longitude": 126.6695},
+                        {"latitude": 33.4487, "longitude": 126.6715},
+                        {"latitude": 33.4497, "longitude": 126.6735},
+                        {"latitude": 33.4507, "longitude": 126.6725},
+                        {"latitude": 33.4517, "longitude": 126.6705},
+                        {"latitude": 33.4507, "longitude": 126.6685},
+                        {"latitude": 33.4497, "longitude": 126.6675},
+                        {"latitude": 33.4487, "longitude": 126.6685},
+                        {"latitude": 33.4477, "longitude": 126.6705}
+                    ]
+                },
+                {
+                    "courseName": "Lake Course",
+                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4527, "longitude": 126.6695},
+                        {"latitude": 33.4537, "longitude": 126.6715},
+                        {"latitude": 33.4547, "longitude": 126.6735},
+                        {"latitude": 33.4557, "longitude": 126.6725},
+                        {"latitude": 33.4567, "longitude": 126.6705},
+                        {"latitude": 33.4557, "longitude": 126.6685},
+                        {"latitude": 33.4547, "longitude": 126.6675},
+                        {"latitude": 33.4537, "longitude": 126.6685},
+                        {"latitude": 33.4527, "longitude": 126.6705}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "세인트포 컨트리클럽 (제주 제주시)",
+            "latitude": 33.4365,
+            "longitude": 126.7305,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Saint Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4365, "longitude": 126.7315},
+                        {"latitude": 33.4375, "longitude": 126.7335},
+                        {"latitude": 33.4385, "longitude": 126.7355},
+                        {"latitude": 33.4395, "longitude": 126.7345},
+                        {"latitude": 33.4405, "longitude": 126.7325},
+                        {"latitude": 33.4395, "longitude": 126.7305},
+                        {"latitude": 33.4385, "longitude": 126.7295},
+                        {"latitude": 33.4375, "longitude": 126.7305},
+                        {"latitude": 33.4365, "longitude": 126.7325}
+                    ]
+                },
+                {
+                    "courseName": "Four Course",
+                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4415, "longitude": 126.7315},
+                        {"latitude": 33.4425, "longitude": 126.7335},
+                        {"latitude": 33.4435, "longitude": 126.7355},
+                        {"latitude": 33.4445, "longitude": 126.7345},
+                        {"latitude": 33.4455, "longitude": 126.7325},
+                        {"latitude": 33.4445, "longitude": 126.7305},
+                        {"latitude": 33.4435, "longitude": 126.7295},
+                        {"latitude": 33.4425, "longitude": 126.7305},
+                        {"latitude": 33.4415, "longitude": 126.7325}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "크라운 컨트리클럽 (제주 제주시)",
+            "latitude": 33.4421,
+            "longitude": 126.7251,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Crown Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4421, "longitude": 126.7261},
+                        {"latitude": 33.4431, "longitude": 126.7281},
+                        {"latitude": 33.4441, "longitude": 126.7301},
+                        {"latitude": 33.4451, "longitude": 126.7291},
+                        {"latitude": 33.4461, "longitude": 126.7271},
+                        {"latitude": 33.4451, "longitude": 126.7251},
+                        {"latitude": 33.4441, "longitude": 126.7241},
+                        {"latitude": 33.4431, "longitude": 126.7251},
+                        {"latitude": 33.4421, "longitude": 126.7271}
+                    ]
+                },
+                {
+                    "courseName": "Valley Course",
+                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4471, "longitude": 126.7261},
+                        {"latitude": 33.4481, "longitude": 126.7281},
+                        {"latitude": 33.4491, "longitude": 126.7301},
+                        {"latitude": 33.4501, "longitude": 126.7291},
+                        {"latitude": 33.4511, "longitude": 126.7271},
+                        {"latitude": 33.4501, "longitude": 126.7251},
+                        {"latitude": 33.4491, "longitude": 126.7241},
+                        {"latitude": 33.4481, "longitude": 126.7251},
+                        {"latitude": 33.4471, "longitude": 126.7271}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "그린필드 컨트리클럽 (제주 제주시)",
+            "latitude": 33.4555,
+            "longitude": 126.6902,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Green Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4555, "longitude": 126.6912},
+                        {"latitude": 33.4565, "longitude": 126.6932},
+                        {"latitude": 33.4575, "longitude": 126.6952},
+                        {"latitude": 33.4585, "longitude": 126.6942},
+                        {"latitude": 33.4595, "longitude": 126.6922},
+                        {"latitude": 33.4585, "longitude": 126.6902},
+                        {"latitude": 33.4575, "longitude": 126.6892},
+                        {"latitude": 33.4565, "longitude": 126.6902},
+                        {"latitude": 33.4555, "longitude": 126.6922}
+                    ]
+                },
+                {
+                    "courseName": "Field Course",
+                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4605, "longitude": 126.6912},
+                        {"latitude": 33.4615, "longitude": 126.6932},
+                        {"latitude": 33.4625, "longitude": 126.6952},
+                        {"latitude": 33.4635, "longitude": 126.6942},
+                        {"latitude": 33.4645, "longitude": 126.6922},
+                        {"latitude": 33.4635, "longitude": 126.6902},
+                        {"latitude": 33.4625, "longitude": 126.6892},
+                        {"latitude": 33.4615, "longitude": 126.6902},
+                        {"latitude": 33.4605, "longitude": 126.6922}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "에버리스 컨트리클럽 (제주 제주시)",
+            "latitude": 33.4012,
+            "longitude": 126.4205,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Ever Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4012, "longitude": 126.4215},
+                        {"latitude": 33.4022, "longitude": 126.4235},
+                        {"latitude": 33.4032, "longitude": 126.4255},
+                        {"latitude": 33.4042, "longitude": 126.4245},
+                        {"latitude": 33.4052, "longitude": 126.4225},
+                        {"latitude": 33.4042, "longitude": 126.4205},
+                        {"latitude": 33.4032, "longitude": 126.4195},
+                        {"latitude": 33.4022, "longitude": 126.4205},
+                        {"latitude": 33.4012, "longitude": 126.4225}
+                    ]
+                },
+                {
+                    "courseName": "Ris Course",
+                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.4062, "longitude": 126.4215},
+                        {"latitude": 33.4072, "longitude": 126.4235},
+                        {"latitude": 33.4082, "longitude": 126.4255},
+                        {"latitude": 33.4092, "longitude": 126.4245},
+                        {"latitude": 33.4102, "longitude": 126.4225},
+                        {"latitude": 33.4092, "longitude": 126.4205},
+                        {"latitude": 33.4082, "longitude": 126.4195},
+                        {"latitude": 33.4072, "longitude": 126.4205},
+                        {"latitude": 33.4062, "longitude": 126.4225}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "아덴힐 컨트리클럽 (제주 제주시)",
+            "latitude": 33.3793,
+            "longitude": 126.3631,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Hill Course",
+                    "holePars": [4, 5, 4, 3, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.3793, "longitude": 126.3641},
+                        {"latitude": 33.3803, "longitude": 126.3661},
+                        {"latitude": 33.3813, "longitude": 126.3681},
+                        {"latitude": 33.3823, "longitude": 126.3671},
+                        {"latitude": 33.3833, "longitude": 126.3651},
+                        {"latitude": 33.3823, "longitude": 126.3631},
+                        {"latitude": 33.3813, "longitude": 126.3621},
+                        {"latitude": 33.3803, "longitude": 126.3631},
+                        {"latitude": 33.3793, "longitude": 126.3651}
+                    ]
+                },
+                {
+                    "courseName": "Aden Course",
+                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.3843, "longitude": 126.3641},
+                        {"latitude": 33.3853, "longitude": 126.3661},
+                        {"latitude": 33.3863, "longitude": 126.3681},
+                        {"latitude": 33.3873, "longitude": 126.3671},
+                        {"latitude": 33.3883, "longitude": 126.3651},
+                        {"latitude": 33.3873, "longitude": 126.3631},
+                        {"latitude": 33.3863, "longitude": 126.3621},
+                        {"latitude": 33.3853, "longitude": 126.3631},
+                        {"latitude": 33.3843, "longitude": 126.3651}
+                    ]
+                }
+            ]
+        },
+{
+            "clubName": "타미우스 컨트리클럽 (제주 제주시)",
+            "latitude": 33.3782,
+            "longitude": 126.3385,
+            "hasVerifiedGPS": false,
+            "courses": [
+                {
+                    "courseName": "Tam Course",
+                    "holePars": [4, 4, 5, 3, 4, 4, 5, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.3782, "longitude": 126.3395},
+                        {"latitude": 33.3792, "longitude": 126.3415},
+                        {"latitude": 33.3802, "longitude": 126.3435},
+                        {"latitude": 33.3812, "longitude": 126.3425},
+                        {"latitude": 33.3822, "longitude": 126.3405},
+                        {"latitude": 33.3812, "longitude": 126.3385},
+                        {"latitude": 33.3802, "longitude": 126.3375},
+                        {"latitude": 33.3792, "longitude": 126.3385},
+                        {"latitude": 33.3782, "longitude": 126.3405}
+                    ]
+                },
+                {
+                    "courseName": "Ius Course",
+                    "holePars": [5, 4, 4, 3, 4, 5, 4, 3, 4],
+                    "holeGreens": [
+                        {"latitude": 33.3832, "longitude": 126.3395},
+                        {"latitude": 33.3842, "longitude": 126.3415},
+                        {"latitude": 33.3852, "longitude": 126.3435},
+                        {"latitude": 33.3862, "longitude": 126.3425},
+                        {"latitude": 33.3872, "longitude": 126.3405},
+                        {"latitude": 33.3862, "longitude": 126.3385},
+                        {"latitude": 33.3852, "longitude": 126.3375},
+                        {"latitude": 33.3842, "longitude": 126.3385},
+                        {"latitude": 33.3832, "longitude": 126.3405}
                     ]
                 }
             ]
