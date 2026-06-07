@@ -285,52 +285,44 @@
         },
         {
             "clubName": "리앤리 컨트리클럽 (경기 가평군)",
-            "latitude": 37.841456, "longitude": 127.361567,
-            "hasVerifiedGPS": false,
+            "latitude": 37.873119588231354, "longitude": 127.36231134556667,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Lake Course",
-                    "holePars": [4, 5, 3, 4, 4, 4, 5, 3, 4],
+                    "courseName": "레이크 코스",
+                    "holePars": [4, 4, 4, 3, 5, 3, 5, 4, 4],
                     "holeGreens": [
-                        {"latitude": 37.841456, "longitude": 127.362567},
-                        {"latitude": 37.842456, "longitude": 127.364567},
-                        {"latitude": 37.843456, "longitude": 127.366567},
-                        {"latitude": 37.844456, "longitude": 127.365567},
-                        {"latitude": 37.845456, "longitude": 127.363567},
-                        {"latitude": 37.844456, "longitude": 127.361567},
-                        {"latitude": 37.843456, "longitude": 127.360567},
-                        {"latitude": 37.842456, "longitude": 127.361567},
-                        {"latitude": 37.841456, "longitude": 127.363567}
+                        {"latitude": 37.87033732443751, "longitude": 127.35956721330716},
+                        {"latitude": 37.87238485071228, "longitude": 127.36173094366137},
+                        {"latitude": 37.87078686343435, "longitude": 127.35839592627312},
+                        {"latitude": 37.86963464111944, "longitude": 127.35954959194851},
+                        {"latitude": 37.86702834489903, "longitude": 127.35669005329953},
+                        {"latitude": 37.868629278799155, "longitude": 127.3605505100705},
+                        {"latitude": 37.87187492572828, "longitude": 127.36493920693191},
+                        {"latitude": 37.869713438779726, "longitude": 127.36103313068584},
+                        {"latitude": 37.87231546647405, "longitude": 127.36305185282248}
                     ]
                 },
                 {
-                    "courseName": "Highland Course",
-                    "holePars": [4, 4, 5, 3, 4, 4, 3, 5, 4],
+                    "courseName": "하이랜드 코스",
+                    "holePars": [4, 4, 4, 3, 5, 4, 4, 3, 5],
                     "holeGreens": [
-                        {"latitude": 37.846456, "longitude": 127.362567},
-                        {"latitude": 37.847456, "longitude": 127.364567},
-                        {"latitude": 37.848456, "longitude": 127.366567},
-                        {"latitude": 37.849456, "longitude": 127.365567},
-                        {"latitude": 37.850456, "longitude": 127.363567},
-                        {"latitude": 37.849456, "longitude": 127.361567},
-                        {"latitude": 37.848456, "longitude": 127.360567},
-                        {"latitude": 37.847456, "longitude": 127.361567},
-                        {"latitude": 37.846456, "longitude": 127.363567}
+                        {"latitude": 37.874692159708644, "longitude": 127.36726323232588},
+                        {"latitude": 37.8717328127914, "longitude": 127.36573409003661},
+                        {"latitude": 37.87402733162358, "longitude": 127.36810668673},
+                        {"latitude": 37.87180659326949, "longitude": 127.36735687964857},
+                        {"latitude": 37.87642373430452, "longitude": 127.36957916946034},
+                        {"latitude": 37.87464397115504, "longitude": 127.36826887822833},
+                        {"latitude": 37.878136770748036, "longitude": 127.36774351888235},
+                        {"latitude": 37.877805321470056, "longitude": 127.36568739059324},
+                        {"latitude": 37.87300367613359, "longitude": 127.36483680096599}
                     ]
                 },
                 {
-                    "courseName": "Sky Course",
-                    "holePars": [5, 4, 3, 4, 4, 5, 3, 4, 4],
+                    "courseName": "스카이 코스",
+                    "holePars": [5, 4, 3, 5, 4, 3, 4, 3, 5],
                     "holeGreens": [
-                        {"latitude": 37.841456, "longitude": 127.372567},
-                        {"latitude": 37.842456, "longitude": 127.374567},
-                        {"latitude": 37.843456, "longitude": 127.376567},
-                        {"latitude": 37.844456, "longitude": 127.375567},
-                        {"latitude": 37.845456, "longitude": 127.373567},
-                        {"latitude": 37.844456, "longitude": 127.371567},
-                        {"latitude": 37.843456, "longitude": 127.370567},
-                        {"latitude": 37.842456, "longitude": 127.371567},
-                        {"latitude": 37.841456, "longitude": 127.373567}
+
                     ]
                 }
             ]
