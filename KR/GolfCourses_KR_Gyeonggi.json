@@ -55,7 +55,7 @@
         },
         {
             "clubName": "마이다스밸리 청평 골프클럽 (경기 가평군)",
-            "latitude": 37.665456, "longitude": 127.421567,
+            "latitude": 37.66587627708452, "longitude": 127.45871737271754,
             "hasVerifiedGPS": true,
             "courses": [
                 {
@@ -93,7 +93,7 @@
         {
             "clubName": "아난티 클럽 서울 (경기 가평군)",
             "latitude": 37.625567, "longitude": 127.468678,
-            "hasVerifiedGPS": false,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
                     "courseName": "Zelkova Course",
