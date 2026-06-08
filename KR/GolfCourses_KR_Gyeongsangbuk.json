@@ -1350,6 +1350,149 @@
             ]
         },
         {
+            "clubName": "안동 리버힐CC (경북 안동시)",
+            "latitude": 36.48937251501996, "longitude": 128.5756107863592,
+            "hasVerifiedGPS": true,
+            "courses": [
+                {
+                    "courseName": "OUT코스",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "greens": [
+                                {"latitude": 36.49272129593534, "longitude": 128.57533826471953}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 2,
+                            "greens": [
+                               {"latitude": 36.49477295383215, "longitude": 128.5745233097295}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 3,
+                            "greens": [
+                                {"latitude": 36.490575672443214, "longitude": 128.57899966554248}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 4,
+                            "greens": [
+                                {"latitude": 36.49026348723475, "longitude": 128.57176496884955}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 5,
+                            "greens": [
+                                {"latitude": 36.491117929279305, "longitude": 128.5670897458724}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 6,
+                            "greens": [
+                                {"latitude": 36.489224698190114, "longitude": 128.56750912107853}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 7,
+                            "greens": [
+                                {"latitude": 36.4915256314542, "longitude": 128.571201819516}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 8,
+                            "greens": [
+                                {"latitude": 36.489270882786805, "longitude": 128.5691364831589}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 9,
+                            "greens": [
+                                {"latitude": 36.489509223529474, "longitude": 128.57446975088064}
+                            ],
+                            "par": 4
+                        }
+                    ]
+                },
+                {
+                    "courseName": "IN코스",
+                    "holes": [
+                        {
+                            "holeNumber": 10,
+                            "greens": [
+                                {"latitude": 36.485724036376396, "longitude": 128.57196336393164}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 11,
+                            "greens": [
+                                {"latitude": 36.485969458120174, "longitude": 128.56649225374926}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 12,
+                            "greens": [
+                                {"latitude": 36.48650130319818, "longitude": 128.56956043455395}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 13,
+                            "greens": [
+                                {"latitude": 36.48854011543081, "longitude": 128.56577684697706}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 14,
+                            "greens": [
+                                {"latitude": 36.4891370154972, "longitude": 128.56509421323344}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 15,
+                            "greens": [
+                                {"latitude": 36.487919188288124, "longitude": 128.56931565335003}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 16,
+                            "greens": [
+                                {"latitude": 36.486980930081415, "longitude": 128.57487329103338}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 17,
+                            "greens": [
+                                {"latitude": 36.48791215704165, "longitude": 128.57053461594154}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 18,
+                            "greens": [
+                                {"latitude": 36.488913454928635, "longitude": 128.57420940338764}
+                            ],
+                            "par": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "clubName": "영천 오펠 골프클럽 (경북 영천시)",
             "latitude": 35.952345, "longitude": 128.891456,
             "hasVerifiedGPS": false,
