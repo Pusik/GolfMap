@@ -499,6 +499,163 @@
             ]
         },
         {
+            "clubName": "더나인 골프클럽 (전북 김제시)",
+            "latitude": 35.79550477569987, "longitude": 127.03443740591354,
+            "hasVerifiedGPS": true,
+            "courses": [
+                {
+                    "courseName": "코스(1)",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "greens": [
+                                {"latitude": 35.79689391280625, "longitude": 127.02999635462334},
+                                {"latitude": 35.79644544780346, "longitude": 127.03033912603233}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 2,
+                            "greens": [
+                                {"latitude": 35.799248899510914, "longitude": 127.02820227321988},
+                                {"latitude": 35.79925806918126, "longitude": 127.02752466956046}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 3,
+                            "greens": [
+                                {"latitude": 35.798950672631875, "longitude": 127.03146573132038},
+                                {"latitude": 35.79854507050861, "longitude": 127.03159279440034}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 4,
+                            "greens": [
+                                {"latitude": 35.79972707455477, "longitude": 127.02595941190617},
+                                {"latitude": 35.79952646821285, "longitude": 127.02630506561505}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 5,
+                            "greens": [
+                                {"latitude": 35.79670717337069, "longitude": 127.0288817258588}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 6,
+                            "greens": [
+                                {"latitude": 35.79886421146826, "longitude": 127.02550555167652},
+                                {"latitude": 35.79864799656075, "longitude": 127.02508509292778}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 7,
+                            "greens": [
+                                {"latitude": 35.796171137525924, "longitude": 127.02796610652892}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 8,
+                            "greens": [
+                                {"latitude": 35.79542029789275, "longitude": 127.03018662779789},
+                                {"latitude": 35.79510495534239, "longitude": 127.02978549674098}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 9,
+                            "greens": [
+                                {"latitude": 35.7957212689717, "longitude": 127.03376821933418},
+                                {"latitude": 35.795356266991156, "longitude": 127.033732112002}
+                            ],
+                            "par": 4
+                        }
+                    ]
+                },
+                {
+                    "courseName": "코스(2)",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "greens": [
+                                {"latitude": 35.79689391280625, "longitude": 127.02999635462334},
+                                {"latitude": 35.79644544780346, "longitude": 127.03033912603233}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 2,
+                            "greens": [
+                                {"latitude": 35.799248899510914, "longitude": 127.02820227321988},
+                                {"latitude": 35.79925806918126, "longitude": 127.02752466956046}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 3,
+                            "greens": [
+                                {"latitude": 35.798950672631875, "longitude": 127.03146573132038},
+                                {"latitude": 35.79854507050861, "longitude": 127.03159279440034}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 4,
+                            "greens": [
+                                {"latitude": 35.79972707455477, "longitude": 127.02595941190617},
+                                {"latitude": 35.79952646821285, "longitude": 127.02630506561505}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 5,
+                            "greens": [
+                                {"latitude": 35.79670717337069, "longitude": 127.0288817258588}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 6,
+                            "greens": [
+                                {"latitude": 35.79886421146826, "longitude": 127.02550555167652},
+                                {"latitude": 35.79864799656075, "longitude": 127.02508509292778}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 7,
+                            "greens": [
+                                {"latitude": 35.796171137525924, "longitude": 127.02796610652892}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 8,
+                            "greens": [
+                                {"latitude": 35.79542029789275, "longitude": 127.03018662779789},
+                                {"latitude": 35.79510495534239, "longitude": 127.02978549674098}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 9,
+                            "greens": [
+                                {"latitude": 35.7957212689717, "longitude": 127.03376821933418},
+                                {"latitude": 35.795356266991156, "longitude": 127.033732112002}
+                            ],
+                            "par": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "clubName": "남원상록 컨트리클럽 (전북 남원시)",
             "latitude": 35.40189, "longitude": 127.381901,
             "hasVerifiedGPS": false,
