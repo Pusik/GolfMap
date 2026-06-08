@@ -785,6 +785,149 @@
             ]
         },
         {
+            "clubName": "다이아몬드CC (경남 양산시)",
+            "latitude": 35.41959832122376, "longitude": 129.02950144160928,
+            "hasVerifiedGPS": true,
+            "courses": [
+                {
+                    "courseName": "North Cape Course",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "greens": [
+                                {"latitude": 35.41908088348714, "longitude": 129.02771609580677}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 2,
+                            "greens": [
+                                {"latitude": 35.423398901420335, "longitude": 129.0300344145315}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 3,
+                            "greens": [
+                                {"latitude": 35.42016986337895, "longitude": 129.02685995179635}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 4,
+                            "greens": [
+                                {"latitude": 35.423938886253985, "longitude": 129.02927182433285}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 5,
+                            "greens": [
+                                {"latitude": 35.42469150958287, "longitude": 129.0293952961108}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 6,
+                            "greens": [
+                                {"latitude": 35.427638289633194, "longitude": 129.0332730717609}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 7,
+                            "greens": [
+                                {"latitude": 35.42749463610253, "longitude": 129.0341777523211}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 8,
+                            "greens": [
+                                {"latitude": 35.425262363407015, "longitude": 129.03081605993617}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 9,
+                            "greens": [
+                                {"latitude": 35.42054494782465, "longitude": 129.02987746975325}
+                            ],
+                            "par": 4
+                        }
+                    ]
+                },
+                {
+                    "courseName": "South Cape Course",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "greens": [
+                                {"latitude": 35.42403566749711, "longitude": 129.03168800697986}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 2,
+                            "greens": [
+                                {"latitude": 35.42653060799139, "longitude": 129.0344342447873}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 3,
+                            "greens": [
+                                {"latitude": 35.42598971992347, "longitude": 129.03605002877458}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 4,
+                            "greens": [
+                                {"latitude": 35.42407294679711, "longitude": 129.03268527090484}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 5,
+                            "greens": [
+                                {"latitude": 35.42547359568059, "longitude": 129.0356627177638}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 6,
+                            "greens": [
+                                {"latitude": 35.420564367800885, "longitude": 129.03434472296058}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 7,
+                            "greens": [
+                                {"latitude": 35.420671415237166, "longitude": 129.03293830466754}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 8,
+                            "greens": [
+                                {"latitude": 35.42294045668383, "longitude": 129.0331797358519}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 9,
+                            "greens": [
+                                {"latitude": 35.41935655569428, "longitude": 129.0310173016881}
+                            ],
+                            "par": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "clubName": "통도 파인이스트 컨트리클럽 (경남 양산시)",
             "latitude": 35.498123, "longitude": 129.061234,
             "hasVerifiedGPS": false,
