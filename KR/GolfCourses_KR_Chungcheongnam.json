@@ -2148,140 +2148,276 @@
         },
         {
             "clubName": "로얄링스 컨트리클럽 (충남 태안군)",
-            "latitude": 36.762109, "longitude": 126.29789,
-            "hasVerifiedGPS": false,
+            "latitude": 36.72155268562502, "longitude": 126.33847882909241,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "King Course",
+                    "courseName": "킹즈(1-9) 코스",
                     "holes": [
                         {
                             "holeNumber": 1,
                             "greens": [
-                                { "latitude": 36.762109, "longitude": 126.29889 }
+                                {"latitude": 36.717339609187945, "longitude": 126.33759713278904}
                             ],
                             "par": 4
                         },
                         {
                             "holeNumber": 2,
                             "greens": [
-                                { "latitude": 36.763109, "longitude": 126.30089 }
+                                {"latitude": 36.71304734257027, "longitude": 126.3346372316919}
                             ],
                             "par": 5
                         },
                         {
                             "holeNumber": 3,
                             "greens": [
-                                { "latitude": 36.764109, "longitude": 126.30289 }
+                                {"latitude": 36.70965522205683, "longitude": 126.33393061533127}
                             ],
-                            "par": 3
+                            "par": 4
                         },
                         {
                             "holeNumber": 4,
                             "greens": [
-                                { "latitude": 36.765109, "longitude": 126.30189 }
+                                {"latitude": 36.70879933291639, "longitude": 126.33355748370313}
                             ],
-                            "par": 4
+                            "par": 3
                         },
                         {
                             "holeNumber": 5,
                             "greens": [
-                                { "latitude": 36.766109, "longitude": 126.29989 }
+                                {"latitude": 36.713865746366494, "longitude": 126.33394743411212}
                             ],
-                            "par": 4
+                            "par": 5
                         },
                         {
                             "holeNumber": 6,
                             "greens": [
-                                { "latitude": 36.765109, "longitude": 126.29789 }
+                                {"latitude": 36.71753985404715, "longitude": 126.3347244094367}
                             ],
                             "par": 4
                         },
                         {
                             "holeNumber": 7,
                             "greens": [
-                                { "latitude": 36.764109, "longitude": 126.29689 }
-                            ],
-                            "par": 5
-                        },
-                        {
-                            "holeNumber": 8,
-                            "greens": [
-                                { "latitude": 36.763109, "longitude": 126.29789 }
+                                {"latitude": 36.72054206527392, "longitude": 126.3358038699629}
                             ],
                             "par": 3
                         },
                         {
+                            "holeNumber": 8,
+                            "greens": [
+                                {"latitude": 36.71697887066174, "longitude": 126.33592688895725}
+                            ],
+                            "par": 4
+                        },
+                        {
                             "holeNumber": 9,
                             "greens": [
-                                { "latitude": 36.762109, "longitude": 126.29989 }
+                                {"latitude": 36.72069580417871, "longitude": 126.33711497897869}
                             ],
                             "par": 4
                         }
                     ]
                 },
                 {
-                    "courseName": "Queen Course",
+                    "courseName": "킹즈(10-18) 코스",
                     "holes": [
                         {
-                            "holeNumber": 1,
+                            "holeNumber": 10,
                             "greens": [
-                                { "latitude": 36.767109, "longitude": 126.29889 }
+                                {"latitude": 36.71613253285645, "longitude": 126.33888627334832}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 11,
+                            "greens": [
+                                {"latitude": 36.71155029049381, "longitude": 126.33643808295086}
                             ],
                             "par": 4
                         },
                         {
+                            "holeNumber": 12,
+                            "greens": [
+                                {"latitude": 36.70927407992143, "longitude": 126.33546718133046}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 13,
+                            "greens": [
+                                {"latitude": 36.71272384534007, "longitude": 126.33560535697274}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 14,
+                            "greens": [
+                                {"latitude": 36.715954490517916, "longitude": 126.33806233221466}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 15,
+                            "greens": [
+                                {"latitude": 36.71678624928888, "longitude": 126.34139907216606}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 16,
+                            "greens": [
+                                {"latitude": 36.721253405760244, "longitude": 126.34016322493059}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 17,
+                            "greens": [
+                                {"latitude": 36.71713076476241, "longitude": 126.3405566605112}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 18,
+                            "greens": [
+                                {"latitude": 36.72068510216528, "longitude": 126.33924182756893}
+                            ],
+                            "par": 4
+                        }
+                    ]
+                },
+                {
+                    "courseName": "퀸즈(1-9) 코스",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "greens": [
+                                {"latitude": 36.7272261467258, "longitude": 126.33744226081858}
+                            ],
+                            "par": 5
+                        },
+                        {
                             "holeNumber": 2,
                             "greens": [
-                                { "latitude": 36.768109, "longitude": 126.30089 }
+                                {"latitude": 36.7234757057418, "longitude": 126.33509298476213}
                             ],
                             "par": 4
                         },
                         {
                             "holeNumber": 3,
                             "greens": [
-                                { "latitude": 36.769109, "longitude": 126.30289 }
+                                {"latitude": 36.72591605393613, "longitude": 126.33520068009312}
                             ],
-                            "par": 3
+                            "par": 4
                         },
                         {
                             "holeNumber": 4,
                             "greens": [
-                                { "latitude": 36.770109, "longitude": 126.30189 }
+                                {"latitude": 36.72781666970735, "longitude": 126.33547535311126}
                             ],
-                            "par": 5
+                            "par": 3
                         },
                         {
                             "holeNumber": 5,
                             "greens": [
-                                { "latitude": 36.771109, "longitude": 126.29989 }
+                                {"latitude": 36.7317314081291, "longitude": 126.33698933396916}
                             ],
                             "par": 4
                         },
                         {
                             "holeNumber": 6,
                             "greens": [
-                                { "latitude": 36.770109, "longitude": 126.29789 }
+                                {"latitude": 36.735556657790994, "longitude": 126.33861898848103}
                             ],
                             "par": 4
                         },
                         {
                             "holeNumber": 7,
                             "greens": [
-                                { "latitude": 36.769109, "longitude": 126.29689 }
-                            ],
-                            "par": 3
-                        },
-                        {
-                            "holeNumber": 8,
-                            "greens": [
-                                { "latitude": 36.768109, "longitude": 126.29789 }
+                                {"latitude": 36.730431273909154, "longitude": 126.3373419562635}
                             ],
                             "par": 5
                         },
                         {
+                            "holeNumber": 8,
+                            "greens": [
+                                {"latitude": 36.72822195505224, "longitude": 126.33705309079696}
+                            ],
+                            "par": 3
+                        },
+                        {
                             "holeNumber": 9,
                             "greens": [
-                                { "latitude": 36.767109, "longitude": 126.29989 }
+                                {"latitude": 36.724394703394736, "longitude": 126.33830333551805}
+                            ],
+                            "par": 4
+                        }
+                    ]
+                },
+                {
+                    "courseName": "퀸즈(10-18) 코스",
+                    "holes": [
+                        {
+                            "holeNumber": 10,
+                            "greens": [
+                                {"latitude": 36.72731254832882, "longitude": 126.34042483102508}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 11,
+                            "greens": [
+                                {"latitude": 36.7325777256209, "longitude": 126.34050853936643}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 12,
+                            "greens": [
+                                {"latitude": 36.73639703776811, "longitude": 126.34026035152866}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 13,
+                            "greens": [
+                                {"latitude": 36.73518554904025, "longitude": 126.34116356461821}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 14,
+                            "greens": [
+                                {"latitude": 36.73144439533554, "longitude": 126.34128789012395}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 15,
+                            "greens": [
+                                {"latitude": 36.72842473762837, "longitude": 126.34070917651786}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 16,
+                            "greens": [
+                                {"latitude": 36.72455951814609, "longitude": 126.34039800161035}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 17,
+                            "greens": [
+                                {"latitude": 36.72306077487134, "longitude": 126.3410936403073}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 18,
+                            "greens": [
+                                {"latitude": 36.72387121787361, "longitude": 126.33855689117713}
                             ],
                             "par": 4
                         }
