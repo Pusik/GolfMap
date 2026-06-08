@@ -288,6 +288,149 @@
             ]
         },
         {
+            "clubName": "냉천 컨트리클럽 (대구 기창면)",
+            "latitude": 35.796155350580264, "longitude": 128.62515875392987,
+            "hasVerifiedGPS": true,
+            "courses": [
+                {
+                    "courseName": "코스(1)",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "greens": [
+                                {"latitude": 35.79341069361483, "longitude": 128.62470742928915}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 2,
+                            "greens": [
+                                {"latitude": 35.792259273588506, "longitude": 128.62422220580922}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 3,
+                            "greens": [
+                                {"latitude": 35.790574775827125, "longitude": 128.6236736135137}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 4,
+                            "greens": [
+                                {"latitude": 35.7918903918238, "longitude": 128.62367826155418}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 5,
+                            "greens": [
+                                {"latitude": 35.79039687215632, "longitude": 128.62300084402733}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 6,
+                            "greens": [
+                                {"latitude": 35.79191258235491, "longitude": 128.62186754995903}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 7,
+                            "greens": [
+                                {"latitude": 35.79342838417812, "longitude": 128.62323117986355}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 8,
+                            "greens": [
+                                {"latitude": 35.79429434513917, "longitude": 128.62333451832774}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 9,
+                            "greens": [
+                                {"latitude": 35.79591860644023, "longitude": 128.62300531458453}
+                            ],
+                            "par": 3
+                        }
+                    ]
+                },
+                {
+                    "courseName": "코스(2)",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "greens": [
+                                {"latitude": 35.79341069361483, "longitude": 128.62470742928915}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 2,
+                            "greens": [
+                                {"latitude": 35.792259273588506, "longitude": 128.62422220580922}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 3,
+                            "greens": [
+                                {"latitude": 35.790574775827125, "longitude": 128.6236736135137}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 4,
+                            "greens": [
+                                {"latitude": 35.7918903918238, "longitude": 128.62367826155418}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 5,
+                            "greens": [
+                                {"latitude": 35.79039687215632, "longitude": 128.62300084402733}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 6,
+                            "greens": [
+                                {"latitude": 35.79191258235491, "longitude": 128.62186754995903}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 7,
+                            "greens": [
+                                {"latitude": 35.79342838417812, "longitude": 128.62323117986355}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 8,
+                            "greens": [
+                                {"latitude": 35.79429434513917, "longitude": 128.62333451832774}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 9,
+                            "greens": [
+                                {"latitude": 35.79591860644023, "longitude": 128.62300531458453}
+                            ],
+                            "par": 3
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "clubName": "팔공 컨트리클럽 (대구 동구)",
             "latitude": 35.986123, "longitude": 128.665234,
             "hasVerifiedGPS": false,
