@@ -717,6 +717,218 @@
             ]
         },
         {
+            "clubName": "힐데스 하임CC (충북 음성군)",
+            "latitude": 36.92939564435512, "longitude": 127.77901400095723,
+            "hasVerifiedGPS": true,
+            "courses": [
+                {
+                    "courseName": "레이크 코스",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "greens": [
+                                {"latitude": 36.92926730595707, "longitude": 127.78311499413454}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 2,
+                            "greens": [
+                                {"latitude": 36.930362487601776, "longitude": 127.78442256510299}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 3,
+                            "greens": [
+                                {"latitude": 36.93278023387867, "longitude": 127.78193590133944}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 4,
+                            "greens": [
+                                {"latitude": 36.93020340607497, "longitude": 127.78361000561215}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 5,
+                            "greens": [
+                                {"latitude": 36.93050903939292, "longitude": 127.78542580705869}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 6,
+                            "greens": [
+                                {"latitude": 36.9333013720534, "longitude": 127.78284478864617}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 7,
+                            "greens": [
+                                {"latitude": 36.9312779839623, "longitude": 127.78632881817725}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 8,
+                            "greens": [
+                                {"latitude": 36.92884262878544, "longitude": 127.78431720153492}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 9,
+                            "greens": [
+                                {"latitude": 36.92921552905528, "longitude": 127.77968559574865}
+                            ],
+                            "par": 4
+                        }
+                    ]
+                },
+                {
+                    "courseName": "힐 코스",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "greens": [
+                                {"latitude": 36.92842722147757, "longitude": 127.78343188711186}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 2,
+                            "greens": [
+                                {"latitude": 36.9282274771829, "longitude": 127.78536592192665}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 3,
+                            "greens": [
+                                {"latitude": 36.93105583349814, "longitude": 127.787558376595}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 4,
+                            "greens": [
+                                {"latitude": 36.92697755045613, "longitude": 127.78531942930715}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 5,
+                            "greens": [
+                                {"latitude": 36.92667370000143, "longitude": 127.78220742564893}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 6,
+                            "greens": [
+                                {"latitude": 36.92654327751667, "longitude": 127.77805624025545}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 7,
+                            "greens": [
+                                {"latitude": 36.92703417926284, "longitude": 127.78459048461248}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 8,
+                            "greens": [
+                                {"latitude": 36.92786604735901, "longitude": 127.783471038782}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 9,
+                            "greens": [
+                                {"latitude": 36.928259462729166, "longitude": 127.77879760762272}
+                            ],
+                            "par": 4
+                        }
+                    ]
+                },
+                {
+                    "courseName": "밸리 코스",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "greens": [
+                                {"latitude": 36.92619469196711, "longitude": 127.77659085602748}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 2,
+                            "greens": [
+                                {"latitude": 36.92595901950178, "longitude": 127.78263783325414}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 3,
+                            "greens": [
+                                {"latitude": 36.92599848250701, "longitude": 127.78519154179052}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 4,
+                            "greens": [
+                                {"latitude": 36.92846645934946, "longitude": 127.78737741218335}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 5,
+                            "greens": [
+                                {"latitude": 36.92585453263882, "longitude": 127.78652002616487}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 6,
+                            "greens": [
+                                {"latitude": 36.92538549134593, "longitude": 127.78044624633088}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 7,
+                            "greens": [
+                                {"latitude": 36.92540876824879, "longitude": 127.77517156202482}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 8,
+                            "greens": [
+                                {"latitude": 36.92615466332573, "longitude": 127.77305790091282}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 9,
+                            "greens": [
+                                {"latitude": 36.92852956593738, "longitude": 127.77711118929872},
+                                {"latitude": 36.92870483460496, "longitude": 127.77752263427315}
+                            ],
+                            "par": 5
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "clubName": "코스카 컨트리클럽 (충북 음성군)",
             "latitude": 36.953422, "longitude": 127.654388,
             "hasVerifiedGPS": false,
