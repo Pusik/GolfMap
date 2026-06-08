@@ -3577,6 +3577,149 @@
             ]
         },
         {
+            "clubName": "한라산CC (제주 제주시)",
+            "latitude": 33.44407592244485, "longitude": 126.54589370997482,
+            "hasVerifiedGPS": true,
+            "courses": [
+                {
+                    "courseName": "오션 코스",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "greens": [
+                                {"latitude": 33.44066349063729, "longitude": 126.5483983943327}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 2,
+                            "greens": [
+                                {"latitude": 33.437284229427334, "longitude": 126.54702328760459}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 3,
+                            "greens": [
+                                {"latitude": 33.435809226280455, "longitude": 126.54432104769835}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 4,
+                            "greens": [
+                                {"latitude": 33.4408855698393, "longitude": 126.54502310914732}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 5,
+                            "greens": [
+                                {"latitude": 33.442679910157906, "longitude": 126.54506482624588}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 6,
+                            "greens": [
+                                {"latitude": 33.43763974955604, "longitude": 126.54562344455888}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 7,
+                            "greens": [
+                                {"latitude": 33.43761767226643, "longitude": 126.54636557253582}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 8,
+                            "greens": [
+                                {"latitude": 33.44133528186666, "longitude": 126.54657206499712}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 9,
+                            "greens": [
+                                {"latitude": 33.44295554195513, "longitude": 126.54708791629886}
+                            ],
+                            "par": 4
+                        }
+                    ]
+                },
+                {
+                    "courseName": "마운틴 코스",
+                    "holes": [
+                        {
+                            "holeNumber": 10,
+                            "greens": [
+                                {"latitude": 33.44211746141194, "longitude": 126.55029707264964}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 11,
+                            "greens": [
+                                {"latitude": 33.439319049297296, "longitude": 126.54872798030493}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 12,
+                            "greens": [
+                                {"latitude": 33.43493351997087, "longitude": 126.55080190809859}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 13,
+                            "greens": [
+                                {"latitude": 33.43389709887555, "longitude": 126.55029646360651}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 14,
+                            "greens": [
+                                {"latitude": 33.43647649043713, "longitude": 126.54803832963457}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 15,
+                            "greens": [
+                                {"latitude": 33.43518164643125, "longitude": 126.5440581785535}
+                            ],
+                            "par": 4
+                        },
+                        {
+                            "holeNumber": 16,
+                            "greens": [
+                                {"latitude": 33.438827153432904, "longitude": 126.5442703220012}
+                            ],
+                            "par": 5
+                        },
+                        {
+                            "holeNumber": 17,
+                            "greens": [
+                                {"latitude": 33.440957334660894, "longitude": 126.5443102673782}
+                            ],
+                            "par": 3
+                        },
+                        {
+                            "holeNumber": 18,
+                            "greens": [
+                                {"latitude": 33.44342638796349, "longitude": 126.54578954899718}
+                            ],
+                            "par": 4
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "clubName": "타미우스 컨트리클럽 (제주 제주시)",
             "latitude": 33.3782, "longitude": 126.3385,
             "hasVerifiedGPS": false,
