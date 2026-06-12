@@ -6463,6 +6463,149 @@
             ]
         },
         {
+            "clubName": "한림안성 컨트리클럽 (경기 안성시)",
+            "latitude": 37.08481038282099, "longitude": 127.20109598826801,
+            "hasVerifiedGPS": true,
+            "courses": [
+                {
+                    "courseName": "코스(1)",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.088579437909736, "longitude": 127.19821814401938}
+                            ]
+                        },
+                        {
+                            "holeNumber": 2,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.08600170780055, "longitude": 127.19996317402057}
+                            ]
+                        },
+                        {
+                            "holeNumber": 3,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 37.08693602204123, "longitude": 127.19624277836132}
+                            ]
+                        },
+                        {
+                            "holeNumber": 4,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 37.08730725846486, "longitude": 127.19515274382043}
+                            ]
+                        },
+                        {
+                            "holeNumber": 5,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.08580410560968, "longitude": 127.1968921928754}
+                            ]
+                        },
+                        {
+                            "holeNumber": 6,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 37.083088038408945, "longitude": 127.19919917930228}
+                            ]
+                        },
+                        {
+                            "holeNumber": 7,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.08567357317169, "longitude": 127.19817121227273}
+                            ]
+                        },
+                        {
+                            "holeNumber": 8,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.08289232507365, "longitude": 127.20037675728972}
+                            ]
+                        },
+                        {
+                            "holeNumber": 9,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 37.08511428786134, "longitude": 127.19988492559548}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "courseName": "코스(2)",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.088579437909736, "longitude": 127.19821814401938}
+                            ]
+                        },
+                        {
+                            "holeNumber": 2,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.08600170780055, "longitude": 127.19996317402057}
+                            ]
+                        },
+                        {
+                            "holeNumber": 3,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 37.08693602204123, "longitude": 127.19624277836132}
+                            ]
+                        },
+                        {
+                            "holeNumber": 4,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 37.08730725846486, "longitude": 127.19515274382043}
+                            ]
+                        },
+                        {
+                            "holeNumber": 5,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.08580410560968, "longitude": 127.1968921928754}
+                            ]
+                        },
+                        {
+                            "holeNumber": 6,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 37.083088038408945, "longitude": 127.19919917930228}
+                            ]
+                        },
+                        {
+                            "holeNumber": 7,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.08567357317169, "longitude": 127.19817121227273}
+                            ]
+                        },
+                        {
+                            "holeNumber": 8,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.08289232507365, "longitude": 127.20037675728972}
+                            ]
+                        },
+                        {
+                            "holeNumber": 9,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 37.08511428786134, "longitude": 127.19988492559548}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "clubName": "송추 컨트리클럽 (경기 양주시)",
             "latitude": 37.751678, "longitude": 126.965789,
             "hasVerifiedGPS": false,
