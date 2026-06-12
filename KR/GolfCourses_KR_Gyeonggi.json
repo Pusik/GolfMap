@@ -6320,6 +6320,217 @@
             ]
         },
         {
+            "clubName": "이글몬트 컨트리클럽 (경기 안성시)",
+            "latitude": 37.09189409220304, "longitude": 127.33022766564686,
+            "hasVerifiedGPS": true,
+            "courses": [
+                {
+                    "courseName": "이글 코스",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "par": 4,
+                            "greens": [
+                                { "latitude": 37.051789, "longitude": 127.32289 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 2,
+                            "par": 4,
+                            "greens": [
+                                { "latitude": 37.052789, "longitude": 127.32489 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 3,
+                            "par": 4,
+                            "greens": [
+                                { "latitude": 37.053789, "longitude": 127.32689 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 4,
+                            "par": 5,
+                            "greens": [
+                                { "latitude": 37.054789, "longitude": 127.32589 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 5,
+                            "par": 3,
+                            "greens": [
+                                { "latitude": 37.055789, "longitude": 127.32389 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 6,
+                            "par": 4,
+                            "greens": [
+                                { "latitude": 37.054789, "longitude": 127.32189 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 7,
+                            "par": 3,
+                            "greens": [
+                                { "latitude": 37.053789, "longitude": 127.32089 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 8,
+                            "par": 5,
+                            "greens": [
+                                { "latitude": 37.052789, "longitude": 127.32189 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 9,
+                            "par": 4,
+                            "greens": [
+                                { "latitude": 37.051789, "longitude": 127.32389 }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "courseName": "몬트 코스",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "par": 4,
+                            "greens": [
+                                { "latitude": 37.056789, "longitude": 127.32289 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 2,
+                            "par": 3,
+                            "greens": [
+                                { "latitude": 37.057789, "longitude": 127.32489 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 3,
+                            "par": 4,
+                            "greens": [
+                                { "latitude": 37.058789, "longitude": 127.32689 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 4,
+                            "par": 4,
+                            "greens": [
+                                { "latitude": 37.059789, "longitude": 127.32589 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 5,
+                            "par": 5,
+                            "greens": [
+                                { "latitude": 37.060789, "longitude": 127.32389 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 6,
+                            "par": 4,
+                            "greens": [
+                                { "latitude": 37.059789, "longitude": 127.32189 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 7,
+                            "par": 4,
+                            "greens": [
+                                { "latitude": 37.058789, "longitude": 127.32089 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 8,
+                            "par": 3,
+                            "greens": [
+                                { "latitude": 37.057789, "longitude": 127.32189 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 9,
+                            "par": 5,
+                            "greens": [
+                                { "latitude": 37.056789, "longitude": 127.32389 }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "courseName": "히든 코스",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "par": 4,
+                            "greens": [
+                                { "latitude": 37.056789, "longitude": 127.32289 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 2,
+                            "par": 3,
+                            "greens": [
+                                { "latitude": 37.057789, "longitude": 127.32489 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 3,
+                            "par": 5,
+                            "greens": [
+                                { "latitude": 37.058789, "longitude": 127.32689 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 4,
+                            "par": 4,
+                            "greens": [
+                                { "latitude": 37.059789, "longitude": 127.32589 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 5,
+                            "par": 3,
+                            "greens": [
+                                { "latitude": 37.060789, "longitude": 127.32389 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 6,
+                            "par": 5,
+                            "greens": [
+                                { "latitude": 37.059789, "longitude": 127.32189 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 7,
+                            "par": 3,
+                            "greens": [
+                                { "latitude": 37.058789, "longitude": 127.32089 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 8,
+                            "par": 4,
+                            "greens": [
+                                { "latitude": 37.057789, "longitude": 127.32189 }
+                            ]
+                        },
+                        {
+                            "holeNumber": 9,
+                            "par": 54,
+                            "greens": [
+                                { "latitude": 37.056789, "longitude": 127.32389 }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "clubName": "골프존카운티 안성W (경기 안성시)",
             "latitude": 37.07539531625476, "longitude": 127.19504068243823,
             "hasVerifiedGPS": true,
