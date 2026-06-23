@@ -7462,7 +7462,7 @@
             "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "코스",
+                    "courseName": "코스(1)",
                     "holes": [
                         {
                             "holeNumber": 1,
@@ -7530,7 +7530,7 @@
                     ]
                 },
                 {
-                    "courseName": "코스",
+                    "courseName": "코스(2)",
                     "holes": [
                         {
                             "holeNumber": 1,
