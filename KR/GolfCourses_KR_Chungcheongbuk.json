@@ -6011,6 +6011,149 @@
                     ]
                 }
             ]
+        },
+        {
+            "clubName": "모카CC (충북 충주시)",
+            "latitude": 37.02116812679453, "longitude": 127.67548484336501,
+            "hasVerifiedGPS": true,
+            "courses": [
+                {
+                    "courseName": "산길 코스",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.023603580992585, "longitude": 127.67026119044519}
+                            ]
+                        },
+                        {
+                            "holeNumber": 2,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 37.02748970343605, "longitude": 127.66901135765424}
+                            ]
+                        },
+                        {
+                            "holeNumber": 3,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 37.0278015887479, "longitude": 127.66962939334411}
+                            ]
+                        },
+                        {
+                            "holeNumber": 4,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.03186560158992, "longitude": 127.67634101452597}
+                            ]
+                        },
+                        {
+                            "holeNumber": 5,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 37.03033028619178, "longitude": 127.67774628971026}
+                            ]
+                        },
+                        {
+                            "holeNumber": 6,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.02937708296044, "longitude": 127.6738492677656}
+                            ]
+                        },
+                        {
+                            "holeNumber": 7,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.03143884035402, "longitude": 127.67691322339287}
+                            ]
+                        },
+                        {
+                            "holeNumber": 8,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.02664415446424, "longitude": 127.67313678657523}
+                            ]
+                        },
+                        {
+                            "holeNumber": 9,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 37.02269133762668, "longitude": 127.67699293057792}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "courseName": "들길 코스",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 37.025912142674265, "longitude": 127.67311908921491}
+                            ]
+                        },
+                        {
+                            "holeNumber": 2,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.02656839814386, "longitude": 127.67219492066157}
+                            ]
+                        },
+                        {
+                            "holeNumber": 3,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.02476130686946, "longitude": 127.67068435525132}
+                            ]
+                        },
+                        {
+                            "holeNumber": 4,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.02751293990686, "longitude": 127.67127889231026}
+                            ]
+                        },
+                        {
+                            "holeNumber": 5,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.02509630205698, "longitude": 127.6696028369313}
+                            ]
+                        },
+                        {
+                            "holeNumber": 6,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 37.02637715370427, "longitude": 127.66896507647245}
+                            ]
+                        },
+                        {
+                            "holeNumber": 7,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.02388332286196, "longitude": 127.66938991039143}
+                            ]
+                        },
+                        {
+                            "holeNumber": 8,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 37.02499772473455, "longitude": 127.67229626970224}
+                            ]
+                        },
+                        {
+                            "holeNumber": 9,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 37.02199707496297, "longitude": 127.67588549494884}
+                            ]
+                        }
+                    ]
+                }
+            ]
         }
     ]
 }
