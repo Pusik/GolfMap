@@ -1410,6 +1410,163 @@
             ]
         },
         {
+            "clubName": "동서울CC (강원 원주시)",
+            "latitude": 37.39429331801724, "longitude": 127.83516489841253,
+            "hasVerifiedGPS": true,
+            "courses": [
+                {
+                    "courseName": "코스(1)",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.40486351539308, "longitude": 127.87695258604212},
+                                {"latitude": 37.4050911429806, "longitude": 127.87693547409201}
+                            ]
+                        },
+                        {
+                            "holeNumber": 2,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.40379586362687, "longitude": 127.8754295513634}
+                            ]
+                        },
+                        {
+                            "holeNumber": 3,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 37.40174284053275, "longitude": 127.87769266654125},
+                                {"latitude": 37.40157382350809, "longitude": 127.8780069216211}
+                            ]
+                        },
+                        {
+                            "holeNumber": 4,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 37.399048123095184, "longitude": 127.87870305572906},
+                                {"latitude": 37.398991703305036, "longitude": 127.87841441487012}
+                            ]
+                        },
+                        {
+                            "holeNumber": 5,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.397107707583906, "longitude": 127.87550138283915},
+                                {"latitude": 37.39721732244082, "longitude": 127.87529938126339}
+                            ]
+                        },
+                        {
+                            "holeNumber": 6,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 37.39684372726404, "longitude": 127.87373376576642},
+                                {"latitude": 37.39705437942072, "longitude": 127.87357528423574}
+                            ]
+                        },
+                        {
+                            "holeNumber": 7,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 37.398987171765846, "longitude": 127.87080542190107},
+                                {"latitude": 37.39926418884897, "longitude": 127.87019878040968}
+                            ]
+                        },
+                        {
+                            "holeNumber": 8,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.39816377891394, "longitude": 127.87372085796636},
+                                {"latitude": 37.39833330574523, "longitude": 127.87364094956425}
+                            ]
+                        },
+                        {
+                            "holeNumber": 9,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.397218270163584, "longitude": 127.87456251413104}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "courseName": "코스(2)",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.40486351539308, "longitude": 127.87695258604212},
+                                {"latitude": 37.4050911429806, "longitude": 127.87693547409201}
+                            ]
+                        },
+                        {
+                            "holeNumber": 2,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.40379586362687, "longitude": 127.8754295513634}
+                            ]
+                        },
+                        {
+                            "holeNumber": 3,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 37.40174284053275, "longitude": 127.87769266654125},
+                                {"latitude": 37.40157382350809, "longitude": 127.8780069216211}
+                            ]
+                        },
+                        {
+                            "holeNumber": 4,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 37.399048123095184, "longitude": 127.87870305572906},
+                                {"latitude": 37.398991703305036, "longitude": 127.87841441487012}
+                            ]
+                        },
+                        {
+                            "holeNumber": 5,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.397107707583906, "longitude": 127.87550138283915},
+                                {"latitude": 37.39721732244082, "longitude": 127.87529938126339}
+                            ]
+                        },
+                        {
+                            "holeNumber": 6,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 37.39684372726404, "longitude": 127.87373376576642},
+                                {"latitude": 37.39705437942072, "longitude": 127.87357528423574}
+                            ]
+                        },
+                        {
+                            "holeNumber": 7,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 37.398987171765846, "longitude": 127.87080542190107},
+                                {"latitude": 37.39926418884897, "longitude": 127.87019878040968}
+                            ]
+                        },
+                        {
+                            "holeNumber": 8,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.39816377891394, "longitude": 127.87372085796636},
+                                {"latitude": 37.39833330574523, "longitude": 127.87364094956425}
+                            ]
+                        },
+                        {
+                            "holeNumber": 9,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.397218270163584, "longitude": 127.87456251413104}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "clubName": "파크밸리 컨트리클럽 (강원 원주시)",
             "latitude": 37.388931242020625, "longitude": 128.01313298051855,
             "hasVerifiedGPS": true,
