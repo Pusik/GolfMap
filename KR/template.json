@@ -1,0 +1,143 @@
+        {
+            "clubName": "*** 컨트리클럽 (** ***)",
+            "latitude": 37.39429331801724, "longitude": 127.83516489841253,
+            "hasVerifiedGPS": true,
+            "courses": [
+                {
+                    "courseName": "OUT코스",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 2,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 3,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 4,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 5,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 6,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 7,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 8,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 9,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "courseName": "IN코스",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 2,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 3,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 4,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 5,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 6,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 7,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 8,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        },
+                        {
+                            "holeNumber": 9,
+                            "par": 4,
+                            "greens": [
+                                
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
