@@ -150,7 +150,7 @@
                             ]
                         }
                     ]
-                },
+                }
             ]
         },
         {
@@ -1584,7 +1584,7 @@
             "latitude": 37.035919137669595, "longitude": 127.46486989438517,
             "hasVerifiedGPS": true,
             "courses": [
-                {{
+                {
                     "courseName": "썬 코스",
                     "holes": [
                         {
