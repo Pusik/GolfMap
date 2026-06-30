@@ -2805,6 +2805,149 @@
             ]
         },
         {
+            "clubName": "천룡CC 퍼블릭 (충북 진천군)",
+            "latitude": 36.956174547152436, "longitude": 127.39436441862618,
+            "hasVerifiedGPS": true,
+            "courses": [
+                {
+                    "courseName": "코스(1)",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 36.95740241903201, "longitude": 127.39159739773118}
+                            ]
+                        },
+                        {
+                            "holeNumber": 2,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 36.955445287270464, "longitude": 127.38802253104595}
+                            ]
+                        },
+                        {
+                            "holeNumber": 3,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 36.956057846492726, "longitude": 127.39013930061753}
+                            ]
+                        },
+                        {
+                            "holeNumber": 4,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 36.956520797159996, "longitude": 127.39320691120176}
+                            ]
+                        },
+                        {
+                            "holeNumber": 5,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 36.95370395189174, "longitude": 127.39281630535142}
+                            ]
+                        },
+                        {
+                            "holeNumber": 6,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 36.954704091089646, "longitude": 127.3928354765009}
+                            ]
+                        },
+                        {
+                            "holeNumber": 7,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 36.95360580449633, "longitude": 127.394561691503}
+                            ]
+                        },
+                        {
+                            "holeNumber": 8,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 36.95522211580105, "longitude": 127.39354549025005}
+                            ]
+                        },
+                        {
+                            "holeNumber": 9,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 36.95577009167544, "longitude": 127.39405356569534}
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "courseName": "코스(2)",
+                    "holes": [
+                        {
+                            "holeNumber": 1,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 36.95740241903201, "longitude": 127.39159739773118}
+                            ]
+                        },
+                        {
+                            "holeNumber": 2,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 36.955445287270464, "longitude": 127.38802253104595}
+                            ]
+                        },
+                        {
+                            "holeNumber": 3,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 36.956057846492726, "longitude": 127.39013930061753}
+                            ]
+                        },
+                        {
+                            "holeNumber": 4,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 36.956520797159996, "longitude": 127.39320691120176}
+                            ]
+                        },
+                        {
+                            "holeNumber": 5,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 36.95370395189174, "longitude": 127.39281630535142}
+                            ]
+                        },
+                        {
+                            "holeNumber": 6,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 36.954704091089646, "longitude": 127.3928354765009}
+                            ]
+                        },
+                        {
+                            "holeNumber": 7,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 36.95360580449633, "longitude": 127.394561691503}
+                            ]
+                        },
+                        {
+                            "holeNumber": 8,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 36.95522211580105, "longitude": 127.39354549025005}
+                            ]
+                        },
+                        {
+                            "holeNumber": 9,
+                            "par": 3,
+                            "greens": [
+                                {"latitude": 36.95577009167544, "longitude": 127.39405356569534}
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "clubName": "골프존카운티 화랑 (충북 진천군)",
             "latitude": 36.820266609295366, "longitude": 127.47068780946516,
             "hasVerifiedGPS": true,
