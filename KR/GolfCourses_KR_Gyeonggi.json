@@ -10509,141 +10509,141 @@
         },
         {
             "clubName": "360도 컨트리클럽 (경기 여주시)",
-            "latitude": 37.251123, "longitude": 127.661234,
-            "hasVerifiedGPS": false,
+            "latitude": 37.30238374140074, "longitude": 127.73940647141103,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Out Course",
+                    "courseName": "OUT코스",
                     "holes": [
                         {
                             "holeNumber": 1,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.251123, "longitude": 127.662234 }
+                                {"latitude": 37.29919931975484, "longitude": 127.7382164223959}
                             ]
                         },
                         {
                             "holeNumber": 2,
-                            "par": 5,
+                            "par": 4,
                             "greens": [
-                                { "latitude": 37.252123, "longitude": 127.664234 }
+                                {"latitude": 37.295222040863166, "longitude": 127.73737963575917}
                             ]
                         },
                         {
                             "holeNumber": 3,
-                            "par": 4,
+                            "par": 5,
                             "greens": [
-                                { "latitude": 37.253123, "longitude": 127.666234 }
+                                {"latitude": 37.29076464871143, "longitude": 127.73441812411298}
                             ]
                         },
                         {
                             "holeNumber": 4,
                             "par": 3,
                             "greens": [
-                                { "latitude": 37.254123, "longitude": 127.665234 }
+                                {"latitude": 37.29173448077443, "longitude": 127.73203672873849}
                             ]
                         },
                         {
                             "holeNumber": 5,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.255123, "longitude": 127.663234 }
+                                {"latitude": 37.293382357820015, "longitude": 127.73655250319125}
                             ]
                         },
                         {
                             "holeNumber": 6,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.254123, "longitude": 127.661234 }
+                                {"latitude": 37.295837130636365, "longitude": 127.73663282832935}
                             ]
                         },
                         {
                             "holeNumber": 7,
                             "par": 3,
                             "greens": [
-                                { "latitude": 37.253123, "longitude": 127.660234 }
+                                {"latitude": 37.29390240076479, "longitude": 127.73659986522357}
                             ]
                         },
                         {
                             "holeNumber": 8,
                             "par": 5,
                             "greens": [
-                                { "latitude": 37.252123, "longitude": 127.661234 }
+                                {"latitude": 37.29824356147476, "longitude": 127.7383255048003}
                             ]
                         },
                         {
                             "holeNumber": 9,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.251123, "longitude": 127.663234 }
+                                {"latitude": 37.30173908066724, "longitude": 127.73911536619711}
                             ]
                         }
                     ]
                 },
                 {
-                    "courseName": "In Course",
+                    "courseName": "IN코스",
                     "holes": [
                         {
-                            "holeNumber": 1,
+                            "holeNumber": 10,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.256123, "longitude": 127.662234 }
+                                {"latitude": 37.30073403070095, "longitude": 127.7355668045772}
                             ]
                         },
                         {
-                            "holeNumber": 2,
-                            "par": 4,
-                            "greens": [
-                                { "latitude": 37.257123, "longitude": 127.664234 }
-                            ]
-                        },
-                        {
-                            "holeNumber": 3,
+                            "holeNumber": 11,
                             "par": 3,
                             "greens": [
-                                { "latitude": 37.258123, "longitude": 127.666234 }
+                                {"latitude": 37.30340463752064, "longitude": 127.73716062578691}
                             ]
                         },
                         {
-                            "holeNumber": 4,
+                            "holeNumber": 12,
                             "par": 5,
                             "greens": [
-                                { "latitude": 37.259123, "longitude": 127.665234 }
+                                {"latitude": 37.29945383158087, "longitude": 127.73605059595347}
                             ]
                         },
                         {
-                            "holeNumber": 5,
+                            "holeNumber": 13,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.260123, "longitude": 127.663234 }
+                                {"latitude": 37.29570562606647, "longitude": 127.73568418913398}
                             ]
                         },
                         {
-                            "holeNumber": 6,
+                            "holeNumber": 14,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.259123, "longitude": 127.661234 }
+                                {"latitude": 37.292404410361556, "longitude": 127.73261555654662}
                             ]
                         },
                         {
-                            "holeNumber": 7,
-                            "par": 5,
-                            "greens": [
-                                { "latitude": 37.258123, "longitude": 127.660234 }
-                            ]
-                        },
-                        {
-                            "holeNumber": 8,
+                            "holeNumber": 15,
                             "par": 3,
                             "greens": [
-                                { "latitude": 37.257123, "longitude": 127.661234 }
+                                {"latitude": 37.29107650707786, "longitude": 127.7313452533338}
                             ]
                         },
                         {
-                            "holeNumber": 9,
+                            "holeNumber": 16,
+                            "par": 5,
+                            "greens": [
+                                {"latitude": 37.29527366204641, "longitude": 127.73523732103291}
+                            ]
+                        },
+                        {
+                            "holeNumber": 17,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.256123, "longitude": 127.663234 }
+                                {"latitude": 37.298791729525725, "longitude": 127.73602722596203}
+                            ]
+                        },
+                        {
+                            "holeNumber": 18,
+                            "par": 4,
+                            "greens": [
+                                {"latitude": 37.30209832253725, "longitude": 127.73858030924622}
                             ]
                         }
                     ]
