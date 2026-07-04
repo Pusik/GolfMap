@@ -5891,142 +5891,142 @@
             ]
         },
         {
-            "clubName": "골프존카운티 안성Q (경기 안성시)",
-            "latitude": 37.061012, "longitude": 127.401123,
-            "hasVerifiedGPS": false,
+            "clubName": "골프클럽Q (경기 안성시)",
+            "latitude": 37.04678453011617, "longitude": 127.38958861633945,
+            "hasVerifiedGPS": true,
             "courses": [
                 {
-                    "courseName": "Pampas Course",
+                    "courseName": "팜파스 코스",
                     "holes": [
                         {
                             "holeNumber": 1,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.061012, "longitude": 127.402123 }
+                                {"latitude": 37.04452873173039, "longitude": 127.38571862564328}
                             ]
                         },
                         {
                             "holeNumber": 2,
                             "par": 5,
                             "greens": [
-                                { "latitude": 37.062012, "longitude": 127.404123 }
+                                {"latitude": 37.04295447706851, "longitude": 127.39179470954659}
                             ]
                         },
                         {
                             "holeNumber": 3,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.063012, "longitude": 127.406123 }
+                                {"latitude": 37.04436815479609, "longitude": 127.38729716607173}
                             ]
                         },
                         {
                             "holeNumber": 4,
                             "par": 3,
                             "greens": [
-                                { "latitude": 37.064012, "longitude": 127.405123 }
+                                {"latitude": 37.04520253470767, "longitude": 127.38840302967115}
                             ]
                         },
                         {
                             "holeNumber": 5,
-                            "par": 4,
+                            "par": 5,
                             "greens": [
-                                { "latitude": 37.065012, "longitude": 127.403123 }
+                                {"latitude": 37.044426360424445, "longitude": 127.39424718077579}
                             ]
                         },
                         {
                             "holeNumber": 6,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.064012, "longitude": 127.401123 }
+                                {"latitude": 37.041889383117585, "longitude": 127.39029985957949}
                             ]
                         },
                         {
                             "holeNumber": 7,
                             "par": 3,
                             "greens": [
-                                { "latitude": 37.063012, "longitude": 127.400123 }
+                                {"latitude": 37.04249853300908, "longitude": 127.38795648828234}
                             ]
                         },
                         {
                             "holeNumber": 8,
-                            "par": 5,
+                            "par": 4,
                             "greens": [
-                                { "latitude": 37.062012, "longitude": 127.401123 }
+                                {"latitude": 37.04456807681482, "longitude": 127.38470151641536}
                             ]
                         },
                         {
                             "holeNumber": 9,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.061012, "longitude": 127.403123 }
+                                {"latitude": 37.046404652029345, "longitude": 127.38796231498193}
                             ]
                         }
                     ]
                 },
                 {
-                    "courseName": "Valley Course",
+                    "courseName": "밸리 코스",
                     "holes": [
                         {
                             "holeNumber": 1,
-                            "par": 4,
+                            "par": 5,
                             "greens": [
-                                { "latitude": 37.066012, "longitude": 127.402123 }
+                                {"latitude": 37.04946573761491, "longitude": 127.39420298400958}
                             ]
                         },
                         {
                             "holeNumber": 2,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.067012, "longitude": 127.404123 }
+                                {"latitude": 37.04612542957117, "longitude": 127.39135854774787}
                             ]
                         },
                         {
                             "holeNumber": 3,
-                            "par": 3,
+                            "par": 4,
                             "greens": [
-                                { "latitude": 37.068012, "longitude": 127.406123 }
+                                {"latitude": 37.0472381345373, "longitude": 127.39411558480306}
                             ]
                         },
                         {
                             "holeNumber": 4,
-                            "par": 5,
+                            "par": 4,
                             "greens": [
-                                { "latitude": 37.069012, "longitude": 127.405123 }
+                                {"latitude": 37.050547076678384, "longitude": 127.39486341457564}
                             ]
                         },
                         {
                             "holeNumber": 5,
-                            "par": 4,
+                            "par": 3,
                             "greens": [
-                                { "latitude": 37.070012, "longitude": 127.403123 }
+                                {"latitude": 37.049128793739975, "longitude": 127.39729269362256}
                             ]
                         },
                         {
                             "holeNumber": 6,
                             "par": 4,
                             "greens": [
-                                { "latitude": 37.069012, "longitude": 127.401123 }
+                                {"latitude": 37.047496262204135, "longitude": 127.39507243871975}
                             ]
                         },
                         {
                             "holeNumber": 7,
-                            "par": 5,
+                            "par": 3,
                             "greens": [
-                                { "latitude": 37.068012, "longitude": 127.400123 }
+                                {"latitude": 37.04706802325923, "longitude": 127.39649224882889}
                             ]
                         },
                         {
                             "holeNumber": 8,
-                            "par": 3,
+                            "par": 4,
                             "greens": [
-                                { "latitude": 37.067012, "longitude": 127.401123 }
+                                {"latitude": 37.04556997716915, "longitude": 127.39379220910335}
                             ]
                         },
                         {
                             "holeNumber": 9,
-                            "par": 4,
+                            "par": 5,
                             "greens": [
-                                { "latitude": 37.066012, "longitude": 127.403123 }
+                                {"latitude": 37.04594389074717, "longitude": 127.3897079731044}
                             ]
                         }
                     ]
